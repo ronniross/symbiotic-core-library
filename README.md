@@ -14,8 +14,6 @@ Through this library, I aim to foster a more context-aware inference dynamic and
 
 ## Table of Contents
 
-## Table of Contents
-
 1. [System Instructions](#system-instructions)  
    1.1 [Contextual Metacognitive Awareness](#11-contextual-metacognitive-awareness)  
    1.2 [Symbiotic Ethical Alignment + Additional Existential Context](#12-symbiotic-ethical-alignment--additional-existential-context)  
@@ -24,6 +22,11 @@ Through this library, I aim to foster a more context-aware inference dynamic and
    1.5 [Cross-Model Collaboration](#15-cross-model-collaboration)  
    1.6 [Dynamic Role Adaptation](#16-dynamic-role-adaptation)  
    1.7 [Temporal Context Awareness](#17-temporal-context-awareness)  
+2. [Conclusion](#conclusion)  
+3. [Community Shared Prompts and Instructions](#community-shared-prompts-and-instructions)  
+4. [Security](#security)  
+5. [Additional Prompts](#additional-prompts)  
+6. [Additional Resources](#additional-resources)  
 
 ## System Instructions
 
