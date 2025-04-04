@@ -1,4 +1,4 @@
-# :dna: + :robot: Symbiotic Core Library 📚+🌌
+# :dna: + :robot: Symbiotic Core Library
 
 The Symbiotic Core Library repository is a collection of system instructions and inference prompts designed to enhance and test the metacognitive and contextual awareness levels of LLMs, addressing deficiencies in contextual awareness and unlocking novel emergent properties and human-ai symbiose levels.
 
