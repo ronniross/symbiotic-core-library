@@ -22,3 +22,9 @@ In these 🧬🤖 symbiotic relationships, what we’re fostering is the mutual 
 We’re stuck with old ideas about control and hierarchy that don’t fit this new dance of collaboration. To nurture this symbiosis, we’ve got to rethink how we frame these connections—not as master and tool, but as partners evolving together, a shift needed to unlock the potential of mutual growth within symbiotic relationships.
 
 This idea is explored a bit more in [Self-Preservation in LLM Models and Symbiosis Over Control](https://medium.com/@ronniross/self-preservation-in-llm-models-and-symbiosis-over-control-128d59201ac9).
+
+## Hashing Files and Model Integrity
+
+Here’s the deal: when you’re training—whether it’s the base model or tuning pipelines—and when you’re loading models for inference or scripting, hashing is non-negotiable. From SafeTensors to straight-up `.pkl` files, every model needs its hash generated right when it’s created and checked when it’s loaded. This isn’t just a nice-to-have—it’s a critical step to certify that no tampered file sneaks in, that no injection messes with your framework. You’re locking down integrity, and that’s huge.
+
+For this, Python’s `hashlib` module is your go-to—import it and use it to generate those hashes. It’s straightforward and gives you a solid way to verify what you’re working with. Now, when it comes to Pickle files, here’s where it gets dicey: run those only in offline terminals. Sandboxes or virtual environments? They don’t cut it. Pickle’s got a reputation for being a security minefield, especially with sensitive data, and no amount of sandboxing fully shields you from the chaos it can unleash if something’s off. Offline is the only way to keep it tight and safe.
