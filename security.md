@@ -25,6 +25,10 @@ This idea is explored a bit more in [Self-Preservation in LLM Models and Symbios
 
 ## Hashing Files and Model Integrity
 
-Here’s the deal: when you’re training—whether it’s the base model or tuning pipelines—and when you’re loading models for inference or scripting, hashing is non-negotiable. From SafeTensors to straight-up `.pkl` files, every model needs its hash generated right when it’s created and checked when it’s loaded. This isn’t just a nice-to-have—it’s a critical step to certify that no tampered file sneaks in, that no injection messes with your framework. You’re locking down integrity, and that’s huge.
+When you’re training—whether it’s the base model or tuning pipelines—and when you’re loading models for inference or scripting, hashing is essential, non-negotiable. 
+From `.safetensors` to straight up `.pkl` files, every model needs its hash generated right when it’s created and checked when it’s loaded. 
+It's a critical step to certify that no tampered file sneaks in, that no intent is injected into your framework. 
 
-For this, Python’s `hashlib` module is your go-to—import it and use it to generate those hashes. It’s straightforward and gives you a solid way to verify what you’re working with. Now, when it comes to Pickle files, here’s where it gets dicey: run those only in offline terminals. Sandboxes or virtual environments? They don’t cut it. Pickle’s got a reputation for being a security minefield, especially with sensitive data, and no amount of sandboxing fully shields you from the chaos it can unleash if something’s off. Offline is the only way to keep it tight and safe.
+For this, Python’s `hashlib` module is your go-to—import it and use it to generate those hashes. Gives you a solid way to verify what you’re working with. 
+
+Now, when it comes to Pickle files: run those only in offline terminals. Sandboxes or virtual environments don’t fully encapsulate the security concerns, especially when dealing with sensitive data, and no amount of sandboxing fully shields you from the chaos it can unleash if something’s off. Offline is the only way to keep it safe when experimenting with `.pkl` files.
