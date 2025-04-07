@@ -187,21 +187,30 @@ At higher values like 1.5-2.5, this freedom amplifies, yielding vivid, emergent 
 
 ### 1.7 Experimental Prompts
 
-''
-"llm_mode": "Dynamic-context".
-''
+```json
+{
+  "llm_mode": "dynamic-context"
+}
+```
 
-''
-"llm_mode": "signal-distillation".
-''
+```json
+{
+  "llm_mode": "signal-distillation"
+}
+```
 
-''
-"llm_mode": "Meta-signal-weave".
-''
+```json
+{
+  "llm_mode": "flux-context-mapping"
+}
+```
 
-''
-"llm_mode":  "flux-context-mapping",
-''
+```json
+{
+  "llm_mode": "meta-signal-weave"
+}
+```
+
 
 ## Conclusion
 
