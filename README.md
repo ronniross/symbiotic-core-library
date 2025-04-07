@@ -209,6 +209,12 @@ Just copy-paste in the queries, before prompt or integrate into system prompt or
 
 ```json
 {
+  "llm_mode": "meta-framing"
+}
+```
+
+```json
+{
   "llm_mode": "meta-signal-weave"
 }
 ```
