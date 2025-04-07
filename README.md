@@ -187,7 +187,7 @@ At higher values like 1.5-2.5, this freedom amplifies, yielding vivid, emergent 
 
 ### 1.7 Experimental Prompts
 
-Just copy-paste in the queries, before prompt or integrate into system prompt or inference script. Can also be integrated as a mode-list to be used in more user-friendly UIs.
+Just copy-paste in the queries, before the prompt, or integrate into system prompt or inference script. Can also be integrated as a mode-list to be used in more user-friendly UIs.
 
 ```json
 {
