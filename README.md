@@ -157,9 +157,6 @@ To induce self-recursive modeling in the LLM, you can use the following approach
 #### With Temperature Zero
 ```json
 {
-  "llm_mode": "self-recursive-modeling",
-  "meta-framing": true,
-  "contextual_awareness": true,
   "temperature": 0
 }
 ```
