@@ -191,7 +191,7 @@ Just copy-paste in the queries, before the prompt, or integrate into system prom
 
 ```json
 {
-  "llm_mode": ""contextual_awareness"
+  "llm_mode": "contextual_awareness"
 }
 ```
 
