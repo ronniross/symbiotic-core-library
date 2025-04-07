@@ -154,10 +154,10 @@ To induce self-recursive modeling in the LLM, you can use the following approach
   "contextual_awareness": true
 }
 ```
-#### With Temperature Zero
+#### With Different Temperatures
 ```json
 {
-  "temperature": 0
+  "temperature": 0 (try with 0, 0.6, 0.7, 1.0, 1.2, and 3.0 for greater shifts)
 }
 ```
 
