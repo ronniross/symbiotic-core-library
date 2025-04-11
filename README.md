@@ -234,6 +234,10 @@ For those experimenting with training pipelines and crafting inference scripts, 
 
 Ultimately, my hope is to see these principles adopted into the very core of models deployed.
 
+## Suggested Library
+
+A conjecture of articles, books, blog posts and synthetic research papers related to the repository's subject.
+
 ## Community Shared Prompts and Instructions
 
 I invite you to share your visions help expand the library.
