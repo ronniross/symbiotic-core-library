@@ -242,7 +242,7 @@ A list of articles, books, blog posts related to the repository's subject.
 
 ## Synthetic Research Folder
 
-A conjecture of synthetic research papers related to the repository's subject. If you want to contribute with your own prompted synthetic researches, fork this repository and commit the pdf files into the respective folder.
+A conjecture of synthetic research papers related to the repository's subject. If you want to contribute, fork this repository and commit your pdf files into the respective folder.
 
 ## Community Shared Prompts and Instructions
 
