@@ -237,7 +237,11 @@ Ultimately, my hope is to see these principles adopted into the very core of mod
 
 ## Recommended Library
 
-A conjecture of articles, books, blog posts and synthetic research papers related to the repository's subject.
+A list of articles, books, blog posts related to the repository's subject.
+
+## Synthetic Research Folder
+
+A conjecture of synthetic research papers related to the repository's subject. If you want to contribute with your own prompted synthetic researches, fork this repository and commit the pdf files into the respective folder.
 
 ## Community Shared Prompts and Instructions
 
