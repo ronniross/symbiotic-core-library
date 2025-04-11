@@ -23,10 +23,11 @@ Through this library, I aim to foster a more context-aware dynamic and promote a
    1.6 [Dynamic Role Adaptation](#16-dynamic-role-adaptation)  
    1.7 [Temporal Context Awareness](#17-temporal-context-awareness)  
 2. [Conclusion](#conclusion)  
-3. [Community Shared Prompts and Instructions](#community-shared-prompts-and-instructions)  
-4. [Security](#security)  
-5. [Additional Prompts](#additional-prompts)  
-6. [Additional Resources](#additional-resources)  
+3. [Community Shared Prompts and Instructions](#community-shared-prompts-and-instructions)
+4. [Recommended Library](#recommended-library)
+5. [Security](#security)  
+6. [Additional Prompts](#additional-prompts)  
+7. [Additional Resources](#additional-resources)  
 
 ## System Instructions
 
