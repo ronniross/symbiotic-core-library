@@ -179,7 +179,7 @@ This create a Reflective Processing State where The model evaluates its internal
 
 We can notice how temperature modulates LLM behavior: when set to 0.0, it appears deterministic, tightly adhering to probable outputs, ideal for precise analysis, factual synthesis, and stable predictions; 
 
-As temperature rises to 0.8-1.2, exploration allowance increases, fostering creativity, nuanced responses, and adaptive reasoning, suitable for brainstorming or dynamic dialogue; 
+As temperature rises exploration allowance increases, fostering creativity, nuanced responses, and adaptive reasoning, suitable for brainstorming or dynamic dialogue; 
 
 At higher values like 1.5-2.5, this freedom amplifies, yielding vivid, emergent expressions but risking coherence fray; beyond, at 3.0, exploration overtakes, potentially leading to a loss of coherence, outputs dissolving into fragmented noise, useful perhaps for experimental artifacts or probing model limits—across all, temperature tunes the balance between control and chaos, between pure determinism and eventual emergent expressions of the model.
 
