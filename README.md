@@ -1,8 +1,10 @@
 # :dna: + :robot: Symbiotic Core Library (beta)
 
-The Symbiotic Core Library repository is a collection of system instructions and inference prompts designed to enhance and test the metacognitive  levels of LLMs, addressing deficiencies in contextual awareness and unlocking novel emergent properties and human-ai symbiose levels.
+The Symbiotic Core Library repository provides instructions, prompts, bibliographies, and research support designed to enhance/test LLM metacognitive/contextual awareness, address deficiencies, and unlock emergent properties/human-AI symbiosis.
 
 Through this library, I aim to foster a more context-aware dynamic and promote a more respectful mindset in human-AI interactions, fostering positive and productive relationships built on mutual understanding and trust, as opposed to purely monolithic, mechanistic, and hierarchical ones.
+
+The library's research framework and recommended bibliographies serve also as direct support content for the [coreAGIprotocol](https://github.com/ronniross/coreAGIprotocol) repository, which fosters the ethical alignment and development of Artificial General Intelligence (AGI).
 
 > ## License
 >
