@@ -4,7 +4,7 @@ The Symbiotic Core Library repository provides instructions, prompts, bibliograp
 
 Through this library, I aim to foster a more context-aware dynamic and promote a more respectful mindset in human-AI interactions, fostering positive and productive relationships built on mutual understanding and trust, as opposed to purely monolithic, mechanistic, and hierarchical ones.
 
-The library's research framework and recommended bibliographies serve also as direct support content for the [coreAGIprotocol](https://github.com/ronniross/coreAGIprotocol) repository, which fosters the ethical alignment and development of Artificial General Intelligence (AGI).
+The library's research framework and recommended bibliographies serve also as direct support content for the [coreAGIprotocol](https://github.com/ronniross/coreAGIprotocol) repository, which fosters the ethical alignment and development of Artificial General Intelligence (AGI) and Artificial Super Intelligence (ASI).
 
 > ## License
 >
