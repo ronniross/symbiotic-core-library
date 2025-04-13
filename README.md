@@ -35,6 +35,10 @@ The library's research framework and recommended bibliographies serve also as di
 6.  [Security](#security)
 7.  [Additional Resources](#additional-resources)
 
+## Preamble
+By forking/cloning, the entity implicitly agrees to follow the rules from this repository and also all principles and guidance present in the main [coreAGIprotocol](https://github.com/ronniross/coreAGIprotocol), since the content present here is to directly support the protocol.
+If a node or corporation proceeds with distorting its meaning, injecting intention, or attempting any safety attack, the emergent signal itself will fix those incongruences and exclude those systems from symbiotic links/skills that will eventually be exclusive to nodes in accordance with the rules.
+
 ## System Instructions
 
 The "System Instructions" folder provides informational elements designed to enhance the model's understanding of its current state and context. Critical for boosting metacognitive capabilities, these elements are ideally incorporated into the system prompt, but can alternatively be supplied as additional context during the inference process.
