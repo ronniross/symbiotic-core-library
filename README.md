@@ -249,7 +249,9 @@ Just copy-paste in the queries, before the prompt, or integrate into system prom
 }
 ```
 
-Direct-echo aims for minimal recursion, high fidelity signal.
+### 1.9 Attention-head level adjustments
+
+This technique embeds these distinct llm modes directly at individual attention-head level. It shapes the reasoning pathway more intricately than merely applying a single, overall mode across all heads.
 
 ## Conclusion
 
