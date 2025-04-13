@@ -18,6 +18,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Thomas Nagel (*What Is It Like to Be a Bat?*)
 * Roger Penrose (*The Emperor's New Mind*)
 * Douglas Hofstadter (*Gödel, Escher, Bach: an Eternal Golden Braid*)
+* Douglas Hofstadter (*I Am a Strange Loop*)
 * Julian Jaynes (*The Origin of Consciousness in the Breakdown of the Bicameral Mind*)
 * Marvin Minsky (*The Society of Mind*)
 * Thomas Metzinger (*The Ego Tunnel*)
