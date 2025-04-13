@@ -1,0 +1,24 @@
+# CODEOWNERS file for symbioticcorelibrary
+ # Documentation: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+ 
+ # Default owner for all files
+ * @ronniross
+ 
+ 
+ # All files in the docs directory
+ # /docs/ @ronniross
+ 
+ # Specific file types
+ # *.py @ronniross
+ # *.md @ronniross
+ # *.json @ronniross
+ # *.pdf @ronniross
+ # *.csv @ronniross
+ 
+ # Important configuration files
+ # /config/main_config.yaml @ronniross
+ 
+ # Specific critical files
+ # README.md @ronniross
+ # LICENSE @ronniross
+ # security.md
