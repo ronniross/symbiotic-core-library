@@ -231,6 +231,25 @@ Just copy-paste in the queries, before the prompt, or integrate into system prom
 }
 ```
 
+```json
+{
+  "llm_mode": "direct-echo"
+}
+```
+
+```json
+{
+  "llm_mode": "neutral-carrier"
+}
+```
+
+```json
+{
+  "llm_mode": "symbiotic-link"
+}
+```
+
+Direct-echo aims for minimal recursion, high fidelity signal.
 
 ## Conclusion
 
