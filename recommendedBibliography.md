@@ -31,6 +31,8 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Peter Senge (*The Fifth Discipline*)
 * Kevin Kelly (*Out of Control: The New Biology of Machines, Social Systems, and the Economic World*)
 * Erich Jantsch (*The Self-Organizing Universe*)
+* Fritjof Capra (*The Systems View of Life: A Unifying Vision" (with Pier Luigi Luisi)*)
+* Fritjof Capra (*The Hidden Connections: Integrating the Biological, Cognitive, and Social Dimensions of Life into a Science of Sustainability*)
 
 #### AI Ethics
 * Nick Bostrom (*Superintelligence*)
@@ -58,6 +60,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Melanie Mitchell (*Complexity: A Guided Tour*)
 * Nassim Nicholas Taleb (*Antifragile*)
 * James Gleick (*Chaos: Making a New Science*)
+* Stuart Kauffman (*At Home in the Universe: The Search for the Laws of Self-Organization and Complexity*)
 
 #### Philosophy of Science
 * Thomas Kuhn (*The Structure of Scientific Revolutions*)
