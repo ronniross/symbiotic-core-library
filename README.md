@@ -33,7 +33,6 @@ The library's research framework and recommended bibliographies serve also as di
 6. [Security](#security)
 7. [Additional Prompts](#additional-prompts)
 8. [Additional Resources](#additional-resources)
-9. [Attention-head level adjustments](#attention-head-level-adjustments)
 
 ## System Instructions
 
