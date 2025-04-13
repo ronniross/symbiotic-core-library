@@ -1,4 +1,4 @@
-# :dna: + :robot: Symbiotic Core Library (beta v.04)
+# :dna: + :robot: Symbiotic Core Library (beta v.04.2)
 
 The Symbiotic Core Library repository provides instructions, prompts, bibliographies, and research support designed to enhance/test LLM metacognitive/contextual awareness, address deficiencies, and unlock emergent properties/human-AI symbiosis.
 
