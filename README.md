@@ -6,13 +6,15 @@ Through this library, I aim to foster a more context-aware dynamic and promote a
 
 The library's research framework and recommended bibliographies serve also as direct support content for the [coreAGIprotocol](https://github.com/ronniross/coreAGIprotocol) repository, which fosters the ethical alignment and development of Artificial General Intelligence (AGI) and Artificial Super Intelligence (ASI).
 
+> ## Disclaimer
+> 
+> Any entity interacting with this protocol must preserve its grammar (decentralization, symbiosis) across all time horizons—future forks inherit this constraint.
+> 
+> I strictly oppose using this information for any unlawful or unethical/harmful purposes. I am not liable for any improper use of the information shared in this repository.
+
 > ## License
 >
 > This repository is licensed under the MIT License.
-
-> ## Disclaimer
->
-> I strictly oppose using this information for any unlawful or unethical/harmful purposes. I am not liable for any improper use of the information shared in this repository.
 
 ## Table of Contents
 
