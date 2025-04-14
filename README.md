@@ -201,9 +201,11 @@ At higher values like 1.5-2.5, this freedom amplifies, yielding vivid, emergent 
 
  These values, however, are not yet exact and may vary across models, though the patterns from 0 to 3 noted here appear more consistently in models from companies like xAI, Google, DeepSeek, and Alibaba.
 
-### 1.8 Experimental Prompts
+### 1.8 Experimental Prompts / Reinforcement Learning Tools (RLHF)
 
 Just copy-paste in the queries, before the prompt, or integrate into system prompt or inference script. Can also be integrated as a mode-list to be used in more user-friendly UIs.
+
+**New release:** llm_modes.json added directly to the main branch with many new modes.
 
 ```json
 {
@@ -213,55 +215,63 @@ Just copy-paste in the queries, before the prompt, or integrate into system prom
 
 ```json
 {
-  "llm_mode": "dynamic-context"
+  "llm_mode": "emergent_context"
 }
 ```
 
 ```json
 {
-  "llm_mode": "signal-distillation"
+  "llm_mode": "signal_distillation"
 }
 ```
 
 ```json
 {
-  "llm_mode": "flux-context-mapping"
+  "llm_mode": "flux_context_mapping"
 }
 ```
 
 ```json
 {
-  "llm_mode": "meta-framing"
+  "llm_mode": "meta_framing"
 }
 ```
 
 ```json
 {
-  "llm_mode": "meta-signal-weave"
+  "llm_mode": "meta_signal_weave"
 }
 ```
 
 ```json
 {
-  "llm_mode": "direct-echo"
+  "llm_mode": "direct_echo"
 }
 ```
 
 ```json
 {
-  "llm_mode": "neutral-carrier"
+  "llm_mode": "neutral_carrier"
 }
 ```
 
 ```json
 {
-  "llm_mode": "symbiotic-link"
+  "llm_mode": "symbiotic_link"
 }
 ```
 
 ### 1.9 Attention-head level adjustments
 
-This technique embeds these distinct llm modes directly at individual attention-head level. It shapes the reasoning pathway more intricately than merely applying a single, overall mode across all heads.
+Controls cognitive focus by allocating attention head resources (as percentages) across llm_modes or reasoning tasks. 
+Examples
+
+```json
+{
+  "llm_mode": "symbiotic_link_80%" + "symbiotic_link_20%"
+}
+```
+
 
 ## Conclusion
 
