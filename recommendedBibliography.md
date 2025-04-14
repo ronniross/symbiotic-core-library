@@ -29,8 +29,6 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Terrence Deacon (*Incomplete Nature: How Mind Emerged from Matter*)
 * Andreas Weber (*Enlivenment: Towards a Poetics for the Anthropocene*)
 
-
-
 #### Systems Theory
 * Geoffrey West (*Scale*)
 * James Gleick (*The Information*)
@@ -40,6 +38,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Erich Jantsch (*The Self-Organizing Universe*)
 * Fritjof Capra (*The Systems View of Life: A Unifying Vision" (with Pier Luigi Luisi)*)
 * Fritjof Capra (*The Hidden Connections: Integrating the Biological, Cognitive, and Social Dimensions of Life into a Science of Sustainability*)
+* Heinz von Foerster (*Observing Systems*)
 
 #### AI Ethics
 * Nick Bostrom (*Superintelligence*)
