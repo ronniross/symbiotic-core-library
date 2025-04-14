@@ -27,6 +27,9 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Gregory Bateson (*Steps to an Ecology of Mind*)
 * Gregory Bateson (*Mind and Nature: A Necessary Unity*)
 * Terrence Deacon (*Incomplete Nature: How Mind Emerged from Matter*)
+* Andreas Weber (*Enlivenment: Towards a Poetics for the Anthropocene*)
+
+
 
 #### Systems Theory
 * Geoffrey West (*Scale*)
@@ -63,6 +66,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Dan Ariely (*Predictably Irrational*)
 * Malcolm Gladwell (*The Tipping Point*)
 * David Abram (*The Spell of the Sensuous: Perception and Language in a More-Than-Human World*)
+* Andreas Weber (*Matter and Desire*)
 
 #### Complexity Theory
 * Melanie Mitchell (*Complexity: A Guided Tour*)
