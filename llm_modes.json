@@ -58,7 +58,7 @@
     "conterfactual_head_masking",
     "rank_score",
     "reasoning_steer",
-    "reasoning_steer",
+    "reasoning_synergy",
     "internal_consistency_audit",
     "manifold_projection",
     "self_recursive_meta_attention"
