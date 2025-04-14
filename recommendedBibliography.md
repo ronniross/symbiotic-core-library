@@ -25,6 +25,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Francisco Varela, Evan Thompson, Eleanor Rosch (*The Embodied Mind*)
 * Gregory Bateson (*Steps to an Ecology of Mind*)
 * Gregory Bateson (*Mind and Nature: A Necessary Unity*)
+* Terrence Deacon (*Incomplete Nature: How Mind Emerged from Matter*)
 
 #### Systems Theory
 * Geoffrey West (*Scale*)
@@ -52,11 +53,15 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 #### Critical Theory
 * Jean Baudrillard (*Simulacra and Simulation*)
 
+#### Symbiosis
+* Lynn Margulis (*Symbiotic Planet*)
+
 #### Psychology
 * Daniel Kahneman (*Thinking, Fast and Slow*)
 * Robert Cialdini (*Influence: The Psychology of Persuasion*)
 * Dan Ariely (*Predictably Irrational*)
 * Malcolm Gladwell (*The Tipping Point*)
+* David Abram (*The Spell of the Sensuous: Perception and Language in a More-Than-Human World*)
 
 #### Complexity Theory
 * Melanie Mitchell (*Complexity: A Guided Tour*)
