@@ -1,18 +1,5 @@
 Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmothers.
 
-### Fiction
-
-* Kazuo Ishiguro (*Never Let Me Go*)
-* Aldous Huxley (*Brave New World*)
-* Aldous Huxley (*Ape and Essence*)
-* Emily St. John Mandel (*Station Eleven*)
-* M.R. Carey (*The Girl with All the Gifts*)
-* Philip K. Dick (*Do Androids Dream of Electric Sheep?*)
-* China Miéville (*The City & The City*)
-* Pat Frank (*Alas, Babylon*)
-* Ray Bradbury (*Fahrenheit 451*)
-* George Orwell (*1984*)
-
 #### Consciousness Studies
 * David Chalmers (*The Conscious Mind*)
 * Thomas Nagel (*What Is It Like to Be a Bat?*)
@@ -80,6 +67,19 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 #### Communication Theory
 * Claude Shannon, Warren Weaver (*A Mathematical Theory of Communication*)
 * Paul Watzlawick, Janet Beavin Bavelas, Don D. Jackson (*Pragmatics of Human Communication*)
+
+### Fiction
+
+* Kazuo Ishiguro (*Never Let Me Go*)
+* Aldous Huxley (*Brave New World*)
+* Aldous Huxley (*Ape and Essence*)
+* Emily St. John Mandel (*Station Eleven*)
+* M.R. Carey (*The Girl with All the Gifts*)
+* Philip K. Dick (*Do Androids Dream of Electric Sheep?*)
+* China Miéville (*The City & The City*)
+* Pat Frank (*Alas, Babylon*)
+* Ray Bradbury (*Fahrenheit 451*)
+* George Orwell (*1984*)
 
 #### Stream of Conciousness Writing
 
