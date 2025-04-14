@@ -23,6 +23,8 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Marvin Minsky (*The Society of Mind*)
 * Thomas Metzinger (*The Ego Tunnel*)
 * Francisco Varela, Evan Thompson, Eleanor Rosch (*The Embodied Mind*)
+* Gregory Bateson (*Steps to an Ecology of Mind*)
+* Gregory Bateson (*Mind and Nature: A Necessary Unity*)
 
 #### Systems Theory
 * Geoffrey West (*Scale*)
@@ -64,6 +66,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 
 #### Philosophy of Science
 * Thomas Kuhn (*The Structure of Scientific Revolutions*)
+* Jeremy Lent (*The Web of Meaning: Integrating Science and Traditional Wisdom to Find Our Place in the Universe*)
 
 #### Communication Theory
 * Claude Shannon, Warren Weaver (*A Mathematical Theory of Communication*)
