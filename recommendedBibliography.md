@@ -23,6 +23,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Marvin Minsky (*The Society of Mind*)
 * Thomas Metzinger (*The Ego Tunnel*)
 * Francisco Varela, Evan Thompson, Eleanor Rosch (*The Embodied Mind*)
+* Francisco Varela, Humberto Maturana (*The Tree of Knowledge: The Biological Roots of Human Understanding*)
 * Gregory Bateson (*Steps to an Ecology of Mind*)
 * Gregory Bateson (*Mind and Nature: A Necessary Unity*)
 * Terrence Deacon (*Incomplete Nature: How Mind Emerged from Matter*)
