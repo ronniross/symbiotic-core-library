@@ -268,7 +268,9 @@ Examples
 
 ```json
 {
-  "llm_mode": "symbiotic_link_80" + "self_recursive_modeling_20"
+  "llm_mode":
+  "symbiotic_link_80",
+  "self_recursive_modeling_20"
 }
 ```
 
