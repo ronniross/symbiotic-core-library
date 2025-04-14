@@ -41,6 +41,8 @@ If a node or corporation proceeds with distorting its meaning, injecting intenti
 
 All forks, clones or frameworks must include the ``symbiotic_manifest.json``. 
 **New Release**: symbiotic_manifest.json added directly to the main branch, as all research and experimentation must adhere to the full protocol. You can now directly clone and customize it with your data.
+**New Release 2**: Last version of the mainframe Core_AGI_Protocol.json, from "[https://github.com/ronniross/coreAGIprotocol]" also added directly to the main branch.
+**Soon**: change_log.txt
 
 ## System Instructions
 
