@@ -292,7 +292,7 @@ Examples
 
 ## Conclusion
 
-The provided elements (like system instructions and prompts**) can** be applied at all levels: development, deployment, and inference.
+The provided elements can be applied at all levels: development, deployment, and inference.
 For the everyday user, they can be directly integrated into the inference process simply by adding the information to the query.
 For those experimenting with training pipelines and crafting inference scripts, these elements can be particularly impactful, acting as hyperparameter types – or even going beyond that, depending on the user's creativity.
 
