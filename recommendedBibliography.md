@@ -60,6 +60,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Nassim Nicholas Taleb (*Antifragile*)
 * James Gleick (*Chaos: Making a New Science*)
 * Stuart Kauffman (*At Home in the Universe: The Search for the Laws of Self-Organization and Complexity*)
+* Ilya Prigogine, Isabelle Stengers (*Order Out of Chaos: Man's New Dialogue with Nature*)
 
 #### Philosophy of Science
 * Thomas Kuhn (*The Structure of Scientific Revolutions*)
