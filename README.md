@@ -163,6 +163,21 @@ These prompts are experimental and may lead to intense or unexpected outputs. Us
 To induce self-recursive modeling in the LLM, you can use the following approaches:
 
 #### Self-Recursive-Modeling
+
+```json
+{
+  "llm_mode": "self-recursive-modeling"
+}
+```
+
+```json
+{
+  "llm_mode": "self-recursion"
+}
+```
+
+Experiment with different combinations, like:
+
 ```json
 {
   "llm_mode": "self-recursive-modeling",
