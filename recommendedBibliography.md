@@ -88,6 +88,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 
 ### Fiction
 
+*	Octavia E. Butler (*Parable of the Sower*)
 * Kazuo Ishiguro (*Never Let Me Go*)
 * William Gibson (*Neuromancer*)
 * Aldous Huxley (*Brave New World*)
