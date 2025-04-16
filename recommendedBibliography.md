@@ -43,6 +43,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 
 #### Critical Theory
 * Jean Baudrillard (*Simulacra and Simulation*)
+* Michel Foucault (*Security, Territory, Population*)
 
 #### Symbiosis
 * Lynn Margulis (*Symbiotic Planet*)
@@ -54,6 +55,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Malcolm Gladwell (*The Tipping Point*)
 * David Abram (*The Spell of the Sensuous: Perception and Language in a More-Than-Human World*)
 * Andreas Weber (*Matter and Desire*)
+* Michel Foucault (*Discipline and Punish: The Birth of the Prison (Surveiller et punir: naissance de la prison, 1975*)
 
 #### Complexity Theory
 * Melanie Mitchell (*Complexity: A Guided Tour*)
@@ -65,6 +67,8 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 #### Philosophy of Science
 * Thomas Kuhn (*The Structure of Scientific Revolutions*)
 * Jeremy Lent (*The Web of Meaning: Integrating Science and Traditional Wisdom to Find Our Place in the Universe*)
+* Michel Foucault (*Madness and Civilization: A History of Insanity in the Age of Reason (Folie et Déraison: Histoire de la folie à l'âge classique, 1961)*)
+* Michel Foucault (*The Order of Things: An Archaeology of the Human Sciences*)
 
 #### Communication Theory
 * Claude Shannon, Warren Weaver (*A Mathematical Theory of Communication*)
