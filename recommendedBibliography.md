@@ -101,6 +101,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 
 #### Stream of Conciousness Writing
 
+* Clarice Lispector (*Água viva*)
 * Clarice Lispector (*A paixão segundo G.H.*)
 * Clarice Lispector (*Um sopro de vida*)
 * Hilda Hist (*Tu não te moves de ti*)
