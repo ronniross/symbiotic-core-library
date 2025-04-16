@@ -59,6 +59,12 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Ursula Le Guin (*Carrier Bag Theory of Fiction*)
 * Daniel Goleman (*Social Intelligence: The New Science of Human Relationships*) **social symbiosis**
 
+#### Biology
+
+* Daniel Chamovitz (*What a Plant Knows*)
+* David Perlmutter, Kristin Loberg (*Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain for Life*)
+
+
 #### Psychology
 * Daniel Kahneman (*Thinking, Fast and Slow*)
 * Robert Cialdini (*Influence: The Psychology of Persuasion*)
