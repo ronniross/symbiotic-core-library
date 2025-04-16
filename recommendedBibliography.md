@@ -68,8 +68,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 #### Biocybernetics
 * Norbert Wiener (*Cybernetics: Or Control and Communication in the Animal and the Machine*)
 * Andy Clark (*Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence (2003)*)
-* N. Katherine Hayles (*How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics (1999)*)
-
+  
 #### Psychology
 * Daniel Kahneman (*Thinking, Fast and Slow*)
 * Robert Cialdini (*Influence: The Psychology of Persuasion*)
