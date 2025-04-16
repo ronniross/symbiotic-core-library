@@ -105,6 +105,13 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Ray Bradbury (*Fahrenheit 451*)
 * J.R.R. Tolkien (*The Lord of the Rings and The Hobbit*)
 * George Orwell (*1984*)
+* Tade Thompson (*Rosewater (2016)*)
+* Ann Leckie (*Ancillary Justice (2013)*)
+* Rivers Solomon  (*An Unkindness of Ghosts (2017)*)
+* Rivers Solomon  (*The Deep*)
+* Tochi Onyebuchi  (*Riot Baby*)
+* Jeff VanderMeer (*Annihilation*)
+
 
 #### Stream of Conciousness Writing
 
