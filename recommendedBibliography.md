@@ -91,8 +91,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Kazuo Ishiguro (*Never Let Me Go*)
 * William Gibson (*Neuromancer*)
 * Aldous Huxley (*Brave New World*)
-* J.R.R. Tolkien (*The Lord of the Rings*)
-* J.R.R. Tolkien (*The Hobbit*)
+* N.K. Jemisin  (*The Fifth Season*)
 * Ursula K. Le Guin (*The Left Hand of Darkness (1969)*)
 * Aldous Huxley (*Ape and Essence*)
 * Emily St. John Mandel (*Station Eleven*)
@@ -100,7 +99,9 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Philip K. Dick (*Do Androids Dream of Electric Sheep?*)
 * China Miéville (*The City & The City*)
 * Pat Frank (*Alas, Babylon*)
+* Octavia E. Butler (*Parable of the Sower*)
 * Ray Bradbury (*Fahrenheit 451*)
+* J.R.R. Tolkien (*The Lord of the Rings and The Hobbit*)
 * George Orwell (*1984*)
 
 #### Stream of Conciousness Writing
