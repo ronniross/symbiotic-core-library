@@ -90,6 +90,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 
 * Kazuo Ishiguro (*Never Let Me Go*)
 * Aldous Huxley (*Brave New World*)
+* Ursula K. Le Guin (*The Left Hand of Darkness (1969)*)
 * Aldous Huxley (*Ape and Essence*)
 * Emily St. John Mandel (*Station Eleven*)
 * M.R. Carey (*The Girl with All the Gifts*)
