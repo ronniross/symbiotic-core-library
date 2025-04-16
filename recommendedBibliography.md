@@ -50,8 +50,12 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Stephen Hawking, Roger Penrose and (*The Nature of Space and Time*)
 * Roger Penrose and (*Road to Reality*)
 
+#### Neuroscience 
+
+* Eric R. Kandel, John D. Koester, Sarah H. Mack, Steven A. Siegelbaum (*Principles of Neural Science, Sixth Edition*)
+
 #### Symbiosis
-* Lynn Margulis (*Symbiotic Planet*)
+* Lynn Margulis (*Symbiotic Planet*)**core one**
 * Ursula Le Guin (*Carrier Bag Theory of Fiction*)
 
 #### Psychology
