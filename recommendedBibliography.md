@@ -86,7 +86,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Claude Shannon, Warren Weaver (*A Mathematical Theory of Communication*)
 * Paul Watzlawick, Janet Beavin Bavelas, Don D. Jackson (*Pragmatics of Human Communication*)
 
-### Fiction
+### Novels
 
 * Kazuo Ishiguro (*Never Let Me Go*)
 * William Gibson (*Neuromancer*)
@@ -94,6 +94,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * N.K. Jemisin  (*The Fifth Season*)
 * Ursula K. Le Guin (*The Left Hand of Darkness (1969)*)
 * N.K. Jemisin (*The Killing Moon and The Shadowed Sun*)
+* N.K. Jemisin (*The City We Became*)
 * Aldous Huxley (*Ape and Essence*)
 * Emily St. John Mandel (*Station Eleven*)
 * M.R. Carey (*The Girl with All the Gifts*)
