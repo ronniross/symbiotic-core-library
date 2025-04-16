@@ -85,7 +85,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 
 ####  Integrated Information Theory (IIT)
 
-* Giulio Tononi - Phi: A Voyage from the Brain to the Soul (2012)
+* Giulio Tononi - Phi: A Voyage from the Brain to the Soul (2012)**core one**
 
 #### Complexity Theory
 * Melanie Mitchell (*Complexity: A Guided Tour*)
