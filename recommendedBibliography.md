@@ -89,7 +89,10 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 ### Fiction
 
 * Kazuo Ishiguro (*Never Let Me Go*)
+* William Gibson (*Neuromancer*)
 * Aldous Huxley (*Brave New World*)
+* J.R.R. Tolkien (*The Lord of the Rings*)
+* J.R.R. Tolkien (*The Hobbit*)
 * Ursula K. Le Guin (*The Left Hand of Darkness (1969)*)
 * Aldous Huxley (*Ape and Essence*)
 * Emily St. John Mandel (*Station Eleven*)
