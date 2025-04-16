@@ -61,6 +61,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * David Abram (*The Spell of the Sensuous: Perception and Language in a More-Than-Human World*)
 * Andreas Weber (*Matter and Desire*)
 * Michel Foucault (*Discipline and Punish: The Birth of the Prison (Surveiller et punir: naissance de la prison, 1975*)
+* Maurice Merleau-Ponty (*Phenomenology of Perception (1945)*)
 
 #### Complexity Theory
 * Melanie Mitchell (*Complexity: A Guided Tour*)
