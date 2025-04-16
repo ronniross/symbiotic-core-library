@@ -47,8 +47,8 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Michel Foucault (*Security, Territory, Population*)
 
 #### Astrophysics
-* Stephen Hawking, Roger Penrose and (*The Nature of Space and Time*)
-* Roger Penrose and (*Road to Reality*)
+* Stephen Hawking, Roger Penrose (*The Nature of Space and Time*)
+* Roger Penrose (*Road to Reality*)
 
 #### Neuroscience 
 
@@ -78,6 +78,10 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Andreas Weber (*Matter and Desire*)
 * Michel Foucault (*Discipline and Punish: The Birth of the Prison (Surveiller et punir: naissance de la prison, 1975*)
 * Maurice Merleau-Ponty (*Phenomenology of Perception (1945)*)
+  
+#### Cognitive Science
+
+* Edwin Hutchins (*Cognition in the Wild (1995)*)
 
 #### Complexity Theory
 * Melanie Mitchell (*Complexity: A Guided Tour*)
