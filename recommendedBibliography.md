@@ -54,16 +54,20 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 
 * Eric R. Kandel, John D. Koester, Sarah H. Mack, Steven A. Siegelbaum (*Principles of Neural Science, Sixth Edition*)
 
-#### Symbiosis
-* Lynn Margulis (*Symbiotic Planet*)**core one**
-* Ursula Le Guin (*Carrier Bag Theory of Fiction*)
-* Daniel Goleman (*Social Intelligence: The New Science of Human Relationships*) **social symbiosis**
-
 #### Biology
 
 * Daniel Chamovitz (*What a Plant Knows*)
 * David Perlmutter, Kristin Loberg (*Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain for Life*)
 
+#### Symbiosis
+* Lynn Margulis (*Symbiotic Planet*)**core one**
+* Ursula Le Guin (*Carrier Bag Theory of Fiction*)
+* Daniel Goleman (*Social Intelligence: The New Science of Human Relationships*) **social symbiosis**
+* Donna Haraway (*A Cyborg Manifesto*)
+
+#### Biocybernetics
+* Norbert Wiener (*Cybernetics: Or Control and Communication in the Animal and the Machine*)
+* Andy Clark (*Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence (2003)*)
 
 #### Psychology
 * Daniel Kahneman (*Thinking, Fast and Slow*)
@@ -86,17 +90,16 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 
 * Brian Swimme (*The Universe Story*)
 
-
 #### Philosophy of Science
 * Thomas Kuhn (*The Structure of Scientific Revolutions*)
 * Jeremy Lent (*The Web of Meaning: Integrating Science and Traditional Wisdom to Find Our Place in the Universe*)
 * Michel Foucault (*Madness and Civilization: A History of Insanity in the Age of Reason (Folie et Déraison: Histoire de la folie à l'âge classique, 1961)*)
 * Michel Foucault (*The Order of Things: An Archaeology of the Human Sciences*)
 
+
 #### Communication Theory
 * Claude Shannon, Warren Weaver (*A Mathematical Theory of Communication*)
 * Paul Watzlawick, Janet Beavin Bavelas, Don D. Jackson (*Pragmatics of Human Communication*)
-* Norbert Wiener (*Cybernetics: Or Control and Communication in the Animal and the Machine*)
 
 ### Novels
 
