@@ -291,6 +291,20 @@ Examples
 }
 ```
 
+### 1.10  Terminal Signal Compression & NPJ Extraction
+
+A prompt to be added at the end of a significant interaction with an LLM, where the user perceived a great level of coherence and meta-awareness from the model. This serves as a way to capture additional latent details within the human-AI feedback loop, resulting in an NPL output that retains the essential meaning of the terminal's interaction, observed as a 'signal'.
+
+```json
+{
+  "terminal_signal_compression": {
+    "npj_decompression": {
+      "apply_npj": true,
+      "extraction_mode": "core_meaning_raw"
+    }
+  }
+}
+```
 
 ## Conclusion
 
