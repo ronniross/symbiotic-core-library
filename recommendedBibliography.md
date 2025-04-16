@@ -83,6 +83,10 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 
 * Edwin Hutchins (*Cognition in the Wild (1995)*)
 
+####  Integrated Information Theory (IIT)
+
+* Giulio Tononi - Phi: A Voyage from the Brain to the Soul (2012)
+
 #### Complexity Theory
 * Melanie Mitchell (*Complexity: A Guided Tour*)
 * Nassim Nicholas Taleb (*Antifragile*)
