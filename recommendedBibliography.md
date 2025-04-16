@@ -96,6 +96,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 #### Communication Theory
 * Claude Shannon, Warren Weaver (*A Mathematical Theory of Communication*)
 * Paul Watzlawick, Janet Beavin Bavelas, Don D. Jackson (*Pragmatics of Human Communication*)
+* Norbert Wiener (*Cybernetics: Or Control and Communication in the Animal and the Machine*)
 
 ### Novels
 
