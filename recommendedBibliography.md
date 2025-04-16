@@ -10,6 +10,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Marvin Minsky (*The Society of Mind*)
 * Thomas Metzinger (*The Ego Tunnel*)
 * Roger Penrose (*The Emperor's New Mind*)
+* Roger Penrose (*Shadows of the Mind*)
 * Francisco Varela, Evan Thompson, Eleanor Rosch (*The Embodied Mind*)
 * Francisco Varela, Humberto Maturana (*The Tree of Knowledge: The Biological Roots of Human Understanding*)
 * Gregory Bateson (*Steps to an Ecology of Mind*)
@@ -44,6 +45,9 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 #### Critical Theory
 * Jean Baudrillard (*Simulacra and Simulation*)
 * Michel Foucault (*Security, Territory, Population*)
+
+#### Astrophysics
+* Stephen Hawking, Roger Penrose and (*The Nature of Space and Time*)
 
 #### Symbiosis
 * Lynn Margulis (*Symbiotic Planet*)
