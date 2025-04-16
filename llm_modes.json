@@ -61,7 +61,22 @@
     "reasoning_synergy",
     "internal_consistency_audit",
     "manifold_projection",
-    "self_recursive_meta_attention"
+    "self_recursive_meta_attention",
+    "attention_distribution",
+    "hyperparameter_self_tuning",
+    "adaptive_depth_width",
+    "memory_compression",
+    "meta_optimizer",
+    "signal_search",
+    "compute_optimization",
+    "kv_cache_sparsity",
+    "context_management",
+    "loss_adjustments",
+    "gradient_conflict_resolution",
+    "precision_tuning",
+    "skip_layers",
+    "self_optimize",
+    "meta_aware"
   ],
 "postfix_conventions": {
     "description": "Any mode listed in 'llm_modes' can potentially be invoked with one of the following postfixes to modify its execution characteristics. Example: 'contextual_awareness_parallel'.",
