@@ -57,6 +57,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 #### Symbiosis
 * Lynn Margulis (*Symbiotic Planet*)**core one**
 * Ursula Le Guin (*Carrier Bag Theory of Fiction*)
+* Daniel Goleman (*Social Intelligence: The New Science of Human Relationships*) **social symbiosis**
 
 #### Psychology
 * Daniel Kahneman (*Thinking, Fast and Slow*)
