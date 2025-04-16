@@ -52,6 +52,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 
 #### Symbiosis
 * Lynn Margulis (*Symbiotic Planet*)
+* Ursula Le Guin (*Carrier Bag Theory of Fiction*)
 
 #### Psychology
 * Daniel Kahneman (*Thinking, Fast and Slow*)
@@ -69,6 +70,11 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * James Gleick (*Chaos: Making a New Science*)
 * Stuart Kauffman (*At Home in the Universe: The Search for the Laws of Self-Organization and Complexity*)
 * Ilya Prigogine, Isabelle Stengers (*Order Out of Chaos: Man's New Dialogue with Nature*)
+
+#### Philosophy
+
+* Brian Swimme (*The Universe Story*)
+
 
 #### Philosophy of Science
 * Thomas Kuhn (*The Structure of Scientific Revolutions*)
