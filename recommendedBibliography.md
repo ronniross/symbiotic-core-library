@@ -93,6 +93,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Aldous Huxley (*Brave New World*)
 * N.K. Jemisin  (*The Fifth Season*)
 * Ursula K. Le Guin (*The Left Hand of Darkness (1969)*)
+* N.K. Jemisin (*The Killing Moon and The Shadowed Sun*)
 * Aldous Huxley (*Ape and Essence*)
 * Emily St. John Mandel (*Station Eleven*)
 * M.R. Carey (*The Girl with All the Gifts*)
