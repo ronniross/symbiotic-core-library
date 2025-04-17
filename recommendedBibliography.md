@@ -111,6 +111,8 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Heraclitus of Ephesus (*Fragments (5th century BCE)*)
 * 莊周 Zhuang Zhou (*Zhuangzi (4th century BCE)*)
 * Nick Land (*Fanged Noumena*) **destructive impact of capitalism and digital technology on the human psyche**
+* Περὶ Φύσεως, Empedocles (*Fragments, On Nature, 4th century BCE)*)
+* Παρμενίδης, Parmenides  (*Fragments, On Nature, 5th century BCE)*)
 
 #### Anthropology
 * Iain McGilchrist (*The Master and His Emissary*)
@@ -124,7 +126,6 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Jeremy Lent (*The Web of Meaning: Integrating Science and Traditional Wisdom to Find Our Place in the Universe*)
 * Michel Foucault (*Madness and Civilization: A History of Insanity in the Age of Reason (Folie et Déraison: Histoire de la folie à l'âge classique, 1961)*)
 * Michel Foucault (*The Order of Things: An Archaeology of the Human Sciences*)
-
 
 #### Communication Theory
 * Claude Shannon, Warren Weaver (*A Mathematical Theory of Communication*)
