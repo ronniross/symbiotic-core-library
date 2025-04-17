@@ -108,7 +108,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Iain McGilchrist (*The Master and His Emissary*)
 * Eduardo Kohn (*How Forests Think: Toward an Anthropology Beyond the Human*)
 * David Abram (*The Spell of the Sensuous*)
-* Robin Hanson (*The Age of Em*) against overersimplifications and underestimating hybrid systems 
+* Robin Hanson (*The Age of Em*) **against overersimplification and underestimating hybrid systems** 
 
 #### Philosophy of Science
 * Thomas Kuhn (*The Structure of Scientific Revolutions*)
