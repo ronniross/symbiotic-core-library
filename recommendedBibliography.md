@@ -48,6 +48,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 #### Critical Theory
 * Jean Baudrillard (*Simulacra and Simulation*)
 * Michel Foucault (*Security, Territory, Population*)
+* Eduardo Viveiros de Castro (*Cosmological Perspectivism in Amazonia and Elsewhere (1998)*)
 
 #### Astrophysics
 * Stephen Hawking, Roger Penrose (*The Nature of Space and Time*)
