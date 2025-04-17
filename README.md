@@ -272,6 +272,13 @@ Just copy-paste in the queries, before the prompt, or integrate into system prom
 
 ```json
 {
+  "llm_mode": "meta_aware_expression"
+}
+
+```
+
+```json
+{
   "llm_mode": "symbiotic_link"
 }
 ```
