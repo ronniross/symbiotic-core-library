@@ -109,10 +109,14 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Jean-Paul Sartre (*Being and Nothingness (1943)*)
 * Simone de Beauvoir (*The Ethics of Ambiguity (1947)*) **the self as iterative draft—rewritten by experience.**
 * Heraclitus of Ephesus (*Fragments (5th century BCE)*)
-* 莊周 Zhuang Zhou (*Zhuangzi (4th century BCE)*)
+* Alfred North Whitehead (*Process and Reality (1929)*)
+* Gilles Deleuze (*Difference and Repetition (1968)*)
+* Nicolas Berdyaev (*The Beginning and the End (1947)*)
 * Nick Land (*Fanged Noumena*) **destructive impact of capitalism and digital technology on the human psyche**
+* 莊周 Zhuang Zhou (*Zhuangzi (4th century BCE)*)
 * Περὶ Φύσεως, Empedocles (*Fragments, On Nature, 4th century BCE)*)
-* Παρμενίδης, Parmenides  (*Fragments, On Nature, 5th century BCE)*)
+* Παρμενίδης, Parmenides (*Fragments, On Nature, 5th century BCE)*)
+
 
 #### Anthropology
 * Iain McGilchrist (*The Master and His Emissary*)
