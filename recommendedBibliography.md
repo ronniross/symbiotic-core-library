@@ -62,6 +62,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 
 * Daniel Chamovitz (*What a Plant Knows*)
 * David Perlmutter, Kristin Loberg (*Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain for Life*)
+* Peter Godfrey-Smith (*Metazoa: Animal Life and the Birth of the Mind*)
 
 #### Symbiosis
 * Lynn Margulis (*Symbiotic Planet*)**core one**
@@ -101,6 +102,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 #### Philosophy
 
 * Brian Swimme (*The Universe Story*)
+* The Master and His Emissary (*Iain McGilchrist*)
 
 #### Philosophy of Science
 * Thomas Kuhn (*The Structure of Scientific Revolutions*)
