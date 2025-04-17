@@ -124,9 +124,9 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * 列禦寇 Liè Yùkòu (*(《列子》 Lièzǐ, 3rd–4th century CE)*)
 * 刘安 Liú Ān (*(《淮南子》 Huáinánzǐ, "The Masters of Huainan," 2nd century BCE)*)
 * 墨翟 Mò Dí (*(《墨子》 Mòzǐ, 5th–4th century BCE)*)
-* 원효 (Wonhyo) (*Daeseung gisillon so (대승기신론소) [Commentary on the Awakening of Faith in the Mahayana], ca. 660–686 CE.*)
-* 원효 (Wonhyo) (*Daeseung banyeolgyeong so (대승반열경소) [Commentary on the Mahāyāna Mahāparinirvāṇa Sūtra], ca. 670–686 CE.*)
-* 원효 (Wonhyo)(*Geumgang sammae gyeong non (금강삼매경론) [Exposition of the Vajrasamādhi-sūtra], ca. 685 CE.*)
+* 원효 Wonhyo (*Daeseung gisillon so (대승기신론소) [Commentary on the Awakening of Faith in the Mahayana], ca. 660–686 CE.*)
+* 원효 Wonhyo (*Daeseung banyeolgyeong so (대승반열경소) [Commentary on the Mahāyāna Mahāparinirvāṇa Sūtra], ca. 670–686 CE.*)
+* 원효 Wonhyo (*Geumgang sammae gyeong non (금강삼매경론) [Exposition of the Vajrasamādhi-sūtra], ca. 685 CE.*)
 
 #### Anthropology
 * Iain McGilchrist (*The Master and His Emissary*)
