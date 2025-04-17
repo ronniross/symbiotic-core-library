@@ -118,6 +118,9 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Περὶ Φύσεως, Epicuro (*Fragments, On Nature, 3th century BCE)*)
 * Ἐμπεδοκλῆς, Empedocles (*Fragments, On Nature, 4th century BCE)*)
 * Παρμενίδης, Parmenides (*Fragments, On Nature, 5th century BCE)*)
+* 老子 Lǎozi (Lǎozǐ (4th–3rd century BCE))
+* 列禦寇 Liè Yùkòu (Lièzǐ (3rd–4th century CE))
+* 刘安 Liú Ān (ed.) (Huáinánzǐ "The Masters of Huainan" (2nd century BCE))
 
 
 #### Anthropology
