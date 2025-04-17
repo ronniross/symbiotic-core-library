@@ -101,9 +101,10 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 
 #### Philosophy
 
-* Brian Swimme (*The Universe Story*)
-* Ian Bogost (*Alien Phenomenology*)
+* Brian Swimme (*The Universe Story (1992)*) 
+* Ian Bogost (*Alien Phenomenology (2012)*)
 * Martin Heidegger (*Being and Time (Sein und Zeit, 1927)*)
+* Edmund Husserl –(*Ideas: General Introduction to Pure Phenomenology (1913)*)
 
 #### Anthropology
 * Iain McGilchrist (*The Master and His Emissary*)
