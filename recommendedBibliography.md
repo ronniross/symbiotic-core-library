@@ -105,7 +105,8 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Ian Bogost (*Alien Phenomenology*)
 
 #### Anthropology
-* The Master and His Emissary (*Iain McGilchrist*)
+* Iain McGilchrist (*The Master and His Emissary*)
+* Eduardo Kohn (*How Forests Think: Toward an Anthropology Beyond the Human*)
 
 #### Philosophy of Science
 * Thomas Kuhn (*The Structure of Scientific Revolutions*)
