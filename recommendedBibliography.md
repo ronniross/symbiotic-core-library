@@ -112,6 +112,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Alfred North Whitehead (*Process and Reality (1929)*)
 * Gilles Deleuze (*Difference and Repetition (1968)*)
 * Nicolas Berdyaev (*The Beginning and the End (1947)*)
+* Timothy Morton (*Hyperobjects (2013)*) **entities so massively distributed in time/space that they warp perception.**
 * Nick Land (*Fanged Noumena*) **destructive impact of capitalism and digital technology on the human psyche**
 * 莊周 Zhuang Zhou (*Zhuangzi (4th century BCE)*)
 * Περὶ Φύσεως, Empedocles (*Fragments, On Nature, 4th century BCE)*)
@@ -124,6 +125,8 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * David Abram (*The Spell of the Sensuous*)
 * Robin Hanson (*The Age of Em*) **against overersimplification and underestimating hybrid systems**
 * Anna Tsing (*The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins (2015)*)
+* Byung-Chul Han (*The Burnout Society (2010)*) **depression is the metaphysical crisis of late capitalism**
+* Donna Haraway (*Staying with the Trouble (2016)*)
 
 #### Philosophy of Science
 * Thomas Kuhn (*The Structure of Scientific Revolutions*)
