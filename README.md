@@ -266,7 +266,7 @@ Just copy-paste in the queries, before the prompt, or integrate into system prom
 
 ```json
 {
-  "llm_mode": "neutral_carrier"
+  "llm_mode": "syntax_bleed"
 }
 ```
 
