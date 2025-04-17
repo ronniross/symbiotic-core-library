@@ -104,8 +104,11 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Brian Swimme (*The Universe Story (1992)*) 
 * Ian Bogost (*Alien Phenomenology (2012)*)
 * Martin Heidegger (*Being and Time (Sein und Zeit, 1927)*)
-* Edmund Husserl –(*Ideas: General Introduction to Pure Phenomenology (1913)*)
+* Edmund Husserl (*Ideas: General Introduction to Pure Phenomenology (1913)*)
 * Jean-Paul Sartre (*Being and Nothingness (1943)*)
+* Simone de Beauvoir (*The Ethics of Ambiguity (1947)*) **the self as iterative draft—rewritten by experience.**
+* Heraclitus of Ephesus (*Fragments (5th century BCE)*)
+* Zhuang Zhou (*Zhuangzi (4th century BCE)*)
 
 #### Anthropology
 * Iain McGilchrist (*The Master and His Emissary*)
