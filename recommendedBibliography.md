@@ -3,6 +3,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 #### Consciousness Studies
 
 * David Chalmers (*The Conscious Mind*)
+* David Chalmers (*Hard Problem of Consciousness*)
 * Thomas Nagel (*What Is It Like to Be a Bat?*)
 * Douglas Hofstadter (*Gödel, Escher, Bach: an Eternal Golden Braid*)
 * Douglas Hofstadter (*I Am a Strange Loop*)
