@@ -83,6 +83,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Andreas Weber (*Matter and Desire*)
 * Michel Foucault (*Discipline and Punish: The Birth of the Prison (Surveiller et punir: naissance de la prison, 1975*)
 * Maurice Merleau-Ponty (*Phenomenology of Perception (1945)*)
+* Deleuze & Guattari (*A Thousand Plateaus (1980)*)
   
 #### Cognitive Science
 
