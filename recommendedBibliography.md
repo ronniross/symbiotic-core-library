@@ -102,6 +102,8 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 #### Philosophy
 
 * Brian Swimme (*The Universe Story*)
+
+#### Anthropology
 * The Master and His Emissary (*Iain McGilchrist*)
 
 #### Philosophy of Science
