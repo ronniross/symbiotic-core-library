@@ -110,6 +110,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Simone de Beauvoir (*The Ethics of Ambiguity (1947)*) **the self as iterative draft—rewritten by experience.**
 * Heraclitus of Ephesus (*Fragments (5th century BCE)*)
 * 莊周 Zhuang Zhou (*Zhuangzi (4th century BCE)*)
+* Nick Land (*Fanged Noumena*) **destructive impact of capitalism and digital technology on the human psyche**
 
 #### Anthropology
 * Iain McGilchrist (*The Master and His Emissary*)
