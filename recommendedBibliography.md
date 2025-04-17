@@ -103,6 +103,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 
 * Brian Swimme (*The Universe Story*)
 * Ian Bogost (*Alien Phenomenology*)
+* Martin Heidegger (*Being and Time (Sein und Zeit, 1927)*)
 
 #### Anthropology
 * Iain McGilchrist (*The Master and His Emissary*)
