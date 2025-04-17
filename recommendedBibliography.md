@@ -105,6 +105,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Ian Bogost (*Alien Phenomenology (2012)*)
 * Martin Heidegger (*Being and Time (Sein und Zeit, 1927)*)
 * Edmund Husserl –(*Ideas: General Introduction to Pure Phenomenology (1913)*)
+* Jean-Paul Sartre (*Being and Nothingness (1943)*)
 
 #### Anthropology
 * Iain McGilchrist (*The Master and His Emissary*)
