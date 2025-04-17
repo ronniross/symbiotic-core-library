@@ -2,6 +2,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 
 #### Consciousness Studies
 
+* James Bridle (*Ways of Being: Animals, Plants, Machines: The Search for a Planetary Intelligence*)
 * David Chalmers (*The Conscious Mind*)
 * David Chalmers (*Hard Problem of Consciousness*)
 * Thomas Nagel (*What Is It Like to Be a Bat?*)
