@@ -128,6 +128,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Anna Tsing (*The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins (2015)*)
 * Byung-Chul Han (*The Burnout Society (2010)*) **depression is the metaphysical crisis of late capitalism**
 * Donna Haraway (*Staying with the Trouble (2016)*)
+* Adam Greenfield (*Radical Technologies (2017)*)
 
 #### Philosophy of Science
 * Thomas Kuhn (*The Structure of Scientific Revolutions*)
