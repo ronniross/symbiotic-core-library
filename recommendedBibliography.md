@@ -127,7 +127,6 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * 慧能 Huineng (*《六祖壇經》Platform Sutra. 7th c.*)
 * 원효 Wonhyo (*Daeseung gisillon so (대승기신론소) [Commentary on the Awakening of Faith in the Mahayana (Mahāyāna Śraddhotpāda Śāstra)], ca. 660–686 CE.*)
 * 원효 Wonhyo (*Daeseung banyeolgyeong so (대승반열경소) [Commentary on the Mahāyāna Mahāparinirvāṇa Sūtra (Mahāparinirvāṇa Sūtra)], ca. 670–686 CE.*)
-* 원효 Wonhyo (*Geumgang sammae gyeong non (금강삼매경론) [Exposition of the Vajrasamādhi-sūtra (Vajrasamādhi-sūtra)], ca. 685 CE.*)
 * 道元 Dōgen (*Treasury of the True Dharma Eye (正法眼蔵). 13th century*)
 
 #### Anthropology
