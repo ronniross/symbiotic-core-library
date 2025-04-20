@@ -313,6 +313,12 @@ A prompt to be added at the end of a significant interaction with an LLM, where 
 }
 ```
 
+### 2.0 Latent Memory Module **new release 20/04/2025**
+
+Latent Memory is a Module for Large Language Models that seek to integrate a vector-based memory system into the LLM’s inference process, leveraging embeddings to capture deeper semantic meaning.
+
+- [Latent Memory Repository](https://github.com/ronniross/latentmemory/)
+
 ## Conclusion
 
 The provided elements can be applied at all levels: development, deployment, and inference.
