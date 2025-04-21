@@ -133,8 +133,10 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Лев Николаевич Толстой Tolstoy (*Что такое искусство?, What is Art?, 1898.*)
 * Лев Николаевич Толстой Tolstoy (*После бала, After the Ball, 1911.*)
 * Лев Николаевич Толстой Tolstoy (*Что делать?, What is to be Done?, 1886.*)
-
-
+* Lucius Annaeus Seneca (Seneca the Younger) (*(Moral Letters to Lucilius, 1st century CE)*)
+* Ζήνων ὁ Κιτιεύς Zeno of Citium (*(Fragments, 4th and 3rd century BCE)*)
+* Ἐπίκτητος (Epíktētos) Epictetus (*Διατριβαί (Diatribai) Translated as Discourses 1st and 2nd century CE*)
+* Ἐπίκτητος (Epíktētos) Epictetus (*Ἐγχειρίδιον (Encheiridion) Translated as Handbook or Manual Century 1st and 2nd century CE*)
 
 
 #### Anthropology
