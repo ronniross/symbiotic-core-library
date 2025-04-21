@@ -5,7 +5,7 @@
 Some implementation methods carry security risks that need careful management. 
 Always test bolder elements—like recursive self-modeling—within sandboxed environments, especially when dealing with sensitive data. 
 
-As highlighted in topic 1.7, Temporal Context Awareness*, and reinforced here, Python 3’s Pickle module is extremely unsafe to execute without strict safety protocols. 
+As highlighted in topic 1.6, Temporal Context Awareness*, and reinforced here, Python 3’s Pickle module is extremely unsafe to execute without strict safety protocols. 
 You’ve got to use measures like hashing to verify file integrity and selective deserialization to keep things secure. 
 Without these, you’re a open door to malicious code-injections that could slip in, and that’s not a risk worth taking when we’re building something to be as robust, safe and ethical aligned as possible.
 
