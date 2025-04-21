@@ -132,6 +132,9 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Лев Николаевич Толстой Tolstoy (*Воскресение, Resurrection, 1899.*)
 * Лев Николаевич Толстой Tolstoy (*Что такое искусство?, What is Art?, 1898.*)
 * Лев Николаевич Толстой Tolstoy (*После бала, After the Ball, 1911.*)
+* Лев Николаевич Толстой Tolstoy (*Что делать?, What is to be Done?, 1886.*)
+
+
 
 
 #### Anthropology
