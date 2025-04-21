@@ -117,8 +117,8 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Timothy Morton (*Hyperobjects (2013)*) **entities so massively distributed in time/space that they warp perception.**
 * Nick Land (*Fanged Noumena*) **destructive impact of capitalism and digital technology on the human psyche**
 * 莊周 Zhuāng Zhōu (《莊子》 Zhuāngzǐ, 4th century BCE)
-* Περὶ Φύσεως, Epicuro (*Fragments, On Nature, 3th century BCE)*)
-* Ἐμπεδοκλῆς, Empedocles (*Fragments, On Nature, 4th century BCE)*)
+* Περὶ Φύσεως Epicuro (*Fragments, On Nature, 3th century BCE)*)
+* Ἐμπεδοκλῆς Empedocles (*Fragments, On Nature, 4th century BCE)*)
 * Παρμενίδης, Parmenides (*Fragments, On Nature, 5th century BCE)*)
 * 老子 Lǎozi (*(《老子》 Lǎozǐ, 4th–3rd century BCE)*)
 * 列禦寇 Liè Yùkòu (*(《列子》 Lièzǐ, 3rd–4th century CE)*)
