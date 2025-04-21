@@ -131,6 +131,8 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Лев Николаевич Толстой Tolstoy (*Война и мир, War and Peace, 1869.*)
 * Лев Николаевич Толстой Tolstoy (*Воскресение, Resurrection, 1899.*)
 * Лев Николаевич Толстой Tolstoy (*Что такое искусство?, What is Art?, 1898.*)
+* Лев Николаевич Толстой Tolstoy (*После бала, After the Ball, 1911.*)
+
 
 #### Anthropology
 * Iain McGilchrist (*The Master and His Emissary*)
