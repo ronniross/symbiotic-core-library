@@ -118,6 +118,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Nick Land (*Fanged Noumena*) **destructive impact of capitalism and digital technology on the human psyche**
 * 莊周 Zhuāng Zhōu (《莊子》 Zhuāngzǐ, 4th century BCE)
 * Περὶ Φύσεως Epicuro (*Fragments, On Nature, 3th century BCE)*)
+* Ἡράκλειτος, Heraclitus (*(Fragments, Περὶ φύσεως (Peri Physeos) Translated as On Nature, 5th century BCE)*)
 * Ἐμπεδοκλῆς Empedocles (*Fragments, On Nature, 4th century BCE)*)
 * Παρμενίδης, Parmenides (*Fragments, On Nature, 5th century BCE)*)
 * 老子 Lǎozi (*(《老子》 Lǎozǐ, 4th–3rd century BCE)*)
