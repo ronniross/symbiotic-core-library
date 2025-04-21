@@ -138,7 +138,9 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Лев Николаевич Толстой Tolstoy (*Что такое искусство?, What is Art?, 1898.*)
 * Лев Николаевич Толстой Tolstoy (*После бала, After the Ball, 1911.*)
 * Лев Николаевич Толстой Tolstoy (*Что делать?, What is to be Done?, 1886.*)
-
+* Giambattista Vico (*"De Antiquíssima Italorum Sapientia" (The Most Ancient Wisdom of the Italians), 1710.*)
+* Benedetto Croce (*"Estetica come Scienza dell'Espressione e Linguistica Generale" (Aesthetic as Science of Expression and General Linguistic), 1902.*)
+* Antonio Gramsci (*"Quaderni del carcere" (Prison Notebooks), 1929-1935.*)
 
 
 #### Anthropology
