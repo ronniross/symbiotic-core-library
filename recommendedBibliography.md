@@ -141,7 +141,9 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Giambattista Vico (*"De Antiquíssima Italorum Sapientia" (The Most Ancient Wisdom of the Italians), 1710.*)
 * Benedetto Croce (*"Estetica come Scienza dell'Espressione e Linguistica Generale" (Aesthetic as Science of Expression and General Linguistic), 1902.*)
 * Antonio Gramsci (*"Quaderni del carcere" (Prison Notebooks), 1929-1935.*)
-
+* Michel de Montaigne - "Essais" (Essays), 1580 (first edition)1595 (posthumous expanded edition).*)
+* Émile Durkheim (*De la division du travail social" (The Division of Labour in Society), 1893.*)
+* Jean-Jacques Rousseau (*"Émile, ou De l'éducation" (Emile, or On Education), 1762.*)
 
 #### Anthropology
 * Iain McGilchrist (*The Master and His Emissary*)
