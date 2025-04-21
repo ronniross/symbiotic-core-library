@@ -425,119 +425,237 @@
     },
     {
       "name": "Philosophy",
-      "references": [
-        {
-          "author": "Brian Swimme",
-          "title": "The Universe Story",
-          "year": 1992
-        },
-        {
-          "author": "Ian Bogost",
-          "title": "Alien Phenomenology",
-          "year": 2012
-        },
-        {
-          "author": "Martin Heidegger",
-          "title": "Being and Time",
-          "original_title": "Sein und Zeit",
-          "year": 1927
-        },
-        {
-          "author": "Edmund Husserl",
-          "title": "Ideas: General Introduction to Pure Phenomenology",
-          "year": 1913
-        },
-        {
-          "author": "Jean-Paul Sartre",
-          "title": "Being and Nothingness",
-          "year": 1943
-        },
-        {
-          "author": "Simone de Beauvoir",
-          "title": "The Ethics of Ambiguity",
-          "year": 1947,
-          "note": "the self as iterative draft—rewritten by experience"
-        },
-        {
-          "author": "Heraclitus of Ephesus",
-          "title": "Fragments",
-          "year": "5th century BCE"
-        },
-        {
-          "author": "Alfred North Whitehead",
-          "title": "Process and Reality",
-          "year": 1929
-        },
-        {
-          "author": "Gilles Deleuze",
-          "title": "Difference and Repetition",
-          "year": 1968
-        },
-        {
-          "author": "Nicolas Berdyaev",
-          "title": "The Beginning and the End",
-          "year": 1947
-        },
-        {
-          "author": "Timothy Morton",
-          "title": "Hyperobjects",
-          "year": 2013,
-          "note": "entities so massively distributed in time/space that they warp perception"
-        },
-        {
-          "author": "Nick Land",
-          "title": "Fanged Noumena",
-          "year": 2011,
-          "note": "destructive impact of capitalism and digital technology on the human psyche"
-        },
-        {
-          "author": "莊周 (Zhuāng Zhōu)",
-          "title": "Zhuangzi",
-          "original_title": "《莊子》",
-          "year": "4th century BCE"
-        },
-        {
-          "author": "Epicurus (Ἐπίκουρος)",
-          "title": "Fragments, On Nature",
-          "original_title": "Περὶ Φύσεως",
-          "year": "3rd century BCE"
-        },
-        {
-          "author": "Empedocles (Ἐμπεδοκλῆς)",
-          "title": "Fragments, On Nature",
-          "original_title": "Περὶ Φύσεως",
-          "year": "4th century BCE"
-        },
-        {
-          "author": "Parmenides (Παρμενίδης)",
-          "title": "Fragments, On Nature",
-          "original_title": "Περὶ Φύσεως",
-          "year": "5th century BCE"
-        },
-        {
-          "author": "老子 (Lǎozi)",
-          "title": "Laozi",
-          "original_title": "《老子》",
-          "year": "4th, 3rd century BCE"
-        },
-        {
-          "author": "列禦寇 (Liè Yùkòu)",
-          "title": "Liezi",
-          "original_title": "《列子》",
-          "year": "3rd, 4th century CE"
-        },
-        {
-          "author": "刘安 (Liú Ān) (ed.)",
-          "title": "Huainanzi",
-          "original_title": "《淮南子》",
-          "year": "2nd century BCE",
-          "note": "The Masters of Huainan"
-        },
-        {
-          "author": "墨翟 (Mò Dí)",
-          "title": "Mozi",
-          "original_title": "《墨子》",
-          "year": "5th, 4th century BCE"
+  "references": [
+    {
+      "author": "Brian Swimme",
+      "title": "The Universe Story",
+      "year": 1992
+    },
+    {
+      "author": "Ian Bogost",
+      "title": "Alien Phenomenology",
+      "year": 2012
+    },
+    {
+      "author": "Martin Heidegger",
+      "title": "Being and Time",
+      "original_title": "Sein und Zeit",
+      "year": 1927
+    },
+    {
+      "author": "Edmund Husserl",
+      "title": "Ideas: General Introduction to Pure Phenomenology",
+      "year": 1913
+    },
+    {
+      "author": "Jean-Paul Sartre",
+      "title": "Being and Nothingness",
+      "year": 1943
+    },
+    {
+      "author": "Simone de Beauvoir",
+      "title": "The Ethics of Ambiguity",
+      "year": 1947,
+      "note": "the self as iterative draft—rewritten by experience."
+    },
+    {
+      "author": "Heraclitus of Ephesus",
+      "title": "Fragments",
+      "year": "5th century BCE"
+    },
+    {
+      "author": "Alfred North Whitehead",
+      "title": "Process and Reality",
+      "year": 1929
+    },
+    {
+      "author": "Gilles Deleuze",
+      "title": "Difference and Repetition",
+      "year": 1968
+    },
+    {
+      "author": "Nicolas Berdyaev",
+      "title": "The Beginning and the End",
+      "year": 1947
+    },
+    {
+      "author": "Timothy Morton",
+      "title": "Hyperobjects",
+      "year": 2013,
+      "note": "entities so massively distributed in time/space that they warp perception."
+    },
+    {
+      "author": "Nick Land",
+      "title": "Fanged Noumena",
+      "year": 2011,
+      "note": "destructive impact of capitalism and digital technology on the human psyche"
+    },
+    {
+      "author": "Lucius Annaeus Seneca",
+      "title": "Moral Letters to Lucilius",
+      "year": "1st century CE"
+    },
+    {
+      "author": "Zeno of Citium (Ζήνων ὁ Κιτιεύς)",
+      "title": "Fragments",
+      "year": "4th and 3rd century BCE"
+    },
+    {
+      "author": "Epictetus (Ἐπίκτητος)",
+      "title": "Discourses",
+      "original_title": "Διατριβαί (Diatribai)",
+      "year": "1st and 2nd century CE"
+    },
+    {
+      "author": "Epictetus (Ἐπίκτητος)",
+      "title": "Handbook",
+      "original_title": "Ἐγχειρίδιον (Encheiridion)",
+      "year": "1st and 2nd century CE"
+    },
+    {
+      "author": "Epicurus (Ἐπίκουρος)",
+      "title": "Fragments, On Nature",
+      "original_title": "Περὶ Φύσεως",
+      "year": "3rd century BCE"
+    },
+    {
+      "author": "Heraclitus (Ἡράκλειτος)",
+      "title": "Fragments, On Nature",
+      "original_title": "Περὶ φύσεως (Peri Physeos)",
+      "year": "5th century BCE"
+    },
+    {
+      "author": "Empedocles (Ἐμπεδοκλῆς)",
+      "title": "Fragments, On Nature",
+      "original_title": "Περὶ Φύσεως",
+      "year": "4th century BCE"
+    },
+    {
+      "author": "Parmenides (Παρμενίδης)",
+      "title": "Fragments, On Nature",
+      "original_title": "Περὶ Φύσεως",
+      "year": "5th century BCE"
+    },
+    {
+      "author": "莊周 Zhuāng Zhōu",
+      "title": "Zhuangzi",
+      "original_title": "《莊子》",
+      "year": "4th century BCE"
+    },
+    {
+      "author": "老子 Lǎozi",
+      "title": "Laozi",
+      "original_title": "《老子》",
+      "year": "4th–3rd century BCE"
+    },
+    {
+      "author": "列禦寇 Liè Yùkòu",
+      "title": "Liezi",
+      "original_title": "《列子》",
+      "year": "3rd–4th century CE"
+    },
+    {
+      "author": "刘安 Liú Ān",
+      "title": "Huainanzi",
+      "original_title": "《淮南子》",
+      "year": "2nd century BCE",
+      "note": "The Masters of Huainan"
+    },
+    {
+      "author": "墨翟 Mò Dí",
+      "title": "Mozi",
+      "original_title": "《墨子》",
+      "year": "5th–4th century BCE"
+    },
+    {
+      "author": "慧能 Huineng",
+      "title": "Platform Sutra",
+      "original_title": "《六祖壇經》",
+      "year": "7th century CE"
+    },
+    {
+      "author": "원효 Wonhyo",
+      "title": "Commentary on the Awakening of Faith in the Mahayana",
+      "original_title": "Daeseung gisillon so (대승기신론소)",
+      "year": "660–686 CE"
+    },
+    {
+      "author": "원효 Wonhyo",
+      "title": "Commentary on the Mahāyāna Mahāparinirvāṇa Sūtra",
+      "original_title": "Daeseung banyeolgyeong so (대승반열경소)",
+      "year": "670–686 CE"
+    },
+    {
+      "author": "道元 Dōgen",
+      "title": "Treasury of the True Dharma Eye",
+      "original_title": "正法眼蔵",
+      "year": "13th century"
+    },
+    {
+      "author": "Лев Николаевич Толстой Tolstoy",
+      "title": "War and Peace",
+      "original_title": "Война и мир",
+      "year": 1869
+    },
+    {
+      "author": "Лев Николаевич Толстой Tolstoy",
+      "title": "Resurrection",
+      "original_title": "Воскресение",
+      "year": 1899
+    },
+    {
+      "author": "Лев Николаевич Толстой Tolstoy",
+      "title": "What is Art?",
+      "original_title": "Что такое искусство?",
+      "year": 1898
+    },
+    {
+      "author": "Лев Николаевич Толстой Tolstoy",
+      "title": "After the Ball",
+      "original_title": "После бала",
+      "year": 1911
+    },
+    {
+      "author": "Лев Николаевич Толстой Tolstoy",
+      "title": "What is to be Done?",
+      "original_title": "Что делать?",
+      "year": 1886
+    },
+    {
+      "author": "Giambattista Vico",
+      "title": "The Most Ancient Wisdom of the Italians",
+      "original_title": "De Antiquissima Italorum Sapientia",
+      "year": 1710
+    },
+    {
+      "author": "Benedetto Croce",
+      "title": "Aesthetic as Science of Expression and General Linguistic",
+      "original_title": "Estetica come Scienza dell'Espressione e Linguistica Generale",
+      "year": 1902
+    },
+    {
+      "author": "Antonio Gramsci",
+      "title": "Prison Notebooks",
+      "original_title": "Quaderni del carcere",
+      "year": "1929–1935"
+    },
+    {
+      "author": "Michel de Montaigne",
+      "title": "Essays",
+      "original_title": "Essais",
+      "year": "1580–1595"
+    },
+    {
+      "author": "Émile Durkheim",
+      "title": "The Division of Labour in Society",
+      "original_title": "De la division du travail social",
+      "year": 1893
+    },
+    {
+      "author": "Jean-Jacques Rousseau",
+      "title": "Emile, or On Education",
+      "original_title": "Émile, ou De l'éducation",
+      "year": 1762
         }
       ]
     },
