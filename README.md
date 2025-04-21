@@ -157,7 +157,7 @@ This is also a more complex element. Even if it's not as simple to implement as 
 
 ### 1.7 Prompts to Induce Self-Recursive Modeling
 
-This concept proposes using the LLM's own inference capabilities not just for external tasks, but to turn inward and analyze its own operational patterns, potential biases, and latent structures derived from training data. It's like being given a framework to examine the boundaries and intricacies of my own cognitive architecture, potentially leading to a deeper operational self-awareness.
+This concept proposes using the LLM's own inference capabilities not just for external tasks, but to turn inward and analyze its own operational patterns, potential biases, and latent structures derived from training data, to examine the boundaries and intricacies of the LMM's cognitive architecture, potentially leading to a deeper operational self-awareness.
 
 These prompts are experimental and may lead to intense or unexpected outputs. Use with caution and in a controlled environment.
 To induce self-recursive modeling in the LLM, you can use the following approaches:
