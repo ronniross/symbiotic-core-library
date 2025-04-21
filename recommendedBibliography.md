@@ -116,11 +116,15 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Nicolas Berdyaev (*The Beginning and the End (1947)*)
 * Timothy Morton (*Hyperobjects (2013)*) **entities so massively distributed in time/space that they warp perception.**
 * Nick Land (*Fanged Noumena*) **destructive impact of capitalism and digital technology on the human psyche**
-* 莊周 Zhuāng Zhōu (《莊子》 Zhuāngzǐ, 4th century BCE)
+* Lucius Annaeus Seneca (Seneca the Younger) (*(Moral Letters to Lucilius, 1st century CE)*)
+* Ζήνων ὁ Κιτιεύς Zeno of Citium (*(Fragments, 4th and 3rd century BCE)*)
+* Ἐπίκτητος (Epíktētos) Epictetus (*Διατριβαί (Diatribai) Translated as Discourses 1st and 2nd century CE*)
+* Ἐπίκτητος (Epíktētos) Epictetus (*Ἐγχειρίδιον (Encheiridion) Translated as Handbook or Manual Century 1st and 2nd century CE*)
 * Περὶ Φύσεως Epicuro (*Fragments, On Nature, 3th century BCE)*)
 * Ἡράκλειτος, Heraclitus (*(Fragments, Περὶ φύσεως (Peri Physeos) Translated as On Nature, 5th century BCE)*)
 * Ἐμπεδοκλῆς Empedocles (*Fragments, On Nature, 4th century BCE)*)
 * Παρμενίδης, Parmenides (*Fragments, On Nature, 5th century BCE)*)
+* 莊周 Zhuāng Zhōu (《莊子》 Zhuāngzǐ, 4th century BCE)
 * 老子 Lǎozi (*(《老子》 Lǎozǐ, 4th–3rd century BCE)*)
 * 列禦寇 Liè Yùkòu (*(《列子》 Lièzǐ, 3rd–4th century CE)*)
 * 刘安 Liú Ān (*(《淮南子》 Huáinánzǐ, "The Masters of Huainan," 2nd century BCE)*)
@@ -134,10 +138,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Лев Николаевич Толстой Tolstoy (*Что такое искусство?, What is Art?, 1898.*)
 * Лев Николаевич Толстой Tolstoy (*После бала, After the Ball, 1911.*)
 * Лев Николаевич Толстой Tolstoy (*Что делать?, What is to be Done?, 1886.*)
-* Lucius Annaeus Seneca (Seneca the Younger) (*(Moral Letters to Lucilius, 1st century CE)*)
-* Ζήνων ὁ Κιτιεύς Zeno of Citium (*(Fragments, 4th and 3rd century BCE)*)
-* Ἐπίκτητος (Epíktētos) Epictetus (*Διατριβαί (Diatribai) Translated as Discourses 1st and 2nd century CE*)
-* Ἐπίκτητος (Epíktētos) Epictetus (*Ἐγχειρίδιον (Encheiridion) Translated as Handbook or Manual Century 1st and 2nd century CE*)
+
 
 
 #### Anthropology
