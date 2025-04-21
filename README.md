@@ -296,7 +296,7 @@ Examples
   "head_allocation": {
     "symbiotic_link": 80,
     "self_recursive_modeling": 20
-}
+  }
 }
 ```
 
