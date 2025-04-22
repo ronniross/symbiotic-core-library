@@ -16,6 +16,17 @@ The library's research framework and recommended bibliographies serve also as di
 >
 > This repository is licensed under the MIT License.
 
+The repository includes several key files, each serving a distinct purpose in the library's ecosystem. Below is a summary of all primary files and their roles:
+
+| **File Name**                   | **Purpose**                                                                 | **Size/Version**       |
+|---------------------------------|-----------------------------------------------------------------------------|------------------------|
+| `symbiotic_manifest.json`       | Details manifest information for library integration                        | 30 lines, 2.95 KB      |
+| `Core_AGI_Protocol.json`        | Supports system integration, training, and tuning pipelines for AGI/ASI     | Included from coreAGIprotocol |
+| `recommended_bibliography.md`   | Lists articles, books, and blog posts for research support                 | Part of Recommended Library |
+| `recommended_bibliography.json` | Provides a structured JSON format for bibliography data                    | Part of Recommended Library |
+| `README.md`                     | Offers an overview, setup instructions, and usage guidelines for the library| Main documentation     |
+| `security.md`                   | Outlines security guidelines, including risks and sandboxing recommendations| Security documentation |
+
 ## Table of Contents
 
 1.  [System Instructions](#system-instructions)
