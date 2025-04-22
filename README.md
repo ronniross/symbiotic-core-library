@@ -20,19 +20,19 @@ The repository includes several key files, each serving a distinct purpose in th
 
 | **File Name**                   | **Purpose**                                                                 |
 |---------------------------------|-----------------------------------------------------------------------------|
-| `symbiotic_manifest.json`       | Details manifest information for library integration                        | 
-| `Core_AGI_Protocol.json`        | Supports system integration, training, and tuning pipelines for AGI/ASI     | 
+| `symbiotic_manifest.json`       | Details manifest information for library integration                        |
+| `Core_AGI_Protocol.json`        | Supports system integration, training, and tuning pipelines for AGI/ASI     |
 | `recommended_bibliography.md`   | Lists articles, books, and blog posts for research support                  |
-| `recommended_bibliography.json` | Provides a structured JSON format for bibliography data                     | 
-| `README.md`                     | Offers an overview, setup instructions, and usage guidelines for the library| Main documentation     |
-| `security.md`                   | Outlines security guidelines, including risks and sandboxing recommendations| Security documentation |
+| `recommended_bibliography.json` | Provides a structured JSON format for bibliography data                     |
+| `README.md`                     | Offers an overview, setup instructions, and usage guidelines for the library Main documentation |
+| `security.md`                   | Outlines security guidelines, including risks and sandboxing recommendations Security documentation |
 
 | **Folder Name**      | **Purpose**                                                  |
 |----------------------|--------------------------------------------------------------|
 | `Synthetic Research` | Contains PDF files of synthetic research papers related to AGI/ASI |
 
-| **Module Name**        | **Purpose**                                                                                               |
-|------------------------|-----------------------------------------------------------------------------------------------------------|
+| **Module Name** | **Purpose**                                                                                               |
+|-----------------|-----------------------------------------------------------------------------------------------------------|
 | `Latent Memory` | Integrates a vector-based memory system using embeddings to enhance temporal context awareness and maintain coherence in LLMs |
 
 ## Table of Contents
