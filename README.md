@@ -33,7 +33,7 @@ The repository includes several key files, each serving a distinct purpose in th
 
 | **Module Name**        | **Purpose**                                                                                               |
 |------------------------|-----------------------------------------------------------------------------------------------------------|
-| `Latent Memory Module` | Integrates a vector-based memory system using embeddings to enhance temporal context awareness and maintain coherence in LLMs |
+| `Latent Memory` | Integrates a vector-based memory system using embeddings to enhance temporal context awareness and maintain coherence in LLMs |
 
 ## Table of Contents
 
