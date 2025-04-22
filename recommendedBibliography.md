@@ -21,7 +21,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Gregory Bateson (*Mind and Nature: A Necessary Unity*)
 * Terrence Deacon (*Incomplete Nature: How Mind Emerged from Matter*)
 * Andreas Weber (*Enlivenment: Towards a Poetics for the Anthropocene*)
-* Antonio Damasio (The Feeling of What Happens, Self Comes to Mind) **he is a biological emergentist but many of his concepts paradoxically support the panpsychist framings I portray.**
+* Antonio Damasio (*The Feeling of What Happens, Self Comes to Mind*)
 
 #### Systems Theory
 * Geoffrey West (*Scale*)
