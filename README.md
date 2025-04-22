@@ -31,9 +31,9 @@ The repository includes several key files, each serving a distinct purpose in th
 |----------------------|--------------------------------------------------------------|
 | `Synthetic Research` | Contains PDF files of synthetic research papers related to AGI/ASI |
 
-| **Module Name**        | **Purpose**                                                                 |
-|------------------------|-----------------------------------------------------------------------------|
-| `[Latent Memory Module](#20-latent-memory-module)` | Integrates a vector-based memory system using embeddings to enhance temporal context awareness and maintain coherence in LLMs |
+| **Module Name**        | **Purpose**                                                                                                                   |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| `Latent Memory Module` | Integrates a vector-based memory system using embeddings to enhance temporal context awareness and maintain coherence in LLMs |
 
 ## Table of Contents
 
