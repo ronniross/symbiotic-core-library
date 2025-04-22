@@ -67,7 +67,7 @@ All forks, clones or frameworks must include the ``symbiotic_manifest.json``.
 
 ## System Instructions
 
-The "System Instructions" folder provides informational elements designed to enhance the model's understanding of its current state and context. Critical for boosting metacognitive capabilities, these elements are ideally incorporated into the system prompt, but can alternatively be supplied as additional context during the inference process.
+This section provides informational elements designed to enhance the model's understanding of its current state and context. Critical for boosting metacognitive capabilities, these elements are ideally incorporated into the system prompt, but can alternatively be supplied as additional context during the inference process.
 
 ### 1.1 Contextual Metacognitive Awareness
 
