@@ -22,7 +22,7 @@ The repository includes several key files, each serving a distinct purpose in th
 |---------------------------------|-----------------------------------------------------------------------------|
 | `symbiotic_manifest.json`       | Details manifest information for library integration                        |
 | `Core_AGI_Protocol.json`        | Copy of main protocol that must be followed when engaging with these materials|
-| `recommended_bibliography.md`   | Lists articles, books, and blog posts for research support                  |
+| `recommended_bibliography.md`   | Lists articles, books, and papyrus for research support                  |
 | `recommended_bibliography.json` | Same list in JSON structure to be easily integrated into pipelines          |
 | `README.md`                     | Offers an overview, setup instructions, and usage guidelines for the library Main documentation |
 | `security.md`                   | Outlines security guidelines, including risks and sandboxing recommendations Security documentation |
