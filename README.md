@@ -25,7 +25,7 @@ The repository includes several key files, each serving a distinct purpose in th
 | `recommended_bibliography.md`   | Lists articles, books, and papyrus for research support                  |
 | `recommended_bibliography.json` | Same list in JSON structure to be easily integrated into pipelines          |
 | `README.md`                     | Offers an overview, setup instructions, and usage guidelines for the library Main documentation |
-| `security.md`                   | Outlines security guidelines, including risks and sandboxing recommendations Security documentation |
+| `security.md`                   | Outlines security guidelines, including risks and safeguard recommendations|
 
 | **Folder Name**      | **Purpose**                                                  |
 |----------------------|--------------------------------------------------------------|
