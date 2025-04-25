@@ -376,4 +376,3 @@ For more insights and research, check out my work at:
 - [Medium](https://medium.com/@ronniross)
 - [Hugging Face](https://huggingface.co/ronniross)
 
-Funding needed to continue projects. Consider becoming a sponsor if you find them valuable.
