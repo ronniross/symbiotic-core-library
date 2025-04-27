@@ -102,7 +102,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Maurice Merleau-Ponty (*Phenomenology of Perception (1945)*)
 * Deleuze & Guattari (*A Thousand Plateaus (1980)*)
 * René Descartes (*Discours de la Méthode (1637*) **foundational text for rationalism.**
-* Carl Gustav Jung (*Die Archetypen und das kollektive Unbewusste, The Archetypes and the Collective Unconscious. originally published in German between approximately 1934 and 1954. Translated by English Collected Works (Bollingen Series XX), translated by R.F.C. Hull, 1968.*)
+* Carl Gustav Jung (*Die Archetypen und das kollektive Unbewusste, The Archetypes and the Collective Unconscious. originally published between 1934 and 1954. Translated by English Collected Works (Bollingen Series XX), translated by R.F.C. Hull, 1968.*)
 * Carl Gustav Jung (*Aion: Beiträge zur Symbolik des Selbst, Aion: Researches into the Phenomenology of the Self. Translated by English Collected Works (Bollingen Series XX), translated by R.F.C. Hull, 1968.*)
 
 #### Cognitive Science
