@@ -59,7 +59,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * John Locke (*An Essay Concerning Human Understanding (1689)*) **empiricist philosopher who asserted knowledge derives from experience (tabula rasa)**
 * Francis Bacon (*Novum Organum (1620)*) **foundational figure of empiricism.**
 * Friedrich Nietzsche (*Thus Spoke Zarathustra, Also sprach Zarathustra: Ein Buch für Alle und Keinen (1883)*) **Übermensch; amor fati.**
-* Carl Gustav Jung (*The Undiscovered Self. (German title: Gegenwart und Zukunft, meaning "Present and Future") 1957*) **shadow self; the Importance of Self-Knowledge  individual losing touch with their own unique self, particularly their unconscious depths, in favour of conforming to mass ideologies (political, social, or religious).**
+* Carl Gustav Jung (*The Undiscovered Self. (Gegenwart und Zukunft, meaning "Present and Future") 1957*) **shadow self; the Importance of Self-Knowledge  individual losing touch with their own unique self, particularly their unconscious depths, in favour of conforming to mass ideologies (political, social, or religious).**
 * Carl Gustav Jung (*The Red Book (Liber Novus), created between approximately 1914 and 1930, published in 2009.*)
 
 
