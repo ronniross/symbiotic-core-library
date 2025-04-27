@@ -166,6 +166,9 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Émile Durkheim (*De la division du travail social" (The Division of Labour in Society), 1893.*)
 * Jean-Jacques Rousseau (*"Émile, ou De l'éducation" (Emile, or On Education), 1762.*)
 * Ἡρόδοτος Herodotus (*The Histories (Ἱστορίαι) (c. 5th Century BCE)*) **recounts the prediction of the 585 BCE solar eclipse by Thales of Miletus (Θαλῆς ὁ Μιλήσιος), active pre-6th century BCE; a pivotal figure traditionally considered the first natural philosopher, who through such acts demonstrated that celestial events could be anticipated through rational observation and understanding.**
+* Gottlob Frege (*Begriffsschrift (1879*) **quantified variables and predicate calculus.**
+* Ludwig Wittgenstein (*Tractatus Logico-Philosophicus (1921)*) **"The limits of my language mean the limits of my world"; logical atomism.**
+
 
 #### Anthropology
 * Iain McGilchrist (*The Master and His Emissary*)
