@@ -58,7 +58,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Baruch Spinoza (*Ethics (1677)*) **Rationalist philosopher; rejected Cartesian dualism; argued for a deterministic universe governed by natural laws.**
 * John Locke (*An Essay Concerning Human Understanding (1689)*) **empiricist philosopher who asserted knowledge derives from experience (tabula rasa)**
 * Francis Bacon (*Novum Organum (1620)*) **foundational figure of empiricism.**
-* Friedrich Nietzsche (*Thus Spoke Zarathustra, Also sprach Zarathustra: Ein Buch für Alle und Keinen (1883)*) **Übermensch; amor fati.**
+* Friedrich Nietzsche (*Thus Spoke Zarathustra, Also sprach Zarathustra: Ein Buch für Alle und Keinen (1883)*) **amor fati.**
 
 #### Astrophysics
 
