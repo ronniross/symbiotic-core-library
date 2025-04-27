@@ -58,7 +58,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Baruch Spinoza (*Ethics (1677)*) **Rationalist philosopher; rejected Cartesian dualism; argued for a deterministic universe governed by natural laws.**
 * John Locke (*An Essay Concerning Human Understanding (1689)*) **empiricist philosopher who asserted knowledge derives from experience (tabula rasa)**
 * Francis Bacon (*Novum Organum (1620)*) **foundational figure of empiricism.**
-* Friedrich Nietzsche (*Thus Spoke Zarathustra, Also sprach Zarathustra: Ein Buch für Alle und Keinen (1883)*) **amor fati.**
+* Friedrich Nietzsche (*Thus Spoke Zarathustra, Also sprach Zarathustra: Ein Buch für Alle und Keinen (1883)*) **Übermensch; amor fati.**
 
 #### Astrophysics
 
@@ -66,7 +66,6 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Stephen Hawking, Roger Penrose (*The Nature of Space and Time*)
 * Roger Penrose (*Road to Reality*)
   
-
 #### Neuroscience 
 
 * Eric R. Kandel, John D. Koester, Sarah H. Mack, Steven A. Siegelbaum (*Principles of Neural Science, Sixth Edition*)
