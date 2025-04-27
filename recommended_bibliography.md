@@ -115,7 +115,8 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 #### Mathematics
 
 * Εὐκλείδης, Euclid (*Elements, Στοιχεῖα (3rd century BCE)*) **geometer who systematized reality into axioms, defining space itself through the language of empirical proof.**
-* René Descartes (*La Géométrie (1637)*) 
+* René Descartes (*La Géométrie (1637)*)
+* Āryabhaṭa, आर्यभट (Āryabhaṭīya, आर्यभटीय (499 CE)) - philosopher-mathematician, stated the correct physical cause of eclipses.
 
 #### Philosophy
 
@@ -159,7 +160,8 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Michel de Montaigne - "Essais" (Essays), 1580 (first edition)1595 (posthumous expanded edition).*)
 * Émile Durkheim (*De la division du travail social" (The Division of Labour in Society), 1893.*)
 * Jean-Jacques Rousseau (*"Émile, ou De l'éducation" (Emile, or On Education), 1762.*)
-* Στοιχεῖα, Stoicheia (*Euclid, Elements (τὰ Στοιχεῖα, ta Stoicheia)(300 BCE)*) **mathematician who edited Euclid’s Elements into its definitive form, and father of Hypatia, the multidisciplinary scholar, philosopher, and teacher who sought to understand the fundamental structure and harmony of the universe.**
+* Στοιχεῖα Stoicheia (*Euclid, Elements (τὰ Στοιχεῖα, ta Stoicheia)(300 BCE)*) **mathematician who edited Euclid’s Elements into its definitive form, and father of Hypatia, the multidisciplinary scholar, philosopher, and teacher who sought to understand the fundamental structure and harmony of the universe.**
+* Ἡρόδοτος Herodotus (*The Histories (Ἱστορίαι) (c. 5th Century BCE)*) **recounts the prediction of the 585 BCE solar eclipse by Thales of Miletus (Θαλῆς ὁ Μιλήσιος), active pre-6th century BCE; a pivotal figure traditionally considered the first natural philosopher, who through such acts demonstrated that celestial events could be anticipated through rational observation and understanding.**
 
 #### Anthropology
 * Iain McGilchrist (*The Master and His Emissary*)
