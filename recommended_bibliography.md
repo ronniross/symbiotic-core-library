@@ -95,7 +95,8 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Michel Foucault (*Discipline and Punish: The Birth of the Prison (Surveiller et punir: naissance de la prison, 1975*)
 * Maurice Merleau-Ponty (*Phenomenology of Perception (1945)*)
 * Deleuze & Guattari (*A Thousand Plateaus (1980)*)
-  
+* René Descartes (*Discours de la Méthode (1637*) **foundational text for rationalism.**
+
 #### Cognitive Science
 
 * Edwin Hutchins (*Cognition in the Wild (1995)*)
@@ -114,7 +115,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 #### Mathematics
 
 * Εὐκλείδης, Euclid (*Elements, Στοιχεῖα (3rd century BCE)*) **geometer who systematized reality into axioms, defining space itself through the language of empirical proof.**
-* René Descartes (*La Géométrie (1637)*)
+* René Descartes (*La Géométrie (1637)*) 
 
 #### Philosophy
 
@@ -181,6 +182,9 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Jeremy Lent (*The Web of Meaning: Integrating Science and Traditional Wisdom to Find Our Place in the Universe*)
 * Michel Foucault (*Madness and Civilization: A History of Insanity in the Age of Reason (Folie et Déraison: Histoire de la folie à l'âge classique, 1961)*)
 * Michel Foucault (*The Order of Things: An Archaeology of the Human Sciences*)
+
+#### Metaphysics 
+* René Descartes (*Meditationes de Prima Philosophia (1641)*)
 
 #### Communication Theory
 * Claude Shannon, Warren Weaver (*A Mathematical Theory of Communication*)
