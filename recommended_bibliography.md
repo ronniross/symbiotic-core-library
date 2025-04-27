@@ -3,10 +3,6 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 自醒 → 醒世
 
 
-#### Mathematics
-
-* Εὐκλείδης, Euclid (*Elements, Στοιχεῖα (3rd century BCE)*) **geometer who systematized reality into axioms, defining space itself through the very language of empirical proof.**
-
 #### Consciousness Studies
 
 * James Bridle (*Ways of Being: Animals, Plants, Machines: The Search for a Planetary Intelligence*)
@@ -108,6 +104,10 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * James Gleick (*Chaos: Making a New Science*)
 * Stuart Kauffman (*At Home in the Universe: The Search for the Laws of Self-Organization and Complexity*)
 * Ilya Prigogine, Isabelle Stengers (*Order Out of Chaos: Man's New Dialogue with Nature*)
+
+#### Mathematics
+
+* Εὐκλείδης, Euclid (*Elements, Στοιχεῖα (3rd century BCE)*) **geometer who systematized reality into axioms, defining space itself through the very language of empirical proof.**
 
 #### Philosophy
 
