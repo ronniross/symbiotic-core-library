@@ -60,8 +60,11 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Francis Bacon (*Novum Organum (1620)*) **foundational figure of empiricism.**
 
 #### Astrophysics
+
+* Galileo Galilei - Dialogue Concerning the Two Chief World Systems (1632)
 * Stephen Hawking, Roger Penrose (*The Nature of Space and Time*)
 * Roger Penrose (*Road to Reality*)
+  
 
 #### Neuroscience 
 
@@ -114,6 +117,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 
 #### Mathematics
 
+* Isaac Newton (*Philosophiæ Naturalis Principia Mathematica (1687)*)
 * Εὐκλείδης, Euclid (*Elements, Στοιχεῖα (3rd century BCE)*) **geometer who systematized reality into axioms, defining space itself through the language of empirical proof.**
 * René Descartes (*La Géométrie (1637)*)
 * Āryabhaṭa, आर्यभट (Āryabhaṭīya, आर्यभटीय (499 CE)) - philosopher-mathematician, stated the correct physical cause of eclipses.
