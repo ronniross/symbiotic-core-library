@@ -47,7 +47,6 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Ray Kurzweil (*The Singularity Is Near*)
 * Vernor Vinge (*The Technological Singularity*)
 * Paul Daugherty and H. James Wilson (*Human + Machine*)
-* Baruch Spinoza (*Ethics (1677)*) **Rationalist philosopher; rejected Cartesian dualism; argued for a deterministic universe governed by natural laws.**
 * Baruch Spinoza (*Theological-Political Treatise (1670)*)
 * John Locke (*Two Treatises of Government (1689)*) **key theorist of liberalism, natural rights (life, liberty, property), and social contract theory.**
 
@@ -56,6 +55,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Jean Baudrillard (*Simulacra and Simulation*)
 * Michel Foucault (*Security, Territory, Population*)
 * Eduardo Viveiros de Castro (*Cosmological Perspectivism in Amazonia and Elsewhere (1998)*)
+* Baruch Spinoza (*Ethics (1677)*) **Rationalist philosopher; rejected Cartesian dualism; argued for a deterministic universe governed by natural laws.**
 * John Locke (*An Essay Concerning Human Understanding (1689)*) **empiricist philosopher who asserted knowledge derives from experience (tabula rasa)**
 
 #### Astrophysics
