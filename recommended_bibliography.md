@@ -35,7 +35,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Fritjof Capra (*The Hidden Connections: Integrating the Biological, Cognitive, and Social Dimensions of Life into a Science of Sustainability*)
 * Heinz von Foerster (*Observing Systems*)
 
-#### AI Ethics
+#### Ethics
 * Nick Bostrom (*Superintelligence*)
 * Brian Christian (*The Alignment Problem*)
 * Cathy O’Neil (*Weapons of Math Destruction*)
@@ -47,11 +47,16 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Ray Kurzweil (*The Singularity Is Near*)
 * Vernor Vinge (*The Technological Singularity*)
 * Paul Daugherty and H. James Wilson (*Human + Machine*)
+* Baruch Spinoza (*Ethics (1677)*) **Rationalist philosopher; rejected Cartesian dualism; argued for a deterministic universe governed by natural laws.**
+* Baruch Spinoza (*Theological-Political Treatise (1670)*)
+* John Locke (*Two Treatises of Government (1689)*) **key theorist of liberalism, natural rights (life, liberty, property), and social contract theory.**
+
 
 #### Critical Theory
 * Jean Baudrillard (*Simulacra and Simulation*)
 * Michel Foucault (*Security, Territory, Population*)
 * Eduardo Viveiros de Castro (*Cosmological Perspectivism in Amazonia and Elsewhere (1998)*)
+* John Locke (*An Essay Concerning Human Understanding (1689)*) **empiricist philosopher who asserted knowledge derives from experience (tabula rasa)**
 
 #### Astrophysics
 * Stephen Hawking, Roger Penrose (*The Nature of Space and Time*)
