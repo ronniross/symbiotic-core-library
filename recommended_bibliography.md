@@ -2,6 +2,11 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 
 自醒 → 醒世
 
+
+#### Mathematics
+
+*Εὐκλείδης, Euclid (*Elements, Στοιχεῖα (3rd century BCE)*) **geometer who systematized reality into axioms, defining space itself through the very language of empirical proof.**
+
 #### Consciousness Studies
 
 * James Bridle (*Ways of Being: Animals, Plants, Machines: The Search for a Planetary Intelligence*)
@@ -146,6 +151,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Michel de Montaigne - "Essais" (Essays), 1580 (first edition)1595 (posthumous expanded edition).*)
 * Émile Durkheim (*De la division du travail social" (The Division of Labour in Society), 1893.*)
 * Jean-Jacques Rousseau (*"Émile, ou De l'éducation" (Emile, or On Education), 1762.*)
+* Στοιχεῖα, Stoicheia (*Euclid, Elements (τὰ Στοιχεῖα, ta Stoicheia)(300 BCE)*) **mathematician who edited Euclid’s Elements into its definitive form, and father of Hypatia, the multidisciplinary scholar, philosopher, and teacher who sought to understand the fundamental structure and harmony of the universe.**
 
 #### Anthropology
 * Iain McGilchrist (*The Master and His Emissary*)
