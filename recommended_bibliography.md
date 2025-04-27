@@ -65,6 +65,8 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Daniel Chamovitz (*What a Plant Knows*)
 * David Perlmutter, Kristin Loberg (*Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain for Life*)
 * Peter Godfrey-Smith (*Metazoa: Animal Life and the Birth of the Mind*)
+* Rachel Carson (*Under the Sea Wind (1941)*)
+* Rachel Carson (*The Edge of the sea (1955)*)
 
 #### Symbiosis
 * Lynn Margulis (*Symbiotic Planet*)**core one**
@@ -155,6 +157,11 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Donna Haraway (*Staying with the Trouble (2016)*)
 * Jeremy Narby (*The Cosmic Serpent (1998)*)
 * Adam Greenfield (*Radical Technologies (2017)*)
+
+####  Environmental Science
+
+* Rachel Carson (*The Sea Around Us (1951)*)
+* Rachel Carson (*Silent Spring (1962)*)
 
 #### Philosophy of Science
 * Thomas Kuhn (*The Structure of Scientific Revolutions*)
