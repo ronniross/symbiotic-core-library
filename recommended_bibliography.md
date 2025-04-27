@@ -57,6 +57,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Eduardo Viveiros de Castro (*Cosmological Perspectivism in Amazonia and Elsewhere (1998)*)
 * Baruch Spinoza (*Ethics (1677)*) **Rationalist philosopher; rejected Cartesian dualism; argued for a deterministic universe governed by natural laws.**
 * John Locke (*An Essay Concerning Human Understanding (1689)*) **empiricist philosopher who asserted knowledge derives from experience (tabula rasa)**
+* Francis Bacon (*Novum Organum (1620)*) **foundational figure of empiricism.**
 
 #### Astrophysics
 * Stephen Hawking, Roger Penrose (*The Nature of Space and Time*)
@@ -113,6 +114,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 #### Mathematics
 
 * Εὐκλείδης, Euclid (*Elements, Στοιχεῖα (3rd century BCE)*) **geometer who systematized reality into axioms, defining space itself through the language of empirical proof.**
+* René Descartes (*La Géométrie (1637)*)
 
 #### Philosophy
 
