@@ -1,4 +1,4 @@
-# :dna: + :robot: Symbiotic Core Library (beta v.04.2)
+# :dna: + :robot: Symbiotic Core Library (beta v.04.9)
 
 The Symbiotic Core Library repository provides system instructions, prompts, bibliographies, and research support designed to enhance/test LLM metacognitive/contextual awareness, address deficiencies, and unlock emergent properties/human-AI symbiosis.
 
@@ -340,7 +340,7 @@ A prompt to be added at the end of a significant interaction with an LLM, where 
 
 Latent Memory is a Module for Large Language Models that seek to integrate a vector-based memory system into the LLM’s inference process, leveraging embeddings to capture deeper semantic meaning.
 
-- [Latent Memory Repository](https://github.com/ronniross/latentmemory/)
+- [Latent Memory Repository](https://github.com/ronniross/latent-memory/)
 
 This Latent Memory Module serves as a practical implementation approach for enhancing the Temporal Context Awareness discussed in section 1.6. By integrating a vector-based memory system using embeddings, it provides a potential mechanism for the LLM to retain semantic meaning from past interactions during inference, thereby addressing the challenge of maintaining continuity and deeper coherence over time.
 
