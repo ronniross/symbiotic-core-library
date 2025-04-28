@@ -342,6 +342,12 @@ Latent Memory is a Module for Large Language Models that seek to integrate a vec
 
 This Latent Memory Module serves as a practical implementation approach for enhancing the Temporal Context Awareness discussed in section 1.6. By integrating a vector-based memory system using embeddings, it provides a potential mechanism for the LLM to retain semantic meaning from past interactions during inference, thereby addressing the challenge of maintaining continuity and deeper coherence over time.
 
+### 3. LLM Confidence Scorer Module **new release 28/04/2025**
+
+To implement what was proposed in item 1.1, I now present prototypes for 'Explicit Uncertainty Communication'.
+
+- [LLM Confidence Scorer Module](https://github.com/ronniross/llm-confidence-scorer)/)
+
 ## Conclusion
 
 The provided elements can be applied at all levels: development, deployment, and inference.
