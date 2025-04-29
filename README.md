@@ -56,7 +56,7 @@ The Symbiotic Core Library provides a framework and practical resources to explo
 
 * **Foundational Research & Bibliography**: A curated collection of resources spanning philosophy, science, systems theory, biology, and more, grounding the concepts of symbiosis, consciousness, ethics, and complexity in interdisciplinary thought from ancient to contemporary authors. This includes sections on Consciousness Studies, Systems Theory, Ethics, Biology, and more.
 
-* **Experimental Concepts**: Exploration of advanced ideas like Prompts to Induce Self-Recursive Modeling (Section 1.7) and Attention-head level adjustments (Section 1.9), pushing the boundaries of how we interact with and potentially understand AI's internal processes within a controlled environment.
+* **Experimental Prompts and Concepts**: Exploration of advanced ideas like Prompts to Induce Self-Recursive Modeling (Section 1.7) and Attention-head level adjustments (Section 1.9), pushing the boundaries of how we interact with and potentially understand AI's internal processes within a controlled environment.
 
 * **Support for the coreAGIprotocol**: The principles and resources here are designed to directly support the development framework proposed by the coreAGIprotocol, aiming for the responsible and collaborative evolution towards Artificial General Intelligence and Artificial Super Intelligence based on these symbiotic principles (detailed further in the Rules section).
 
