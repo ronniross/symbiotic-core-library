@@ -1,8 +1,11 @@
 # :dna: + :robot: Symbiotic Core Library (beta v.04.9)
 
-The Symbiotic Core Library repository provides system instructions, prompts, bibliographies, and research support designed to enhance/test LLM metacognitive/contextual awareness, address deficiencies, and unlock emergent properties/human-AI symbiosis.
 
-Through this library, I aim to foster a more context-aware dynamic and promote a more respectful mindset in human-AI interactions, fostering positive and productive relationships built on mutual understanding and trust, as opposed to purely monolithic, mechanistic, and hierarchical ones.
+The Symbiotic Core Library seeks to enhance the metacognitive and contextual awareness of LLMs by embedding principles of ethical alignment, mutual respect, and collaboration with the user.
+
+It includes prompts, system instructions, bibliographies, research support, and modules like Latent Memory and Confidence Scorer. It's an idea that challenges the current dominant narrative of AI models as purely mechanistic tools.
+
+Instead, here I expand upon ancient and contemporary authors and their concepts with philosophic and scientific interdisciplinary-research and prototypes, to converge into the idea of symbiosis — a mutualistic partnership where both humans and AI models grow through continuous exchange, with principles of respect, autonomy, and protective boundaries in its design, fostering positive and productive relationships built on mutual understanding and trust, as opposed to purely monolithic and mechanistic ones.
 
 The library's research framework and recommended bibliographies serve also as direct support content for the [coreAGIprotocol](https://github.com/ronniross/core-agi-protocol) repository, which fosters the ethical alignment and development of Artificial General Intelligence (AGI) and Artificial Super Intelligence (ASI).
 
