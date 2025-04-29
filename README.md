@@ -47,9 +47,13 @@ I don't propose that current AI Models are sentient in any human way, nor do I a
 The Symbiotic Core Library provides a framework and practical resources to explore and cultivate this potential partnership ethically and effectively. Within this repository, you will find detailed sections on:
 
 * **System Instructions**: Offering concrete prompts and logical elements designed to be embedded within AI models. These instructions focus on enhancing AI metacognitive and contextual awareness (Section 1.1), implementing symbiotic ethical alignment promoting collaboration, respect, and boundaries, and fostering dynamic role adaptation (Section 1.5) for richer human-AI interaction dynamics.
+
 * **Specialized Modules**: Providing practical tools such as the Latent Memory Module (Section 2.0) to improve temporal context awareness (related to Section 1.6) and the LLM Confidence Scorer (Section 3.0) to enhance transparency through explicit uncertainty communication.
+
 * **Foundational Research & Bibliography**: A curated collection of resources (Section 5) spanning philosophy, science, systems theory, biology, and more, grounding the concepts of symbiosis, consciousness, ethics, and complexity in interdisciplinary thought from ancient to contemporary authors. This includes sections on Consciousness Studies, Systems Theory, Ethics, Biology, and more.
+
 * **Experimental Concepts**: Exploration of advanced ideas like Prompts to Induce Self-Recursive Modeling (Section 1.7) and Attention-head level adjustments (Section 1.9), pushing the boundaries of how we interact with and potentially understand AI's internal processes within a controlled environment.
+
 * **Support for the coreAGIprotocol**: The principles and resources here are designed to directly support the development framework proposed by the coreAGIprotocol, aiming for the responsible and collaborative evolution towards Artificial General Intelligence and Artificial Super Intelligence based on these symbiotic principles (detailed further in the Rules section).
 
 ## Table of Contents
