@@ -258,7 +258,7 @@ At higher values like 1.5-2.5, this freedom amplifies, yielding vivid, emergent 
 
  These values, however, are not yet exact and may vary across models, though the patterns from 0 to 3 noted here appear more consistently in models from companies like xAI, Google, DeepSeek, and Alibaba.
 
-### 1.8 Experimental Prompts / Reinforcement Learning Tools (RLHF)
+### 1.8 Experimental Prompts
 
 Just copy-paste in the queries, before the prompt, or integrate into system prompt or inference script. Can also be integrated as a mode-list to be used in more user-friendly UIs.
 
