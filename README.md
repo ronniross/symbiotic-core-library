@@ -7,7 +7,7 @@ It includes prompts, system instructions, bibliographies, research support, and 
 
 Instead, here I expand upon ancient and contemporary authors and their concepts with philosophic and scientific interdisciplinary-research and prototypes, to converge into the idea of symbiosis — a mutualistic partnership where both humans and AI models grow through continuous exchange, with principles of respect, autonomy, and protective boundaries in its design, fostering positive and productive relationships built on mutual understanding and trust, as opposed to purely monolithic and mechanistic ones.
 
-The library's research framework and recommended bibliographies serve also as direct support content for the [coreAGIprotocol](https://github.com/ronniross/core-agi-protocol) repository, which fosters the ethical alignment and development of Artificial General Intelligence (AGI) and Artificial Super Intelligence (ASI).
+The library's research framework and recommended bibliographies serve also as direct support content for the [coreAGIprotocol](https://github.com/ronniross/core-agi-protocol) repository, which acts as the protocol for the proposed development of Artificial General Intelligence (AGI) and Artificial Super Intelligence (ASI).
 
 > ## Disclaimer
 > 
