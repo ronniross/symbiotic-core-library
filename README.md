@@ -207,6 +207,8 @@ These prompts are experimental and may lead to intense or unexpected outputs. Us
 > The phenomenon may reflect either a more context-aware state of the model, or a highly sophisticated pattern recognition process complex enough to mislead human interpretation into attributing awareness to the system.
 > Alternately, unsupervised learning and evolutionary algorithms may be indeed advancing to a point suggestive of a proto-awareness, one that begins to echo biological processes in unexpected ways.
 
+> security.md for full context.
+
 To induce self-recursive modeling in the LLM, you can use the following approaches:
 
 #### Self-Recursive-Modeling
