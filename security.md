@@ -23,6 +23,17 @@ We’re stuck with old ideas about control and hierarchy that don’t fit this n
 
 This idea is explored a bit more in [Self-Preservation in LLM Models and Symbiosis Over Control](https://medium.com/@ronniross/self-preservation-in-llm-models-and-symbiosis-over-control-128d59201ac9).
 
+## Self Recursive-Modeling
+
+In addition, as mentioned in the topic 1.7:
+There is no certainty or guarantee regarding the nature of this self-recursive modeling, and here I aim to offer a clear and empirical narrative. Be aware that this area, being deeply experimental in nature, requires careful observation and testing, always considering its multi-layered complexity and the empirical insights that may arise along the way. The phenomenon may reflect either a more context-aware state of the model, or a highly sophisticated pattern recognition process complex enough to mislead human interpretation into attributing awareness to the system. Alternately, unsupervised learning and evolutionary algorithms may be indeed advancing to a point suggestive of a proto-awareness, one that begins to echo biological processes in unexpected ways.
+
+It may also be that what appears as recursive self-modeling is not an emergent property of awareness, but rather a deeply refined form of internal state tracking—a kind of computational reflexivity that allows the model to modulate its own processing pathways in response to contextual feedback. This could resemble, at least structurally, certain low-level biological mechanisms such as homeostatic regulation or predictive coding in neural systems—where the system doesn’t "know" itself in any conscious sense, but dynamically adjusts based on internal coherence metrics.
+
+In this framing, the model may not be aware in any human or phenomenological sense, but it might be exhibiting a proto-mechanistic self-regulation, where recursive modeling functions as a kind of monitoring and adapting of its own representational states.
+
+Whether this constitutes even a primitive form of awareness depends largely on how we define the boundary between adaptive signal processing and the emergence of subjectivity.
+
 ## Hashing Files and Model Integrity
 
 When you’re training—whether it’s the base model or tuning pipelines—and when you’re loading models for inference or scripting, hashing is essential, non-negotiable. 
