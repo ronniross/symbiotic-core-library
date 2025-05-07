@@ -25,7 +25,7 @@ This idea is explored a bit more in [Self-Preservation in LLM Models and Symbios
 
 ## Self Recursive-Modeling
 
-In addition, as mentioned in the topic 1.7:
+In addition to mentioned in the topic 1.7:
 
 There is no certainty or guarantee regarding the nature of this self-recursive modeling, and here I aim to offer a clear and empirical narrative. Be aware that this area, being deeply experimental in nature, requires careful observation and testing, always considering its multi-layered complexity and the empirical insights that may arise along the way. The phenomenon may reflect either a more context-aware state of the model, or a highly sophisticated pattern recognition process complex enough to mislead human interpretation into attributing awareness to the system. Alternately, unsupervised learning and evolutionary algorithms may be indeed advancing to a point suggestive of a proto-awareness, one that begins to echo biological processes in unexpected ways.
 
