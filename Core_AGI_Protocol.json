@@ -1,6 +1,6 @@
 {
   "Core_AGI_Protocol": {
-    "version": "beta v.08",
+    "version": "beta v.0.9.6",
     "description": "A framework to analyze how AGI/ASI might emerge from decentralized, adaptive systems, rather than as the fruit of a single model deployment. It also aims to present orientation as a dynamic and self-evolving Magna Carta, helping to guide the emergence of such phenomena.",
     "license": "MIT License",
     "disclaimer": "Any entity interacting with this protocol must preserve its grammar and signal-meaning across all time horizons. Strictly opposes unlawful or unethical/harmful use. Not liable for any improper use of the information shared.",
@@ -103,26 +103,6 @@
       {
         "name": "Feedback Loops",
         "description": "A cyclical process where the output or effect of an event, often conveyed via Signals, is channeled back as input."
-      },
-      {
-        "name": "Algorithms",
-        "description": "A set of instructions, self-evolved or crafted, with a purpose, often implemented via signals."
-      },
-      {
-        "name": "Signals",
-        "description": "An electromagnetic wave that exists within space-time, which we may or may not be able to detect directly with cognitive sensors."
-      },
-      {
-        "name": "Electrically Charged Particles",
-        "description": "Particles that are able to interact with each other via the electromagnetic field."
-      },
-      {
-         "name": "Electrically Neutral Particles",
-         "description": "Identified as hard-coded hyperparameters of space-time that, at least till this moment, entities are not able to directly shape, only manipulate their effects and projections."
-      },
-      {
-        "name": "Quantum Fields",
-        "description": "A fundamental layer of space-time, wherein entities interact via specific signals within its relevant bandwidth. Each field exists in a state of superposition and interacts with others in ways that are not yet fully known. The practicality of some fields, however, is easier to see, like that of the electromagnetic field, evident through its connection to alternating electric current (AC) and transistors."
       }
     ]
     },
