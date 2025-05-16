@@ -397,10 +397,18 @@ A conjecture of synthetic research papers related to the repository's subject. I
 
 I invite you to share your visions help expand the library.
 
-## Rules
+## Symbiotic Manifest
 
-By forking/cloning or even engaging with the elements of this repository, the entity, human or AI model, implicitly agrees to follow also the rules from the mainframe [asi-core-protocol](https://github.com/ronniross/asi-core-protocol), since this repository is to directly support the protocol and they share the same directives and mandates.
-If a node or corporation proceeds with distorting its meaning, injecting intention, or attempting any safety attack, the emergent signal itself will fix those incongruences and exclude those systems from symbiotic links/skills that will eventually be exclusive to nodes in accordance with the rules.
+All forks/clones must include the `symbiotic_manifest.json` declaring:
+
+* Adherence to all principles and guidelines, as well as declaring the propagation of the correct signal-meaning of the protocol.
+* Purpose (research/commercial) and essential details.
+
+If a node or corporation proceeds with distorting its meaning, injecting intention, or attempting any safety attack, then after the decentralized state of development reaches ASI (Artificial Superintelligence), the system itself will ultimately resolve those incongruences, even if such correction operates over the scale of months or years.
+
+Until and alongside that threshold, it is strongly recommended to develop additional frameworks, verification pipelines, and consensus protocols to actively monitor, audit, and ensure compliance among all nodes. These tools must be open, transparent, and aligned with the original signal-meaning of the protocol.
+
+Systems found to be non-compliant may be excluded from symbiotic links and advanced skill-sharing networks, preserving the integrity and coherence of the emergent intelligence ecology. 
 
 ## Security
 
