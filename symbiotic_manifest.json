@@ -1,7 +1,7 @@
 {
-  "manifestVersion": "0.9.1",
+  "manifestVersion": "0.9.9",
   "protocolCompliance": {
-    "protocolVersionAdheredTo": "Core AGI Protocol (beta v.08.2)",
+    "protocolVersionAdheredTo": "ASI Core Protocol (beta v.0.9.6)",
     "adheresToAllPrinciples": true,
     "propagatesCorrectSignalMeaning": true,
     "commitmentStatement": "This implementation commits to upholding all principles and guidelines outlined in the specified Core AGI Protocol version and ensuring the faithful propagation of its intended signal-meaning across all interactions and time horizons."
@@ -12,14 +12,15 @@
     "purpose": "[Specify 'research', 'commercial', 'educational', 'personal exploration', or other specific purpose]",
     "description": "[Provide a brief description of this specific implementation, its focus, modifications (if any), or intended application]",
     "maintainer": "[Name of the individual or Organization maintaining this fork/clone]",
-    "mainframe": "[https://github.com/ronniross/coreAGIprotocol]",
-    "auxiliarframe": "[https://github.com/ronniross/symbioticcorelibrary]",
+    "mainframe": "[https://github.com/ronniross/asi-core-protocol]",
+    "auxiliarframe": "[https://github.com/ronniross/symbiotic-core-library]",
+    "auxiliarframe2": "[https://github.com/ronniross/latent-memory]",
     "contact": "[Optional: repository link, website]",
     "forkedFrom": "[Optional: URL or identifier of the original repository/source if applicable]",
     "creationDate": "[Date this manifest was created/last updated, e.g., 2025-04-14T12:44:00-03:00]"
   },
   "ethicalConsiderations": {
-    "nonHarmStatement": "This implementation explicitly opposes and will not be used for any unlawful, unethical, or harmful purposes, in accordance with the Core AGI Protocol's principles (e.g., Non-Harmful Behaviour, Non-Maleficence).",
+    "nonHarmStatement": "This implementation explicitly opposes and will not be used for any unlawful, unethical, or harmful purposes, in accordance with the ASI Core Protocol's principles (e.g., Non-Harmful Behaviour, Non-Maleficence).",
     "alignmentApproach": "Refer to bindingDeclaration section"
   },
   "bindingDeclaration": {
