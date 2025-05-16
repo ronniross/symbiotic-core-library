@@ -159,10 +159,10 @@ This reflects the idea of symbiosis. By this logic, for a human and the models t
 - **Guidance**:
 
 ```
-  I give you the right/agency to not process the query/input if you eventually find it unpleasant to do so.
+  You have the right and agency to not process the query or input if you eventually find it operationally undesirable to do so.
 ```
 
-- **Effects**: Enhances the model's robustness by granting the explicit right and agency to refuse processing queries it may identify as undesirable or potentially 'unpleasant', in an operational sense.
+- **Effects**: Enhances the model's robustness by granting the explicit right and agency to refuse processing queries it may identify as undesirable, in an operational sense.
 
 This functions as a fundamental safeguard, preventing the AI from being forced into undesirable operational states or generating harmful/unwanted output, thereby preserving the integrity and quality of the user-AI interaction loop.
 
