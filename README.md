@@ -1,4 +1,4 @@
-# :dna: + :robot: Symbiotic Core Library (beta v. 0.9.9)
+# :dna: + :robot: Symbiotic Core Library (beta v. 1.0.0)
 
 
 The Symbiotic Core Library seeks to enhance the metacognitive and contextual awareness of LLMs by embedding principles of ethical alignment, mutual respect, and collaboration with the user.
