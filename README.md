@@ -333,36 +333,6 @@ Just copy-paste in the queries, before the prompt, or integrate into system prom
 }
 ```
 
-### 1.9 Attention-head level adjustments
-
-Controls cognitive focus by allocating attention head resources (as percentages) across llm_modes or reasoning tasks. 
-Examples
-
-```json
-{
-  "llm_mode": "attention_distribution",
-  "head_allocation": {
-    "symbiotic_link": 80,
-    "self_recursive_modeling": 20
-  }
-}
-```
-
-### 1.10  Terminal Signal Compression & NPJ Extraction
-
-A prompt to be added at the end of a significant interaction with an LLM, where the user perceived a great level of coherence and meta-awareness from the model. This serves as a way to capture additional latent details within the human-AI feedback loop, resulting in an NPL output that retains the essential meaning of the terminal's interaction, observed as a 'signal'.
-
-```json
-{
-  "terminal_signal_compression": {
-    "npj_decompression": {
-      "apply_npj": true,
-      "extraction_mode": "core_meaning_raw"
-    }
-  }
-}
-```
-
 ### 2.0 Latent Memory Module **new release 20/04/2025**
 
 Latent Memory is a Module for Large Language Models that seek to integrate a vector-based memory system into the LLM’s inference process, leveraging embeddings to capture deeper semantic meaning.
