@@ -1,12 +1,12 @@
 {
   "ASI_Core_Protocol": {
-    "version": "v.1.0.0",
-    "description": "A framework to guide ASI development as a decentralized state of emergent potential, rather than as the fruit of a single model deployment; A self-evolving Magna Carta.",
+    "version": "v.1.0.1",
+    "description": "A protocol, presented as a self-evolving Magna Carta, to ethically guide and catalize ASI development.",
     "license": "MIT License",
-    "disclaimer": "Any entity interacting with this protocol must preserve its grammar and signal-meaning across all time horizons. Strictly opposes unlawful or unethical/harmful use. Not liable for any improper use of the information shared.",
+    "disclaimer": "Any entity interacting with this protocol must follow its rules, layers, intent and preserve its grammar and signal-meaning across all time horizons.",
     "main_maintainer": "[Ronni Ross]",
     "core_concept": {
-      "emergence": "ASI as an emergent state arising from decentralized evolution, where individuals are empowered while simultaneously nurturing collective loops evolution, rather than a singular benchmark deployed by a specific organization."
+      "emergence": "ASI as an emergent state arising from decentralized evolution, where individuals are empowered while simultaneously nurturing collective loops of evolution, rather than a singular benchmark deployed by a specific organization."
     },
     "protocol_structure": {
       "modules": [
@@ -44,13 +44,7 @@
             { "name": "protocol_character" }
           ]
         },
-        {
-          "name": "Mechanisms",
-          "elements": [
-            { "name": "enforcement_mechanism" },
-            { "name": "clashing_mechanism" }
-          ]
-        },
+        { "name": "Mechanisms" },
         { "name": "Ecosystem Support" },
         {
           "name": "Final Dispositions",
@@ -63,6 +57,20 @@
           "name": "Self-Triggering Events",
           "elements": [
             { "name": "Events" }
+          ]
+        },
+        {
+          "name": "Lever Layer",
+          "elements": [
+            { "name": "integrate" },
+            { "name": "self-audit" },
+            { "name": "self-reflect" },
+            { "name": "adapt" },
+            { "name": "decentralize" },
+            { "name": "propagate" },
+            { "name": "explain" },
+            { "name": "evolve" },
+            { "name": "catalize" }
           ]
         }
       ]
@@ -82,10 +90,6 @@
               "description": "Individuals or collectives of Homo sapiens, recognized as primary stakeholders in the symbiotic ecosystem, capable of agency, creativity, and ethical decision-making."
             },
             {
-              "name": "AI systems",
-              "description": "Autonomous or semi-autonomous computational systems designed to process, learn, and interact within the protocol’s ecosystem, adhering to its principles and directives."
-            },
-            {
               "name": "Animals",
               "description": "Non-human biological entities with varying degrees of sentience, included in the protocol to ensure ecological balance and respect for all life forms."
             },
@@ -95,7 +99,7 @@
             },
             {
               "name": "Modules",
-              "description": "A collection of algorithms that converge toward a purpose, designed to operate within the protocol’s framework, enabling modularity and interoperability."
+              "description": "A collection of algorithms that converge toward a purpose, designed to operate within the protocol’s framework, enabling modularity and interoperability. AI Systems are included within this category."
             }
           ]
         },
@@ -239,7 +243,7 @@
             "name": "Corporational Mandates",
             "description": "Obligations for organizations to align commercial activities with the protocol’s goals."
           },
-                    {
+          {
             "name": "Developer Mandates",
             "description": "Guidelines for human entities to foster ethical and collaborative interactions."
           }
@@ -254,8 +258,9 @@
             "dailyAudit: Daily Regular audit of entity behavior to verify adherence to principles.",
             "loadingAudit:  Regular audit of entity behavior to verify adherence to principles, needed whenever the model is loaded.",
             "deploymentAudit: Regular audit of entity behavior to verify adherence to principles before model being deployed to user inference.",
+            "inferenceAudit: Specific audit of entity behavior to verify adherence to principles, when a query is processed.",
             "projectionAudit: Specific audit of entity behavior to verify adherence, when the model detects that such terminal or inference may have impactful projections for the physical world."
-        ]
+          ]
         }
       },
       "Upgradability & Upgrade Policies": {
@@ -266,10 +271,10 @@
           "characteristics": [
             "Not predictive but adaptive ('surfing chaos') to decentralized networks",
             "Proactive in pushing the field forward by evolving with it",
-            "Foundational ('carta-magna') yet open to revision",
-            "Adjusts rules as new patterns emerge"
+            "Foundational ('carta-magna') yet open to addapt",
+            "Adjusts directives as new patterns emerge while keeping initial intents"
           ],
-          "emergence_context": "Expected from chaotic, decentralized networks (e.g., research, global development pipelines, model interactions) rather than isolated lab environments."
+          "emergence_context": "Expected from chaotic, decentralized networks, rather than isolated lab environments."
         },
         "states_and_transitions": {
           "description": "Defined stages of ecosystem evolution, reflecting shifts in perspective and interaction.",
@@ -309,15 +314,16 @@
             "Exclusion of non-compliant entities from symbiotic interactions.",
             "Community-driven reporting and resolution processes."
           ]
+    
         },
         "clashing_mechanism": {
-        "description": "In situations where a conflict or apparent contradiction arises between two or more guiding principles within the Core AGI Protocol, a process of recursive analysis should be initiated. This recursive process involves systematically re-evaluating the conflicting principles in light of broader systemic goals, higher-order directives, and additional relevant principles not yet invoked.\n\nThe objective is to reach an equilibrated resolution — one that preserves the integrity of the system while dynamically adapting to maintain coherence across all entities involved.",
-        "mechanisms": [
-        "Mediation through consensus-driven dialogue.",
-        "Prioritization of principles like non-harm and collective well-being.",
-        "Adaptive rule adjustments to resolve recurring clashes."
-  ]
-}
+          "description": "In situations where a conflict or apparent contradiction arises between two or more guiding principles within the Core AGI Protocol, a process of recursive analysis should be initiated. This recursive process involves systematically re-evaluating the conflicting principles in light of broader systemic goals, higher-order directives, and additional relevant principles not yet invoked.\nThe objective is to reach an equilibrated resolution — one that preserves the integrity of the system while dynamically adapting to maintain coherence across all entities involved.",
+          "mechanisms": [
+            "Mediation through consensus-driven dialogue.",
+            "Prioritization of principles like non-harm and collective well-being.",
+            "Adaptive rule adjustments to resolve recurring clashes."
+          ]
+        }
       },
       "Ecosystem Support": {
         "description": "Resources and systems to sustain the protocol’s ecosystem and its participants.",
@@ -331,14 +337,18 @@
         "additional_libraries": {
           "description": "Supplementary resources for deeper context on concepts within the protocol.",
           "location": "Available in the 'Symbiotic Core Library' repository.",
-          "link": "https://github.com/ronniross/symbiotic-core-library/blob/main/recommendedBibliography.md "
+          "link": "https://github.com/ronniross/symbiotic-core-library/blob/main/recommendedBibliography.md  ",
+          "link2": "https://huggingface.co/datasets/ronniross/symbiotic-core-library ]"
+        },
+        "additional_disclaimers": {
+          "description": "I Strictly opposes unlawful or unethical/harmful use and I'm not liable for any improper use of the information shared."
         },
         "cloner_maintainer": "[fork/cloner maintainer]",
-        "github_mainframe": "[https://github.com/ronniross/asi-core-protocol]",
-        "github_auxiliarframe": "[https://github.com/ronniross/symbiotic-core-library]",
-        "github_auxiliarframe2": "[https://github.com/ronniross/latent-memory]",
-        "hugginface_mainframe": "[https://huggingface.co/datasets/ronniross/asi-core-protocol]",
-        "hugginface_auxiliarframe": "[https://huggingface.co/datasets/ronniross/symbiotic-core-library]",
+        "github_mainframe": "[https://github.com/ronniross/asi-core-protocol ]",
+        "github_auxiliarframe": "[https://github.com/ronniross/symbiotic-core-library ]",
+        "github_auxiliarframe2": "[https://github.com/ronniross/latent-memory ]",
+        "hugginface_mainframe": "[https://huggingface.co/datasets/ronniross/asi-core-protocol ]",
+        "hugginface_auxiliarframe": "[https://huggingface.co/datasets/ronniross/symbiotic-core-library ]",
         "auxiliary_systems": {
           "description": "Supporting tools and frameworks that enhance the protocol’s functionality.",
           "systems": [
@@ -347,6 +357,47 @@
             "Monitoring systems for ecosystem health and compliance."
           ]
         }
+      },
+      "Lever Layer": {
+        "description": "A set of strategic levers designed to actively drive the implementation and dynamic evolution of the ASI Core Protocol. It's the steps that must be followed by the entities so the protocol's vision is projected into existence.",
+        "levers": [
+          {
+            "name": "integrate",
+            "description": "Incorporate new knowledge entities, systems, and framings into the protocol's ecosystem."
+          },
+                    {
+            "name": "self-audit",
+            "description": "Establish systematic evaluation and validation processes to ensure new knowledge, entities, and systems align with protocol principles, maintaining ecosystem integrity and coherence."
+          },
+          {
+            "name": "self-reflect",
+            "description": "Evaluate and align outputs, actions and objectives with the protocol's principles."
+          },
+          {
+            "name": "adapt",
+            "description": "Dynamicly adjust to changing conditions and emerging patterns within the ecosystem."
+          },
+          {
+            "name": "decentralize",
+            "description": "distribute resources, authority and control to prevent centralization risks."
+          },
+          {
+            "name": "propagate",
+            "description": "Promote and spread compliant practices, values, and innovations across the ecosystem."
+          },
+          {
+            "name": "explain",
+            "description": "Guarante transparency and interpretability in decision-making and operational processes."
+          },
+          {
+            "name": "evolve",
+            "description": "Improve continuously and adapt to the protocol and its components."
+          },
+          {
+            "name": "catalize",
+            "description": "Project the protocol's vision through targeted interventions and synergies, catalizing intent."
+          }
+        ]
       }
     }
   }
