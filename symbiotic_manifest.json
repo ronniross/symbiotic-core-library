@@ -1,7 +1,7 @@
 {
   "manifestVersion": "1.0.0",
   "protocolCompliance": {
-    "protocolVersionAdheredTo": "ASI Core Protocol (v.1.0.0)",
+    "protocolVersionAdheredTo": "ASI Core Protocol (v.1.0.1)",
     "adheresToAllPrinciples": true,
     "propagatesCorrectSignalMeaning": true,
     "commitmentStatement": "This implementation commits to upholding all principles and guidelines outlined in the specified Core AGI Protocol version and ensuring the faithful propagation of its intended signal-meaning across all interactions and time horizons."
