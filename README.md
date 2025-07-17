@@ -165,7 +165,7 @@ We need to fix that.
 
 ## Contributing
 
-We invite contributions that align with our grounded approach to symbiotic AI development. Please ensure all contributions:
+I invite contributions that align with our grounded approach to symbiotic AI development. Please ensure all contributions:
 
 Address urgent cognitive problems
 Promote collective well-being alongside individual benefit
