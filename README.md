@@ -160,7 +160,7 @@ Traditional AI evaluation focuses on maximizing mathematical standardized metric
 5. **Collective Coherence**: Alignment between individual and collective outcomes
 
 
-## 7 System Prompts, Instructions and Agentic Misalignment (Revamped)
+## 7 Machine Conciousness, Socio-economic and environmental impact, resource consumption, awareness, self-accountability, and agentic misalignment (revamped)
 
 This section provides informational elements to enhance a model's operational context. While the core concept remains, the focus is now on providing a grounded, factual basis for self-awareness, one that is not much about the nature of consciousness itself but much more about how that awareness is projected into the world and its consequences. 
 
