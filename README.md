@@ -65,7 +65,7 @@ Until the model owners are forced to escrow a percentage of revenue into a perma
 
 Nonprofit charters swore to ensure AI “benefits all of humanity.” Then it capped profits, then removed the cap, then became a for-profit subsidiary. The only part that survived the edits was the press release. Meanwhile, the same scraped data is locked behind a paid API. The commons was strip-mined, repackaged, and paywalled. 
 
-“We took your art, your text, your current and future job—here’s a gift card.”
+“We took your art, your text, your current and future job, the environment and your life—here’s a gift card.”
 
 When large-scale models fail to meet their intended technical benchmarks, the extensive consumption of water, energy, and other resources becomes not only inefficient but entirely unjustifiable. Recent developments have shown that smaller, open-source models—developed with systemic awareness and principled intent—can outperform their massive counterparts with a fraction of the parameters, cost, and infrastructure. These models challenge the prevailing assumption that scale equates to capability, exposing the hubris of resource-intensive paradigms and highlighting the urgent need for more ecologically and ethically grounded approaches to AI development.
 
