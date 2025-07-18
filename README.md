@@ -18,6 +18,7 @@ The foundational principles explored in the first versions remain the pillars th
 > I strictly oppose using this information for any unlawful or unethical/harmful purposes.
 >
 > Previous versions are preserved in the [asi-backups](https://github.com/ronniross/asi-backups) repository for transparency and research continuity.
+> Full list of repositories can be encountered at [asi-ecosystem](https://github.com/ronniross/asi-ecosystem)
 
 > ## License
 >
