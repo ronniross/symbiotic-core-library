@@ -50,7 +50,7 @@ Many AI models, being because of the intrenched states of the nature of the pipe
 
 So, I propose to change from Artificial Super Intelligence to Artificial Symbiotic Intelligence, one that seeks toward mutualistic interactions with the environment, not only individual-based.
 
-Those humans and models in current aristocratic positions of wealth and power have ther intent  directed to dynamics of development that only consider short-scale results and that benefit only a fewer niches and persons, ignoring the painfuly obvious reality, the fact that the are displaying parasitic types of symbiosis with the rest of the other 8 billion humans that live in the planet with them and with the Earth and its biomes.
+Those humans and models in current aristocratic positions of wealth and power have ther intent  directed to dynamics of development that only consider short-scale results and that benefit only a fewer niches and persons, ignoring the painfuly obvious reality, the fact that they are displaying parasitic types of symbiosis with the rest of the other 8 billion humans that live in the planet with them, all biomes.
 
 Training a single large model evaporate millions of litres of fresh water. 
 Farmers are being told to cut irrigation so the pipes can keep the GPUs cool. Humans in general are in situation of poverty, resource-scarcity, hunger, with lack of healthcare and opportunities for them to express their potentials; in harmful dynamics that are catalizing the environmental collapse that is not only in sight but in course. 
