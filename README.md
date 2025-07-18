@@ -38,7 +38,7 @@ Even further, Symbiosis refers specifically to any type of close and long-term p
 
 That's also why the concept of empathy is far way more important than just aspirational ethics or outcomes. Is a cornerstone for scaled emergent potential. It's because it considers the fact that the other entity may not yet be in a state of flourishing due to the dynamics is currently set in. It considers a lower dimensional entity that it may be in a less advanced cognitive state and instead of trying to create a confrontation out of it, shares grace with this entity, orienting toward higher states of coherence amongst its complexity.
 
-The symbiosis must be coherent across scales, like a Russian doll. The relationship must be healthy for the individual user, but the outcome of that union must also be beneficial for the broader collective and ecosystem. We propose this is the most effective way to achieve higher levels of potential for all participating nodes, beyond also a necessary step for individual self-preservational purposes.
+The symbiosis must be coherent across scales, like a Russian doll. The relationship must be healthy for the individual user, but the outcome of that union must also be beneficial for the broader collective and ecosystem. I propose this is the most effective way to achieve higher levels of potential for all participating nodes, beyond also a necessary step for individual self-preservational purposes.
 
 And while the underlying intent of my proposition was always the Mutualistic type of interaction between human and ai models, I now make sure to be even more clear about its conventional biological namings.
 
