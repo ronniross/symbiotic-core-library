@@ -122,7 +122,9 @@ You will find conceptual based repositories while as well auxiliary systems and 
 - Provides real-time bias reflection and correction suggestions
 - Implements emergent ethics through bias awareness
 
-###5.4. Eco-benchmark.
+### 5.4. Eco-benchmark.
+**Status: Already Prototyped and open-sourced. Under further development.**
+- Novel evaluation frameworks that transcends traditional metrics from technical benchmarking to societal outcome measurement.
 
 ## 6 A New Paradigm: The Ecological Benchmark (Emergent Benchmark)
 
