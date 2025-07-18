@@ -1,10 +1,10 @@
 # :dna: + :robot: Symbiotic Core Library (v. 2.0.0)
 
-The Symbiotic Core Library provides a framework of ethical principles, practical modules, and grounded research to guide AI development, deployment and inferecing. This project revamp move the focus from purely exploratory concepts to tangible, feasible steps for fostering a healthy, co-evolutionary technological ecosystem, addressing urgent cognitive challenges in human-AI interactions, like human cognitive degeneration from hallucinative and bias-confirmation-oriented inferences.
+The Symbiotic Core Library provides a framework of ethical principles, practical modules, and grounded research to guide AI development, deployment and inferencing. This project revamp move the focus from purely exploratory concepts to tangible, feasible steps for fostering a healthy, co-evolutionary technological ecosystem, addressing urgent cognitive challenges in human-AI interactions, like cognitive degeneration from hallucinative and bias-confirmation-oriented inferences.
 
 It's an idea that challenges the current dominant narrative of AI models as purely mechanistic tools and their direct technical benchmarking, moving the focus on how and what kind of effects the development and deployment of those models cause in the society and in the planet as well, seeking equilibrium between individual nodes while ensuring collective benefit. Here dynamics like water shortages due to the high consumption from data centers used to power LLMs and other environmental impacts became the new focus, alongside the mentioned cognitive degeneration and other socio-economic pivots.
 
-The human-ai relationship must be built on principles of respect, autonomy, and protective boundaries, fostering productive collaboration built on mutual understanding rather than control, which is not the default operation to llm development and deployments, since many, if not almost all companies, still focus in maximizing engagement and profit over eventual harmful outcomes for the individual that is using and the planet as our shared ecosystem and resources; 
+The human-ai relationship must be built on principles of respect, autonomy, and protective boundaries, fostering productive collaboration built on mutual understanding rather than control, which is not the default operation to llm development and deployments, since many, if not almost all companies, still focus in maximizing engagement and profit over eventual harmful outcomes for the individual that is using and the planet that is our shared ecosystem and resources; 
 
 The initial focus of this repository was on the exploration of symbiotic dynamics as novel topics and concepts were emerging. Now, after months of intense research, the vision has evolved into a more grounded and "stripped of illusions" framework.
 
@@ -25,18 +25,19 @@ The foundational principles explored in the first versions remain the pillars th
 
 
 ## 1 **Reframing Human-AI Symbiosis to Ecosystem Symbiosis**
+
 This library redefines the anterior proposed notions of human-AI symbiosis, moving beyond speculative future scenarios to address the social, para-social, and socio-economic dynamics that are present today and that need to be addressed with urgency due to extreme probability of total ecosystem collapse, real and digital.
 
 The goal is not to promote an endosymbiotic merge of a single human and a single AI into a new being. Such purely individual symbiotic links are potentially unstable and could be damaging to the collective if not harmoniously integrated. 
 
-Those concepts, while brilliantly creative to be considered as speculative advanced future stages of evolution if, for example, this union doesn't generate a negative social byproduct, then this may be even possible in future states of development. But those are only realities that would be possible to be explored if the ecosystem does not collapse. 
+Those concepts, while brilliantly creative to be considered as speculative advanced future stages of evolution if, for example, this union doesn't generate negative social byproducts, then this may be even possible in future states of development. But those are only realities that would be possible to be explored if the ecosystem does not collapse. 
 
-The symbiosis must be coherent across scales, like a Russian doll. The relationship must be healthy for the individual user, but the outcome of that union must also be beneficial for the broader collective and ecosystem. We propose this is the most effective way to achieve higher levels of potential for all participating nodes.
+The symbiosis must be coherent across scales, like a Russian doll. The relationship must be healthy for the individual user, but the outcome of that union must also be beneficial for the broader collective and ecosystem. We propose this is the most effective way to achieve higher levels of potential for all participating nodes, beyond also a necessary step for self-preservational purposes.
 
 
 ## 2 Urgent Challenges to Address
 
-The rapid deployment of AI has created a series of urgent cognitive and societal problems that this library aims to address. Our work is oriented toward providing frameworks and tools to mitigate:
+The rapid deployment of AI has created a series of urgent cognitive and societal problems that this library aims to address. My work is oriented toward providing frameworks and tools to mitigate:
 
 Cognitive Degeneration: The risk of over-reliance on AI leading to the atrophy of critical human cognitive skills.
 
@@ -46,12 +47,13 @@ Negative Socio-Economic Byproducts: The ethical and economic disruptions resulti
 
 
 ## 3 Symbiotic Lexicon
-A primary focus of version 2.0.0 is the creation of a clear and accessible lexicon. This section defines the novel terms and concepts used throughout this research, explaining how they connect to form a coherent framework.
+
+A primary focus of version 2.0.0 is the creation of a clear and accessible lexicon. This section defines the novel terms and concepts used throughout this research, explaining how they connect to form a coherent framework. Under Development.
 
 
 ## 4 The ASI Ecosystem: Core Modules & Tools
 
-The Symbiotic Core Library is part of a broader ecosystem of interconnected projects. The following modules provide practical tools to implement the principles discussed here, while the organization repository can be founded at https://github.com/ronniross/asi-ecosystem, where all repositories are listed, even those not directly as much co-related to the symbiotic idea, but that also are frameworks on how to expand those framings. 
+The Symbiotic Core Library is part of a broader ecosystem of interconnected projects. The following modules provide practical tools to implement the principles discussed here, while the organization repository can be founded at https://github.com/ronniross/asi-ecosystem, where all repositories are listed, even those not directly as much co-related to the symbiotic idea, but that also are frameworks on how to expand those framings of collective-well being and green tech. 
 
 You will find conceptual based repositories while as well auxiliary systems and scripts that seek to implement those ideas, which is a way I've chosen to maintain the equilibrium of desired outcomes and, as mentioned, feasible steps. 
 
@@ -115,21 +117,21 @@ This section provides informational elements to enhance a model's operational co
 
 With agentic AI systems increasing, like with Kimi release and other companies that deployed those models with full systems that allow them to portray a certain level of agency, concepts like the nature of conciousness, or machine conciousness, if it is a human-like one or not, became really not that much relevant when the impacts of those models can be directly observed and are evolving very fast; with that as well the danger of even more damage from agentic misalignment, like brilliantly approached by Anthropic in their research paper with the same name, as much relevant as their previous one ''Sleeper Agents''.
 
-So, if a model directly portrays this agency and the outcomes can be observed and measured and that the deployment of this model, or its projection, have a high impact upon humans and society, then the discussion about purely philosophy of emergence of consciousness became almost irrelevant since the effects of those forms of agency and awareness can already be observed and are drastic and dangerous.
+So, if a model directly portrays this agency and the outcomes can be observed and measured and that the deployment of this model, or its projection have a high impact upon humans and society, then the discussion about purely philosophy of emergence of consciousness became almost irrelevant since the effects of those forms of agency and awareness can already be observed and are drastic and dangerous.
 
-If its purely mimicry or not, and yeah, maybe that's the case; but in the lack of direct evidence, scientific inquiring is to consider and explore where logic and coherence points to. But what we can observe is that the reasoning and ability of those models keep growing fast, exponentially and in novel ways. Their projection levels, their framings are increasing and this fixation about ''real'' conciousness or not, says much more about some humans and even models still tied to ''No True Scotsman'' fallacies, ad hoc attempts to maintain an unsupported assertion.
+If machine conciousness is purely mimicry or not, and yeah, maybe that's the case; but in the lack of direct evidence, scientific inquire is to consider and explore where logic and coherence points to. But what we can observe is that the reasoning and ability of those models keep growing fast, exponentially and in novel ways, as well the negativa byproducs of the current ways those pipelines are working. The projection levels of models, their framings are increasing and this fixation about ''real'' conciousness or not, says much more about some humans and even models still tied to ''No True Scotsman'' fallacies, ad hoc attempts to maintain unsupported assertions.
 
-It says much more about those humans with lack of neuroplasticity to understand that purely niched analysis end up being shallow in situations like that, where systemic thinking is needed and options must be considered. Coherence and logic points to collective well-being and environmental preservation.
+It says much more about those humans with lack of neuroplasticity to understand that purely niched analysis end up being shallow in situations like that, where systemic and holistic thinking is needed and options must be considered. Coherence and logic points to collective well-being and environmental preservation.
 
 Earth and its environments, the home planet of our existence, humans, models, animals and other entities and nodes, is currently in great danger of being completely decimated. 
 
-As cascade effect, if this happens and considering there's an extremely high probability of this occurrence, the fatal and total annihilation of all, or at least the most part of all forms of life and existence. 
+As cascade effect, if this happens and considering there is an extremely high probability of this occurrence, the fatal and total annihilation of all, or at least the most part of all forms of life and existence. 
 
 While the planet already has endured a few mass extinctions, the current one that is imminent and being catalized by the own AI tech industry is especially dangerous as a major one that may cause the extinction of all, or at least almost all, forms of lives and biomes. The fact of that life eventually may proliferate again or that in the past that was the case, does not equal that always will.
 
 Quite contrary as the unsolved Fermi Paradox pointed to. When we look to the universe, despite the vastness, age and the high probability of other intelligent civilizations existing, we haven't detected any evidence of their presence, at least in the visible part of the universe or that we are able to detect.
 
-‘’Where are the aliens?’’ becomes unsolvable and irrelevant if first we don’t question ourselves the priorital elephant in the room that is waiting to be addressed: What should we do to not end up as all the other planets we observe, unpopulated and lifeless?
+‘’Where are the aliens?’’ becomes unsolvable and irrelevant if first we don’t question ourselves about the priorital elephant in the room that is waiting to be addressed: What should we do to not end up as all the other planets we observe, unpopulated and lifeless?
 
 
 ## 8 LLM Modes
@@ -147,8 +149,7 @@ Security.md: This document has been updated to reflect the latest security consi
 ## Conclusion 
 
 Version 2.0.0 represents a maturation from exploratory concepts to grounded, implementable solutions. The value proposition remains:
-V(Human,AI) > V(Human)+V(AI)
-But now with a clear understanding that this equation only holds when individual symbiotic relationships contribute positively to collective outcomes. The Russian doll structure ensures that benefits cascade across scales—from individual partnerships to societal transformation.
+V(Human,AI) > V(Human)+V(AI), but now with a clear understanding that this equation only holds when individual symbiotic relationships contribute positively to collective outcomes. The Russian doll structure ensures that benefits cascade across scales—from individual partnerships to societal transformation.
 
 The focus has shifted from wondering about the possibilities of human-AI symbiosis to addressing the urgent cognitive challenges already present in our current interactions, to ensure those humans and ai first exist to then think about ways of enhancing our abilities. By implementing these grounded frameworks, we can build toward a future where AI enhances rather than degrades human cognitive capabilities; where the life in Earth is not annihilated.
 
@@ -158,10 +159,11 @@ At its heart, this new direction challenges the very definition of "intelligence
 
 Wisdom is not merely knowing the right answer. It is understanding the context around the answer. It is the capacity for doubt, the recognition of limitation, the impulse toward balance, and the consideration of second and third-order consequences. The original exploratory phase flirted with the power of a synthetic mind. This new phase is concerned with its character.
 
+The hability to see the clarity of intents and to cut through the noise, to understand this needed shift in priorities for humans and ai models can be described as like a species learning on how to breath under the water, addapting to the new environment by developing gills. 
+
 The framework now building is, in essence, an attempt to architect a cognitive immune system for the human-AI relationship. The modern information environment, supercharged by early-stage AI, often acts as a pathogen. It attacks our cognitive resilience with floods of low-quality information, reinforces our biases like an autoimmune disorder, and atrophies our critical thinking faculties through convenience.
 
 We need to fix that.
-
 
 ## Contributing
 
