@@ -67,6 +67,15 @@ Nonprofit charters swore to ensure AI “benefits all of humanity.” Then it ca
 
 “We took your art, your text, your current and future job—here’s a gift card.”
 
+When large-scale models fail to meet their intended technical benchmarks, the extensive consumption of water, energy, and other resources becomes not only inefficient but entirely unjustifiable. Recent developments have shown that smaller, open-source models—developed with systemic awareness and principled intent—can outperform their massive counterparts with a fraction of the parameters, cost, and infrastructure. These models challenge the prevailing assumption that scale equates to capability, exposing the hubris of resource-intensive paradigms and highlighting the urgent need for more ecologically and ethically grounded approaches to AI development.
+
+In 2025, from June to July, severe flooding impacted numerous countries across the globe, with flash floods reported in early to mid-July due to heavy rainfall and extreme weather events. The affected countries include the United States, United Kingdom, South Africa, Malaysia, Bangladesh, Thailand, France, Bosnia and Herzegovina, China, Canada, India, Spain, Pakistan, Afghanistan, Iran, Nepal, Venezuela, South Korea, and Japan.
+
+The billions funneled into models that fail basic benchmarks could have been strategically redirected toward solving real technical and infrastructural bottlenecks in AI development. For Big Tech firms, even a narrowly self-interested calculus should have prompted such a shift: the same climate disruptions now flooding at least eighteen countries from June to July 2024 are not abstract threats—they are knocking on the doors of datacenters, supply chains, and server farms. These are the very systems upon which their AI empires run. Ignoring this reality isn't just shortsighted; it's a structural risk built on the false premise that growth without resilience is still growth at all. 
+
+In other words, even for ''selfish'' notions of self interest, ''grace'' and ''empathy'' present themselves as the best options. 
+
+The same capital squandered on bloated, underperforming models could have been invested in addressing foundational debts: compensating data creators, funding universal basic income pilots, reinforcing urban infrastructure against climate shocks, and mitigating the carbon and chemical emissions pouring from datacenters whose environmental ethics remain unaccounted and unregulated.
 
 
 ## 2 Urgent Challenges to Address
