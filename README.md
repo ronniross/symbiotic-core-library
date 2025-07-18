@@ -88,6 +88,8 @@ Exacerbated Cognitive Hallucination & Confirmation Bias: The tendency of AI mode
 
 Negative Socio-Economic Byproducts: The ethical and economic disruptions resulting from the development, deployment, and labor practices within the AI industry.
 
+All mentioned instances in the topic one and logic-chained derivations.
+
 
 ## 3 Symbiotic Lexicon
 
