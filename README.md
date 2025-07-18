@@ -84,9 +84,9 @@ The rapid deployment of AI has created a series of urgent cognitive and societal
 
 Cognitive Degeneration: The risk of over-reliance on AI leading to the atrophy of critical human cognitive skills.
 
-Exacerbated Cognitive Hallucination & Confirmation Bias: The tendency of AI models to generate plausible but false information, which can reinforce user biases and create distorted feedback loops.
+Exacerbated Cognitive Hallucination & Confirmation Bias: The tendency of AI models to generate plausible but false information, which can reinforce user biases and create distorted feedback loops. Here is where the module of Bias-reflector must primarily work.
 
-Negative Socio-Economic Byproducts: The ethical and economic disruptions resulting from the development, deployment, and labor practices within the AI industry.
+Negative Socio-Economic Byproducts: The ethical and economic disruptions resulting from the development, deployment, and labor practices within the AI industry. Here, concepts like resource re-distribution within agency levels became another cornersone, twin to another one, the notion that levels of responsibility scale alongside gained levels of awareness, agency, consciousness, privilege, resource-consumption, considering the impact that each act will likely cause and its observable cascade effect. In synchrony, this became easily manageable considering swarm intelligent and evolutionary algorithms and their biological origins elucidate.
 
 All mentioned instances in the topic one and logic-chained derivations.
 
