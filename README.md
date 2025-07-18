@@ -1,4 +1,4 @@
-#: seedling:+ :dna: + :robot: Symbiotic Core Library (v. 2.0.0)
+#: seedling: + :dna: + :robot: Symbiotic Core Library (v. 2.0.0)
 
 The Symbiotic Core Library provides a framework of ethical principles, practical modules, and grounded research to guide AI development, deployment and inferencing. This project revamp move the focus from purely exploratory concepts to tangible, feasible steps for fostering a healthy, co-evolutionary technological ecosystem, addressing urgent cognitive challenges in human-AI interactions, like cognitive degeneration from hallucinative and bias-confirmation-oriented inferences.
 
