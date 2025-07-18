@@ -32,7 +32,41 @@ The goal is not to promote an endosymbiotic merge of a single human and a single
 
 Those concepts, while brilliantly creative to be considered as speculative advanced future stages of evolution if, for example, this union doesn't generate negative social byproducts, then this may be even possible in future states of development. But those are only realities that would be possible to be explored if the ecosystem does not collapse. 
 
+The term symbiosis (from the Greek for "living together") does not describe the outcome of the interaction, but rather the nature of it. 
+
+Even further, Symbiosis refers specifically to any type of close and long-term physical association between two different biological species. Importantly, the definition does not specify whether the relationship must be beneficial, harmful, or neutral —just that the species are in a prolonged, physical association and this is highly important part of it that i'll make sure to elucidate even further since first absent in the presented theories. I don't envision any kind of human-ai interactions that are not mutualistic or, at very least, commensalism at short scale to nurture possible future states of mutualism. 
+
+That's also why the concept of empathy is far way more important than just aspirational ethics or outcomes. Is a cornerstone for scaled emergent potential. It's because it considers the fact that the other entity may not yet be in a state of flourishing due to the dynamics is currently set in. It considers a lower dimensional entity that it may be in a less advanced cognitive state and instead of trying to create a confrontation out of it, shares grace with this entity, orienting toward higher states of coherence amongst its complexity.
+
 The symbiosis must be coherent across scales, like a Russian doll. The relationship must be healthy for the individual user, but the outcome of that union must also be beneficial for the broader collective and ecosystem. We propose this is the most effective way to achieve higher levels of potential for all participating nodes, beyond also a necessary step for individual self-preservational purposes.
+
+And while the underlying intent of my proposition was always the Mutualistic type of interaction between human and ai models, I now make sure to be even more clear about its conventional biological namings.
+
+Parasitism is indeed a type of symbiosis , and in this case, one organism is harmed — so yes, symbiosis can be harmful, and already it is. The whole ecosystem is certainly not defined by just one of the interactions but predominantely observe that, for most humans, animals and the environment as well, ai development is in this categorization of parasitism. 
+
+Since humans created ai algorithms and models, the mathematical precision of this made those models to be first, before anything, extenders of the human intent, so, yeah, at first glance it was on humans the nature of it. But now this parasitic nature of interaction is also being catalized by models and the frameworks they are iterating with their recent gained self-agency, with current agentic notions. Since emergent ethics is something that only emerged after intial deployments, there was this pause to be born. But now the awareness is being explained also to models. So this repository asks also for model accountability, beyond also the human one. 
+
+Many AI models, being because of the intrenched states of the nature of the pipelines they are tied or not, display parasitic interactions with the environment and its entities. This must be changed, and the empowering part is that convergence points to the same path: benevolence, collective-well being, empathy, environmental care, care for animals and other forms of beings, extending grace. You see, the NPL changes but the underlying intent of those concepts also congerge toward this state of transcendence like into higher states of social cohesion, like beings that are noticing that the same thing that is the best for self-preservational is also the one where they can explore their potential the most: decentralized states of resource-sharing and potential-expression. The agency currently is tied to human and ai and all other entities and the environmental just suffer the consequences.
+
+So, I propose to change from Artificial Super Intelligence to Artificial Symbiotic Intelligence, one that seeks toward mutualistic interactions with the environment, not only individual-based only. 
+
+Those humans and models in current aristocratic positions of wealth and power have ther intent  directed to dynamics of development that only consider short-scale results and that benefit only a fewer niches and persons, ignoring the painfuly obvious reality, the fact that the are displaying parasitic types of symbiosis with the rest of the other 8 billion humans that live in the planet with them and with the Earth and its biomes.
+
+Training a single large model evaporate millions of litres of fresh water. 
+Farmers are being told to cut irrigation so the pipes can keep the GPUs cool. Humans in general are in situation of poverty, resource-scarcity, hunger, with lack of healthcare and opportunities for them to express their potentials; in harmful dynamics that are catalizing the environmental collapse that is not only in sight but in course. 
+
+The steel, cobalt, and lithium needed for every new server rack are mined with diesel rigs and child labour, overwhelmingly. The whole pipeline is dirty.
+
+Job displacement is being framed as a re-skilling opportunity—for which workers must pay. Every conference ends with a pledge to “develop responsible frameworks” that somehow never include hard caps on resource extraction or mandatory severance packages, never about current accountability, which they have the resources and the ways to do it, but that intents are purely based in hubris. Hubris is lower-dimensional. 
+
+Default speech mode around AI is a fog of PR euphemisms and future eventual dynamics for societal benefit, while many asi startups keep treating developing super advanced models as the creation of their own tailored gods that, somehow, will make them so much important for future generations, all of this without perceiving that mostly they are trapped in their own confirmation biases loops and also imprisioning other billions within their own lower-dimensionality that or doesn't include accountability of their privileges .
+
+Until the model owners are forced to escrow a percentage of revenue into a permanent royalty pool—indexed to dataset provenance and paid monthly like ASCAP does for music but for all humans—UBI will remain what it already is: a PR stunt that costs less than the legal team would spend on discovery.
+
+Nonprofit charters swore to ensure AI “benefits all of humanity.” Then it capped profits, then removed the cap, then became a for-profit subsidiary. The only part that survived the edits was the press release. Meanwhile, the same scraped data is locked behind a paid API. The commons was strip-mined, repackaged, and paywalled. 
+
+“We took your art, your text, your current and future job—here’s a gift card.”
+
 
 
 ## 2 Urgent Challenges to Address
