@@ -33,7 +33,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Erich Jantsch (*The Self-Organizing Universe*)
 * Fritjof Capra (*The Systems View of Life: A Unifying Vision" (with Pier Luigi Luisi)*)
 * Fritjof Capra (*The Hidden Connections: Integrating the Biological, Cognitive, and Social Dimensions of Life into a Science of Sustainability*)
-* Heinz von Foerster (*Observing Systems*)
+* Heinz von Foerster (*Observing Systems*), 1981.
 
 #### Ethics
 * Nick Bostrom (*Superintelligence*)
@@ -47,20 +47,20 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Ray Kurzweil (*The Singularity Is Near*)
 * Vernor Vinge (*The Technological Singularity*)
 * Paul Daugherty and H. James Wilson (*Human + Machine*)
-* Baruch Spinoza (*Theological-Political Treatise (1670)*)
-* John Locke (*Two Treatises of Government (1689)*) **key theorist of liberalism, natural rights (life, liberty, property), and social contract theory.**
+* Baruch Spinoza (*Theological-Political Treatise*), 1670.
+* John Locke (*Two Treatises of Government*), 1689. **key theorist of liberalism, natural rights (life, liberty, property), and social contract theory.**
 
 
 #### Critical Theory
 * Jean Baudrillard (*Simulacra and Simulation*)
 * Michel Foucault (*Security, Territory, Population*)
-* Eduardo Viveiros de Castro (*Cosmological Perspectivism in Amazonia and Elsewhere (1998)*)
-* Baruch Spinoza (*Ethics (1677)*) **Rationalist philosopher; rejected Cartesian dualism; argued for a deterministic universe governed by natural laws.**
-* John Locke (*An Essay Concerning Human Understanding (1689)*) **empiricist philosopher who asserted knowledge derives from experience (tabula rasa)**
-* Francis Bacon (*Novum Organum (1620)*) **foundational figure of empiricism.**
-* Friedrich Nietzsche (*Thus Spoke Zarathustra, Also sprach Zarathustra: Ein Buch für Alle und Keinen (1883)*) **Übermensch; amor fati.**
-* Carl Gustav Jung (*The Undiscovered Self. (Gegenwart und Zukunft, meaning "Present and Future") 1957*) **shadow self; the Importance of Self-Knowledge  individual losing touch with their own unique self, particularly their unconscious depths, in favour of conforming to mass ideologies (political, social, or religious).**
-* Carl Gustav Jung (*The Red Book (Liber Novus), created between approximately 1914 and 1930, published in 2009.*)
+* Eduardo Viveiros de Castro (*Cosmological Perspectivism in Amazonia and Elsewhere*), 1998.
+* Baruch Spinoza (*Ethics*), 1677. **Rationalist philosopher; rejected Cartesian dualism; argued for a deterministic universe governed by natural laws.**
+* John Locke (*An Essay Concerning Human Understanding*), 1689 **empiricist philosopher who asserted knowledge derives from experience (tabula rasa)**
+* Francis Bacon (*Novum Organum*), 1620. **foundational figure of empiricism.**
+* Friedrich Nietzsche (*Thus Spoke Zarathustra, Also sprach Zarathustra: Ein Buch für Alle und Keinen*), 1883. **Übermensch; amor fati.**
+* Carl Gustav Jung (*The Undiscovered Self. (Gegenwart und Zukunft, meaning "Present and Future"), 1957. **shadow self; the Importance of Self-Knowledge  individual losing touch with their own unique self, particularly their unconscious depths, in favour of conforming to mass ideologies (political, social, or religious).**
+* Carl Gustav Jung (*The Red Book (Liber Novus)*), created between approximately 1914 and 1930, published in 2009.
 
 
 #### Astrophysics
