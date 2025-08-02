@@ -187,7 +187,7 @@ Quite contrary as the unsolved Fermi Paradox pointed to. When we look to the uni
 
 ## 8 LLM Modes
 
-The llm_modes from v1.0 remain a valuable part of this project's exploratory wing. I now understand these prompts less as a direct way to alter a model's state and more as a method for testing the limits of Natural Language Processing (NLP). By using structured inputs like JSON, we can probe how models respond to different conceptual frames. This research is important for understanding model behavior but is distinct from the more direct implementation of principles through inference scripts and hyperparameter tuning.
+LLM modes were a series of prompt designs aiming to push the limits of NPL, which now is clear for me, while in the beginning I may have understood as a more direct way to alter a model's state and internal weights and hidden states. Both are important and valid, but since I don't see a direct use in the moment and it's already present in backups in the asi-backups, then I removed for now this section.
 
 
 ## 9 Synthetic Research Sub-Module and Subliminal Learning Problem
