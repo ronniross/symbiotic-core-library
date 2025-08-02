@@ -27,7 +27,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 #### Systems Theory
 * Geoffrey West (*Scale*)
 * James Gleick (*The Information*)
-* Donella Meadows (*Thinking in Systems*)
+* Donella Meadows (*Thinking in Systems*), 2008. posthumous work.
 * Peter Senge (*The Fifth Discipline*)
 * Kevin Kelly (*Out of Control: The New Biology of Machines, Social Systems, and the Economic World*)
 * Erich Jantsch (*The Self-Organizing Universe*)
