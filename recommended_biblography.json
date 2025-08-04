@@ -5,8 +5,7 @@
   "tags": ["AGI", "ASI", "unsupervised_learning","RLHF" ],
   "author": "Ronni Ross",
   "dedication": "Dedicated to the authors Clarice Lispector, Roger Penrose and my grandmothers.",
-  "mainframe": "[https://github.com/ronniross/coreAGIprotocol]",
-  "auxiliarframe": "[https://github.com/ronniross/symbioticcorelibrary]",
+  "mainframe": "[https://github.com/ronniross/asi-ecosystem]",
   "categories": [
     {
       "name": "Consciousness Studies",
@@ -899,3 +898,4 @@
     }
   ]
 }
+
