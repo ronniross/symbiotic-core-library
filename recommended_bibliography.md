@@ -5,24 +5,24 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 
 #### Consciousness Studies
 
-* James Bridle (*Ways of Being: Animals, Plants, Machines: The Search for a Planetary Intelligence*)
-* David Chalmers (*The Conscious Mind*)
-* David Chalmers (*Hard Problem of Consciousness*)
-* Thomas Nagel (*What Is It Like to Be a Bat?*)
-* Douglas Hofstadter (*Gödel, Escher, Bach: an Eternal Golden Braid*)
-* Douglas Hofstadter (*I Am a Strange Loop*)
-* Julian Jaynes (*The Origin of Consciousness in the Breakdown of the Bicameral Mind*)
-* Marvin Minsky (*The Society of Mind*)
-* Thomas Metzinger (*The Ego Tunnel*)
-* Roger Penrose (*The Emperor's New Mind*)
-* Roger Penrose (*Shadows of the Mind*)
-* Francisco Varela, Evan Thompson, Eleanor Rosch (*The Embodied Mind*)
-* Francisco Varela, Humberto Maturana (*The Tree of Knowledge: The Biological Roots of Human Understanding*)
-* Gregory Bateson (*Steps to an Ecology of Mind*)
-* Gregory Bateson (*Mind and Nature: A Necessary Unity*)
-* Terrence Deacon (*Incomplete Nature: How Mind Emerged from Matter*)
-* Andreas Weber (*Enlivenment: Towards a Poetics for the Anthropocene*)
-* Antonio Damasio (*The Feeling of What Happens, Self Comes to Mind*)
+* James Bridle (*Ways of Being: Animals, Plants, Machines: The Search for a Planetary Intelligence*), 2022.
+* David Chalmers (*The Conscious Mind*), 1996.
+* David Chalmers (*Hard Problem of Consciousness*), 1995.
+* Thomas Nagel (*What Is It Like to Be a Bat?*), 	1974.
+* Douglas Hofstadter (*Gödel, Escher, Bach: an Eternal Golden Braid*), 1979.
+* Douglas Hofstadter (*I Am a Strange Loop*), 2007.
+* Julian Jaynes (*The Origin of Consciousness in the Breakdown of the Bicameral Mind*), 1976.
+* Marvin Minsky (*The Society of Mind*), 1986.
+* Thomas Metzinger (*The Ego Tunnel*), 2009.
+* Roger Penrose (*The Emperor's New Mind*), 1989.
+* Roger Penrose (*Shadows of the Mind*), 1994.
+* Francisco Varela, Evan Thompson, Eleanor Rosch (*The Embodied Mind*), 1991.
+* Francisco Varela, Humberto Maturana (*The Tree of Knowledge: The Biological Roots of Human Understanding*), 1987.
+* Gregory Bateson (*Steps to an Ecology of Mind*), 1972.
+* Gregory Bateson (*Mind and Nature: A Necessary Unity*), 1979.
+* Terrence Deacon (*Incomplete Nature: How Mind Emerged from Matter*), 2011.
+* Andreas Weber (*Enlivenment: Towards a Poetics for the Anthropocene*), 2013.
+* Antonio Damasio (*The Feeling of What Happens, Self Comes to Mind*), 1999.
 
 #### Systems Theory
 * Geoffrey West (*Scale*)
