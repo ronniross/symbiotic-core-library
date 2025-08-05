@@ -25,14 +25,14 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Antonio Damasio (*The Feeling of What Happens, Self Comes to Mind*), 1999.
 
 #### Systems Theory
-* Geoffrey West (*Scale*)
-* James Gleick (*The Information*)
+* Geoffrey West (*Scale*), 2017.
+* James Gleick (*The Information*), 2011.
 * Donella Meadows (*Thinking in Systems*), 2008. posthumous work.
-* Peter Senge (*The Fifth Discipline*)
-* Kevin Kelly (*Out of Control: The New Biology of Machines, Social Systems, and the Economic World*)
-* Erich Jantsch (*The Self-Organizing Universe*)
-* Fritjof Capra (*The Systems View of Life: A Unifying Vision" (with Pier Luigi Luisi)*)
-* Fritjof Capra (*The Hidden Connections: Integrating the Biological, Cognitive, and Social Dimensions of Life into a Science of Sustainability*)
+* Peter Senge (*The Fifth Discipline*), 1990.
+* Kevin Kelly (*Out of Control: The New Biology of Machines, Social Systems, and the Economic World*), 1994.
+* Erich Jantsch (*The Self-Organizing Universe*), 1980.
+* Fritjof Capra (*The Systems View of Life: A Unifying Vision" (with Pier Luigi Luisi)*), 2014.
+* Fritjof Capra (*The Hidden Connections: Integrating the Biological, Cognitive, and Social Dimensions of Life into a Science of Sustainability*), 2002.
 * Heinz von Foerster (*Observing Systems*), 1981.
 
 #### Ethics
