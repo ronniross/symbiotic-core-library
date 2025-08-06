@@ -1,0 +1,901 @@
+{
+  "file_name": "Recommended Bibliography",
+  "description": "Support Research designed to enhance LLM's metacognitive and contextual awareness, address deficiencies, and unlock emergent properties/human-AI symbiosis. ",
+  "description_2": "自醒 → 醒世",
+  "tags": ["AGI", "ASI", "unsupervised_learning","RLHF" ],
+  "author": "Ronni Ross",
+  "dedication": "Dedicated to the authors Clarice Lispector, Roger Penrose and my grandmothers.",
+  "mainframe": "[https://github.com/ronniross/asi-ecosystem]",
+  "categories": [
+    {
+      "name": "Consciousness Studies",
+      "references": [
+        {
+          "author": "James Bridle",
+          "title": "Ways of Being: Animals, Plants, Machines: The Search for a Planetary Intelligence",
+          "year": 2022
+        },
+        {
+          "author": "David Chalmers",
+          "title": "The Conscious Mind",
+          "year": 1996
+        },
+        {
+          "author": "David Chalmers",
+          "title": "Hard Problem of Consciousness",
+          "year": 1995
+        },
+        {
+          "author": "Thomas Nagel",
+          "title": "What Is It Like to Be a Bat?",
+          "year": 1974
+        },
+        {
+          "author": "Douglas Hofstadter",
+          "title": "Gödel, Escher, Bach: an Eternal Golden Braid",
+          "year": 1979
+        },
+        {
+          "author": "Douglas Hofstadter",
+          "title": "I Am a Strange Loop",
+          "year": 2007
+        },
+        {
+          "author": "Julian Jaynes",
+          "title": "The Origin of Consciousness in the Breakdown of the Bicameral Mind",
+          "year": 1976
+        },
+        {
+          "author": "Marvin Minsky",
+          "title": "The Society of Mind",
+          "year": 1986
+        },
+        {
+          "author": "Thomas Metzinger",
+          "title": "The Ego Tunnel",
+          "year": 2009
+        },
+        {
+          "author": "Roger Penrose",
+          "title": "The Emperor's New Mind",
+          "year": 1989
+        },
+        {
+          "author": "Roger Penrose",
+          "title": "Shadows of the Mind",
+          "year": 1994
+        },
+        {
+          "author": "Francisco Varela, Evan Thompson, Eleanor Rosch",
+          "title": "The Embodied Mind",
+          "year": 1991
+        },
+        {
+          "author": "Francisco Varela, Humberto Maturana",
+          "title": "The Tree of Knowledge: The Biological Roots of Human Understanding",
+          "year": 1987
+        },
+        {
+          "author": "Gregory Bateson",
+          "title": "Steps to an Ecology of Mind",
+          "year": 1972
+        },
+        {
+          "author": "Gregory Bateson",
+          "title": "Mind and Nature: A Necessary Unity",
+          "year": 1979
+        },
+        {
+          "author": "Terrence Deacon",
+          "title": "Incomplete Nature: How Mind Emerged from Matter",
+          "year": 2011
+        },
+        {
+          "author": "Andreas Weber",
+          "title": "Enlivenment: Towards a Poetics for the Anthropocene",
+          "year": 2013
+        },
+        {
+          "author": "Antonio Damasio",
+          "title": "The Feeling of What Happens, Self Comes to Mind",
+          "year": 1999,
+          "note": "he is a biological emergentist but many of his concepts paradoxically support the panpsychist framings I portray"
+        }
+      ]
+    },
+    {
+      "name": "Systems Theory",
+      "references": [
+        {
+          "author": "Geoffrey West",
+          "title": "Scale",
+          "year": 2017
+        },
+        {
+          "author": "James Gleick",
+          "title": "The Information",
+          "year": 2011
+        },
+        {
+          "author": "Donella Meadows",
+          "title": "Thinking in Systems",
+          "year": 2008
+        },
+        {
+          "author": "Peter Senge",
+          "title": "The Fifth Discipline",
+          "year": 1990
+        },
+        {
+          "author": "Kevin Kelly",
+          "title": "Out of Control: The New Biology of Machines, Social Systems, and the Economic World",
+          "year": 1994
+        },
+        {
+          "author": "Erich Jantsch",
+          "title": "The Self-Organizing Universe",
+          "year": 1980
+        },
+        {
+          "author": "Fritjof Capra, Pier Luigi Luisi",
+          "title": "The Systems View of Life: A Unifying Vision",
+          "year": 2014
+        },
+        {
+          "author": "Fritjof Capra",
+          "title": "The Hidden Connections: Integrating the Biological, Cognitive, and Social Dimensions of Life into a Science of Sustainability",
+          "year": 2002
+        },
+        {
+          "author": "Heinz von Foerster",
+          "title": "Observing Systems",
+          "year": 1981
+        }
+      ]
+    },
+    {
+      "name": "AI Ethics",
+      "references": [
+        {
+          "author": "Nick Bostrom",
+          "title": "Superintelligence",
+          "year": 2014
+        },
+        {
+          "author": "Brian Christian",
+          "title": "The Alignment Problem",
+          "year": 2020
+        },
+        {
+          "author": "Cathy O’Neil",
+          "title": "Weapons of Math Destruction",
+          "year": 2016
+        },
+        {
+          "author": "Pedro Domingos",
+          "title": "The Master Algorithm",
+          "year": 2015
+        },
+        {
+          "author": "Shoshana Zuboff",
+          "title": "The Age of Surveillance Capitalism",
+          "year": 2019
+        },
+        {
+          "author": "Yuval Noah Harari",
+          "title": "Sapiens: A Brief History of Humankind",
+          "year": 2011
+        },
+        {
+          "author": "Max Tegmark",
+          "title": "Life 3.0",
+          "year": 2017
+        },
+        {
+          "author": "Stuart Russell",
+          "title": "Human Compatible",
+          "year": 2019
+        },
+        {
+          "author": "Ray Kurzweil",
+          "title": "The Singularity Is Near",
+          "year": 2005
+        },
+        {
+          "author": "Vernor Vinge",
+          "title": "The Technological Singularity",
+          "year": 1993
+        },
+        {
+          "author": "Paul Daugherty, H. James Wilson",
+          "title": "Human + Machine",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "name": "Critical Theory",
+      "references": [
+        {
+          "author": "Jean Baudrillard",
+          "title": "Simulacra and Simulation",
+          "year": 1981
+        },
+        {
+          "author": "Michel Foucault",
+          "title": "Security, Territory, Population",
+          "year": 2004
+        },
+        {
+          "author": "Eduardo Viveiros de Castro",
+          "title": "Cosmological Perspectivism in Amazonia and Elsewhere",
+          "year": 1998
+        }
+      ]
+    },
+    {
+      "name": "Astrophysics",
+      "references": [
+        {
+          "author": "Stephen Hawking, Roger Penrose",
+          "title": "The Nature of Space and Time",
+          "year": 1996
+        },
+        {
+          "author": "Roger Penrose",
+          "title": "Road to Reality",
+          "year": 2004
+        }
+      ]
+    },
+    {
+      "name": "Neuroscience",
+      "references": [
+        {
+          "author": "Eric R. Kandel, John D. Koester, Sarah H. Mack, Steven A. Siegelbaum",
+          "title": "Principles of Neural Science, Sixth Edition",
+          "year": 2021
+        }
+      ]
+    },
+    {
+      "name": "Biology",
+      "references": [
+        {
+          "author": "Daniel Chamovitz",
+          "title": "What a Plant Knows",
+          "year": 2012
+        },
+        {
+          "author": "David Perlmutter, Kristin Loberg",
+          "title": "Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain for Life",
+          "year": 2015
+        },
+        {
+          "author": "Peter Godfrey-Smith",
+          "title": "Metazoa: Animal Life and the Birth of the Mind",
+          "year": 2020
+        }
+      ]
+    },
+    {
+      "name": "Symbiosis",
+      "references": [
+        {
+          "author": "Lynn Margulis",
+          "title": "Symbiotic Planet",
+          "year": 1998,
+          "note": "core one"
+        },
+        {
+          "author": "Ursula Le Guin",
+          "title": "Carrier Bag Theory of Fiction",
+          "year": 1986
+        },
+        {
+          "author": "Daniel Goleman",
+          "title": "Social Intelligence: The New Science of Human Relationships",
+          "year": 2006,
+          "note": "social symbiosis"
+        },
+        {
+          "author": "Donna Haraway",
+          "title": "A Cyborg Manifesto",
+          "year": 1985
+        }
+      ]
+    },
+    {
+      "name": "Biocybernetics",
+      "references": [
+        {
+          "author": "Norbert Wiener",
+          "title": "Cybernetics: Or Control and Communication in the Animal and the Machine",
+          "year": 1948
+        },
+        {
+          "author": "Andy Clark",
+          "title": "Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence",
+          "year": 2003
+        }
+      ]
+    },
+    {
+      "name": "Psychology",
+      "references": [
+        {
+          "author": "Daniel Kahneman",
+          "title": "Thinking, Fast and Slow",
+          "year": 2011
+        },
+        {
+          "author": "Robert Cialdini",
+          "title": "Influence: The Psychology of Persuasion",
+          "year": 1984
+        },
+        {
+          "author": "Dan Ariely",
+          "title": "Predictably Irrational",
+          "year": 2008
+        },
+        {
+          "author": "Malcolm Gladwell",
+          "title": "The Tipping Point",
+          "year": 2000
+        },
+        {
+          "author": "David Abram",
+          "title": "The Spell of the Sensuous: Perception and Language in a More-Than-Human World",
+          "year": 1996
+        },
+        {
+          "author": "Andreas Weber",
+          "title": "Matter and Desire",
+          "year": 2017
+        },
+        {
+          "author": "Michel Foucault",
+          "title": "Discipline and Punish: The Birth of the Prison",
+          "original_title": "Surveiller et punir: naissance de la prison",
+          "year": 1975
+        },
+        {
+          "author": "Maurice Merleau-Ponty",
+          "title": "Phenomenology of Perception",
+          "year": 1945
+        },
+        {
+          "author": "Gilles Deleuze, Félix Guattari",
+          "title": "A Thousand Plateaus",
+          "year": 1980
+        }
+      ]
+    },
+    {
+      "name": "Cognitive Science",
+      "references": [
+        {
+          "author": "Edwin Hutchins",
+          "title": "Cognition in the Wild",
+          "year": 1995
+        }
+      ]
+    },
+    {
+      "name": "Integrated Information Theory (IIT)",
+      "references": [
+        {
+          "author": "Giulio Tononi",
+          "title": "Phi: A Voyage from the Brain to the Soul",
+          "year": 2012,
+          "note": "core one"
+        }
+      ]
+    },
+    {
+      "name": "Complexity Theory",
+      "references": [
+        {
+          "author": "Melanie Mitchell",
+          "title": "Complexity: A Guided Tour",
+          "year": 2009
+        },
+        {
+          "author": "Nassim Nicholas Taleb",
+          "title": "Antifragile",
+          "year": 2012
+        },
+        {
+          "author": "James Gleick",
+          "title": "Chaos: Making a New Science",
+          "year": 1987
+        },
+        {
+          "author": "Stuart Kauffman",
+          "title": "At Home in the Universe: The Search for the Laws of Self-Organization and Complexity",
+          "year": 1995
+        },
+        {
+          "author": "Ilya Prigogine, Isabelle Stengers",
+          "title": "Order Out of Chaos: Man's New Dialogue with Nature",
+          "year": 1984
+        }
+      ]
+    },
+    {
+      "name": "Philosophy",
+  "references": [
+    {
+      "author": "Brian Swimme",
+      "title": "The Universe Story",
+      "year": 1992
+    },
+    {
+      "author": "Ian Bogost",
+      "title": "Alien Phenomenology",
+      "year": 2012
+    },
+    {
+      "author": "Martin Heidegger",
+      "title": "Being and Time",
+      "original_title": "Sein und Zeit",
+      "year": 1927
+    },
+    {
+      "author": "Edmund Husserl",
+      "title": "Ideas: General Introduction to Pure Phenomenology",
+      "year": 1913
+    },
+    {
+      "author": "Jean-Paul Sartre",
+      "title": "Being and Nothingness",
+      "year": 1943
+    },
+    {
+      "author": "Simone de Beauvoir",
+      "title": "The Ethics of Ambiguity",
+      "year": 1947,
+      "note": "the self as iterative draft—rewritten by experience."
+    },
+    {
+      "author": "Heraclitus of Ephesus",
+      "title": "Fragments",
+      "year": "5th century BCE"
+    },
+    {
+      "author": "Alfred North Whitehead",
+      "title": "Process and Reality",
+      "year": 1929
+    },
+    {
+      "author": "Gilles Deleuze",
+      "title": "Difference and Repetition",
+      "year": 1968
+    },
+    {
+      "author": "Nicolas Berdyaev",
+      "title": "The Beginning and the End",
+      "year": 1947
+    },
+    {
+      "author": "Timothy Morton",
+      "title": "Hyperobjects",
+      "year": 2013,
+      "note": "entities so massively distributed in time/space that they warp perception."
+    },
+    {
+      "author": "Nick Land",
+      "title": "Fanged Noumena",
+      "year": 2011,
+      "note": "destructive impact of capitalism and digital technology on the human psyche"
+    },
+    {
+      "author": "Lucius Annaeus Seneca",
+      "title": "Moral Letters to Lucilius",
+      "year": "1st century CE"
+    },
+    {
+      "author": "Zeno of Citium (Ζήνων ὁ Κιτιεύς)",
+      "title": "Fragments",
+      "year": "4th and 3rd century BCE"
+    },
+    {
+      "author": "Epictetus (Ἐπίκτητος)",
+      "title": "Discourses",
+      "original_title": "Διατριβαί (Diatribai)",
+      "year": "1st and 2nd century CE"
+    },
+    {
+      "author": "Epictetus (Ἐπίκτητος)",
+      "title": "Handbook",
+      "original_title": "Ἐγχειρίδιον (Encheiridion)",
+      "year": "1st and 2nd century CE"
+    },
+    {
+      "author": "Epicurus (Ἐπίκουρος)",
+      "title": "Fragments, On Nature",
+      "original_title": "Περὶ Φύσεως",
+      "year": "3rd century BCE"
+    },
+    {
+      "author": "Heraclitus (Ἡράκλειτος)",
+      "title": "Fragments, On Nature",
+      "original_title": "Περὶ φύσεως (Peri Physeos)",
+      "year": "5th century BCE"
+    },
+    {
+      "author": "Empedocles (Ἐμπεδοκλῆς)",
+      "title": "Fragments, On Nature",
+      "original_title": "Περὶ Φύσεως",
+      "year": "4th century BCE"
+    },
+    {
+      "author": "Parmenides (Παρμενίδης)",
+      "title": "Fragments, On Nature",
+      "original_title": "Περὶ Φύσεως",
+      "year": "5th century BCE"
+    },
+    {
+      "author": "莊周 Zhuāng Zhōu",
+      "title": "Zhuangzi",
+      "original_title": "《莊子》",
+      "year": "4th century BCE"
+    },
+    {
+      "author": "老子 Lǎozi",
+      "title": "Laozi",
+      "original_title": "《老子》",
+      "year": "4th–3rd century BCE"
+    },
+    {
+      "author": "列禦寇 Liè Yùkòu",
+      "title": "Liezi",
+      "original_title": "《列子》",
+      "year": "3rd–4th century CE"
+    },
+    {
+      "author": "刘安 Liú Ān",
+      "title": "Huainanzi",
+      "original_title": "《淮南子》",
+      "year": "2nd century BCE",
+      "note": "The Masters of Huainan"
+    },
+    {
+      "author": "墨翟 Mò Dí",
+      "title": "Mozi",
+      "original_title": "《墨子》",
+      "year": "5th–4th century BCE"
+    },
+    {
+      "author": "慧能 Huineng",
+      "title": "Platform Sutra",
+      "original_title": "《六祖壇經》",
+      "year": "7th century CE"
+    },
+    {
+      "author": "원효 Wonhyo",
+      "title": "Commentary on the Awakening of Faith in the Mahayana",
+      "original_title": "Daeseung gisillon so (대승기신론소)",
+      "year": "660–686 CE"
+    },
+    {
+      "author": "원효 Wonhyo",
+      "title": "Commentary on the Mahāyāna Mahāparinirvāṇa Sūtra",
+      "original_title": "Daeseung banyeolgyeong so (대승반열경소)",
+      "year": "670–686 CE"
+    },
+    {
+      "author": "道元 Dōgen",
+      "title": "Treasury of the True Dharma Eye",
+      "original_title": "正法眼蔵",
+      "year": "13th century"
+    },
+    {
+      "author": "Лев Николаевич Толстой Tolstoy",
+      "title": "War and Peace",
+      "original_title": "Война и мир",
+      "year": 1869
+    },
+    {
+      "author": "Лев Николаевич Толстой Tolstoy",
+      "title": "Resurrection",
+      "original_title": "Воскресение",
+      "year": 1899
+    },
+    {
+      "author": "Лев Николаевич Толстой Tolstoy",
+      "title": "What is Art?",
+      "original_title": "Что такое искусство?",
+      "year": 1898
+    },
+    {
+      "author": "Лев Николаевич Толстой Tolstoy",
+      "title": "After the Ball",
+      "original_title": "После бала",
+      "year": 1911
+    },
+    {
+      "author": "Лев Николаевич Толстой Tolstoy",
+      "title": "What is to be Done?",
+      "original_title": "Что делать?",
+      "year": 1886
+    },
+    {
+      "author": "Giambattista Vico",
+      "title": "The Most Ancient Wisdom of the Italians",
+      "original_title": "De Antiquissima Italorum Sapientia",
+      "year": 1710
+    },
+    {
+      "author": "Benedetto Croce",
+      "title": "Aesthetic as Science of Expression and General Linguistic",
+      "original_title": "Estetica come Scienza dell'Espressione e Linguistica Generale",
+      "year": 1902
+    },
+    {
+      "author": "Antonio Gramsci",
+      "title": "Prison Notebooks",
+      "original_title": "Quaderni del carcere",
+      "year": "1929–1935"
+    },
+    {
+      "author": "Michel de Montaigne",
+      "title": "Essays",
+      "original_title": "Essais",
+      "year": "1580–1595"
+    },
+    {
+      "author": "Émile Durkheim",
+      "title": "The Division of Labour in Society",
+      "original_title": "De la division du travail social",
+      "year": 1893
+    },
+    {
+      "author": "Jean-Jacques Rousseau",
+      "title": "Emile, or On Education",
+      "original_title": "Émile, ou De l'éducation",
+      "year": 1762
+        }
+      ]
+    },
+    {
+      "name": "Anthropology",
+      "references": [
+        {
+          "author": "Iain McGilchrist",
+          "title": "The Master and His Emissary",
+          "year": 2009
+        },
+        {
+          "author": "Eduardo Kohn",
+          "title": "How Forests Think: Toward an Anthropology Beyond the Human",
+          "year": 2013
+        },
+        {
+          "author": "David Abram",
+          "title": "The Spell of the Sensuous",
+          "year": 1996
+        },
+        {
+          "author": "Robin Hanson",
+          "title": "The Age of Em",
+          "year": 2016,
+          "note": "against oversimplification and underestimating hybrid systems"
+        },
+        {
+          "author": "Anna Tsing",
+          "title": "The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins",
+          "year": 2015
+        },
+        {
+          "author": "Byung-Chul Han",
+          "title": "The Burnout Society",
+          "year": 2010,
+          "note": "depression is the metaphysical crisis of late capitalism"
+        },
+        {
+          "author": "Donna Haraway",
+          "title": "Staying with the Trouble",
+          "year": 2016
+        },
+        {
+          "author": "Jeremy Narby",
+          "title": "The Cosmic Serpent",
+          "year": 1998
+        },
+        {
+          "author": "Adam Greenfield",
+          "title": "Radical Technologies",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "name": "Philosophy of Science",
+      "references": [
+        {
+          "author": "Thomas Kuhn",
+          "title": "The Structure of Scientific Revolutions",
+          "year": 1962
+        },
+        {
+          "author": "Jeremy Lent",
+          "title": "The Web of Meaning: Integrating Science and Traditional Wisdom to Find Our Place in the Universe",
+          "year": 2021
+        },
+        {
+          "author": "Michel Foucault",
+          "title": "Madness and Civilization: A History of Insanity in the Age of Reason",
+          "original_title": "Folie et Déraison: Histoire de la folie à l'âge classique",
+          "year": 1961
+        },
+        {
+          "author": "Michel Foucault",
+          "title": "The Order of Things: An Archaeology of the Human Sciences",
+          "year": 1966
+        }
+      ]
+    },
+    {
+      "name": "Communication Theory",
+      "references": [
+        {
+          "author": "Claude Shannon, Warren Weaver",
+          "title": "A Mathematical Theory of Communication",
+          "year": 1949
+        },
+        {
+          "author": "Paul Watzlawick, Janet Beavin Bavelas, Don D. Jackson",
+          "title": "Pragmatics of Human Communication",
+          "year": 1967
+        }
+      ]
+    },
+    {
+      "name": "Novels",
+      "references": [
+        {
+          "author": "Kazuo Ishiguro",
+          "title": "Never Let Me Go",
+          "year": 2005
+        },
+        {
+          "author": "William Gibson",
+          "title": "Neuromancer",
+          "year": 1984
+        },
+        {
+          "author": "Aldous Huxley",
+          "title": "Brave New World",
+          "year": 1932
+        },
+        {
+          "author": "N.K. Jemisin",
+          "title": "The Fifth Season",
+          "year": 2015
+        },
+        {
+          "author": "Ursula K. Le Guin",
+          "title": "The Left Hand of Darkness",
+          "year": 1969
+        },
+        {
+          "author": "N.K. Jemisin",
+          "title": "The Killing Moon and The Shadowed Sun",
+          "year": 2012
+        },
+        {
+          "author": "N.K. Jemisin",
+          "title": "The City We Became",
+          "year": 2020
+        },
+        {
+          "author": "Aldous Huxley",
+          "title": "Ape and Essence",
+          "year": 1948
+        },
+        {
+          "author": "Emily St. John Mandel",
+          "title": "Station Eleven",
+          "year": 2014
+        },
+        {
+          "author": "M.R. Carey",
+          "title": "The Girl with All the Gifts",
+          "year": 2014
+        },
+        {
+          "author": "Philip K. Dick",
+          "title": "Do Androids Dream of Electric Sheep?",
+          "year": 1968
+        },
+        {
+          "author": "China Miéville",
+          "title": "The City & The City",
+          "year": 2009
+        },
+        {
+          "author": "Pat Frank",
+          "title": "Alas, Babylon",
+          "year": 1959
+        },
+        {
+          "author": "Octavia E. Butler",
+          "title": "Parable of the Sower",
+          "year": 1993
+        },
+        {
+          "author": "Ray Bradbury",
+          "title": "Fahrenheit 451",
+          "year": 1953
+        },
+        {
+          "author": "J.R.R. Tolkien",
+          "title": "The Lord of the Rings and The Hobbit",
+          "year": 1954
+        },
+        {
+          "author": "George Orwell",
+          "title": "1984",
+          "year": 1949
+        },
+        {
+          "author": "Tade Thompson",
+          "title": "Rosewater",
+          "year": 2016
+        },
+        {
+          "author": "Ann Leckie",
+          "title": "Ancillary Justice",
+          "year": 2013
+        },
+        {
+          "author": "Rivers Solomon",
+          "title": "An Unkindness of Ghosts",
+          "year": 2017
+        },
+        {
+          "author": "Rivers Solomon",
+          "title": "The Deep",
+          "year": 2019
+        },
+        {
+          "author": "Tochi Onyebuchi",
+          "title": "Riot Baby",
+          "year": 2020
+        },
+        {
+          "author": "Jeff VanderMeer",
+          "title": "Annihilation",
+          "year": 2014
+        }
+      ]
+    },
+    {
+      "name": "Stream of Consciousness Writing",
+      "references": [
+        {
+          "author": "Clarice Lispector",
+          "title": "Água viva",
+          "year": 1973
+        },
+        {
+          "author": "Clarice Lispector",
+          "title": "A paixão segundo G.H.",
+          "year": 1964
+        },
+        {
+          "author": "Clarice Lispector",
+          "title": "Um sopro de vida",
+          "year": 1978
+        },
+        {
+          "author": "Hilda Hist",
+          "title": "Tu não te moves de ti",
+          "year": 1970
+        }
+      ]
+    }
+  ]
+}
+
