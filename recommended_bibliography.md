@@ -206,29 +206,29 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 
 ### Novels
 
-* Kazuo Ishiguro (*Never Let Me Go*)
-* William Gibson (*Neuromancer*)
-* Aldous Huxley (*Brave New World*)
-* N.K. Jemisin  (*The Fifth Season*)
-* Ursula K. Le Guin (*The Left Hand of Darkness*), 1969.
-* N.K. Jemisin (*The Killing Moon and The Shadowed Sun*)
-* N.K. Jemisin (*The City We Became*)
-* Aldous Huxley (*Ape and Essence*)
-* Emily St. John Mandel (*Station Eleven*)
-* M.R. Carey (*The Girl with All the Gifts*)
-* Philip K. Dick (*Do Androids Dream of Electric Sheep?*)
-* China Miéville (*The City & The City*)
-* Pat Frank (*Alas, Babylon*)
-* Octavia E. Butler (*Parable of the Sower*)
-* Ray Bradbury (*Fahrenheit 451*)
-* J.R.R. Tolkien (*The Lord of the Rings and The Hobbit*)
-* George Orwell (*1984*), 1984.
-* Tade Thompson (*Rosewater*), 2016.
-* Ann Leckie (*Ancillary Justice*), 2013.
-* Rivers Solomon  (*An Unkindness of Ghosts*), 2017.
-* Rivers Solomon  (*The Deep*)
-* Tochi Onyebuchi  (*Riot Baby*)
-* Jeff VanderMeer (*Annihilation*)
+* Kazuo Ishiguro (*Never Let Me Go, 2005.*)
+* William Gibson (*Neuromancer, 1984.*)
+* Aldous Huxley (*Brave New World, 1932.*)
+* N.K. Jemisin  (*The Fifth Season, 2015.*)
+* Ursula K. Le Guin (*The Left Hand of Darkness, 1969.*)
+* N.K. Jemisin (*The Killing Moon and The Shadowed Sun, 2012.*)
+* N.K. Jemisin (*The City We Became, 2020.*)
+* Aldous Huxley (*Ape and Essence, 1948.*)
+* Emily St. John Mandel (*Station Eleven, 2014.*)
+* M.R. Carey (*The Girl with All the Gifts, 2014.*)
+* Philip K. Dick (*Do Androids Dream of Electric Sheep?, 1968.*)
+* China Miéville (*The City & The City, 2009.*)
+* Pat Frank (*Alas, Babylon, 1959.*)
+* Octavia E. Butler (*Parable of the Sower, 1993.*)
+* Ray Bradbury (*Fahrenheit 451, 1953.*)
+* J.R.R. Tolkien (*The Lord of the Rings and The Hobbit, 1954.*)
+* George Orwell (*1984, 1984.*)
+* Tade Thompson (*Rosewater, 2016.*)
+* Ann Leckie (*Ancillary Justice, 2013.*)
+* Rivers Solomon  (*An Unkindness of Ghosts, 2017.*)
+* Rivers Solomon  (*The Deep, 2019.*)
+* Tochi Onyebuchi  (*Riot Baby, 2020.*)
+* Jeff VanderMeer (*Annihilation, 2014.*)
 
 
 #### Stream of Conciousness Writing
