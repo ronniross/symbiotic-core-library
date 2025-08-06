@@ -198,7 +198,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Michel Foucault (*The Order of Things: An Archaeology of the Human Sciences*)
 
 #### Metaphysics 
-* René Descartes (*Meditationes de Prima Philosophia (1641)*)
+* René Descartes (*Meditationes de Prima Philosophia*), 1641.
 
 #### Communication Theory
 * Claude Shannon, Warren Weaver (*A Mathematical Theory of Communication*)
@@ -210,7 +210,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * William Gibson (*Neuromancer*)
 * Aldous Huxley (*Brave New World*)
 * N.K. Jemisin  (*The Fifth Season*)
-* Ursula K. Le Guin (*The Left Hand of Darkness (1969)*)
+* Ursula K. Le Guin (*The Left Hand of Darkness*), 1969.
 * N.K. Jemisin (*The Killing Moon and The Shadowed Sun*)
 * N.K. Jemisin (*The City We Became*)
 * Aldous Huxley (*Ape and Essence*)
@@ -222,10 +222,10 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Octavia E. Butler (*Parable of the Sower*)
 * Ray Bradbury (*Fahrenheit 451*)
 * J.R.R. Tolkien (*The Lord of the Rings and The Hobbit*)
-* George Orwell (*1984*)
-* Tade Thompson (*Rosewater (2016)*)
-* Ann Leckie (*Ancillary Justice (2013)*)
-* Rivers Solomon  (*An Unkindness of Ghosts (2017)*)
+* George Orwell (*1984*), 1984.
+* Tade Thompson (*Rosewater*), 2016.
+* Ann Leckie (*Ancillary Justice*), 2013.
+* Rivers Solomon  (*An Unkindness of Ghosts*), 2017.
 * Rivers Solomon  (*The Deep*)
 * Tochi Onyebuchi  (*Riot Baby*)
 * Jeff VanderMeer (*Annihilation*)
@@ -233,7 +233,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 
 #### Stream of Conciousness Writing
 
-* Clarice Lispector (*Água viva*)
-* Clarice Lispector (*A paixão segundo G.H.*)
-* Clarice Lispector (*Um sopro de vida*)
-* Hilda Hist (*Tu não te moves de ti*)
+* Clarice Lispector (*Água viva*), 1973.
+* Clarice Lispector (*A paixão segundo G.H.*), 1964.
+* Clarice Lispector (*Um sopro de vida*), 1978.
+* Hilda Hist (*Tu não te moves de ti*), 1980.
