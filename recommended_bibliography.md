@@ -65,21 +65,21 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 
 #### Astrophysics
 
-* Galileo Galilei - Dialogue Concerning the Two Chief World Systems (1632)
-* Stephen Hawking, Roger Penrose (*The Nature of Space and Time*)
-* Roger Penrose (*Road to Reality*)
+* Galileo Galilei (*Dialogue Concerning the Two Chief World Systems*), 1632.
+* Stephen Hawking, Roger Penrose (*The Nature of Space and Time*), 1996.
+* Roger Penrose (*Road to Reality*), 2004.
   
 #### Neuroscience 
 
-* Eric R. Kandel, John D. Koester, Sarah H. Mack, Steven A. Siegelbaum (*Principles of Neural Science, Sixth Edition*)
+* Eric R. Kandel, John D. Koester, Sarah H. Mack, Steven A. Siegelbaum (*Principles of Neural Science, Sixth Edition*), 2021.
 
 #### Biology
 
-* Daniel Chamovitz (*What a Plant Knows*)
-* David Perlmutter, Kristin Loberg (*Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain for Life*)
-* Peter Godfrey-Smith (*Metazoa: Animal Life and the Birth of the Mind*)
-* Rachel Carson (*Under the Sea Wind (1941)*)
-* Rachel Carson (*The Edge of the sea (1955)*)
+* Daniel Chamovitz (*What a Plant Knows*), 2012.
+* David Perlmutter, Kristin Loberg (*Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain for Life*), 2015.
+* Peter Godfrey-Smith (*Metazoa: Animal Life and the Birth of the Mind*), 2020.
+* Rachel Carson (*Under the Sea Wind*), 1941.
+* Rachel Carson (*The Edge of the sea*), 1955.
 
 #### Symbiosis
 * Lynn Margulis (*Symbiotic Planet*)**core one**
