@@ -192,17 +192,17 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Rachel Carson (*Silent Spring, 1962.*)
 
 #### Philosophy of Science
-* Thomas Kuhn (*The Structure of Scientific Revolutions*)
-* Jeremy Lent (*The Web of Meaning: Integrating Science and Traditional Wisdom to Find Our Place in the Universe*)
+* Thomas Kuhn (*The Structure of Scientific Revolutions, 1962.*)
+* Jeremy Lent (*The Web of Meaning: Integrating Science and Traditional Wisdom to Find Our Place in the Universe, 2021.*)
 * Michel Foucault (*Madness and Civilization: A History of Insanity in the Age of Reason (Folie et Déraison: Histoire de la folie à l'âge classique, 1961)*)
-* Michel Foucault (*The Order of Things: An Archaeology of the Human Sciences*)
+* Michel Foucault (*The Order of Things: An Archaeology of the Human Sciences, 1966.*)
 
 #### Metaphysics 
-* René Descartes (*Meditationes de Prima Philosophia*), 1641.
+* René Descartes (*Meditationes de Prima Philosophia, 1641.*)
 
 #### Communication Theory
-* Claude Shannon, Warren Weaver (*A Mathematical Theory of Communication*)
-* Paul Watzlawick, Janet Beavin Bavelas, Don D. Jackson (*Pragmatics of Human Communication*)
+* Claude Shannon, Warren Weaver (*A Mathematical Theory of Communication, 1949.*)
+* Paul Watzlawick, Janet Beavin Bavelas, Don D. Jackson (*Pragmatics of Human Communication, 1967.*)
 
 ### Novels
 
@@ -233,7 +233,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 
 #### Stream of Conciousness Writing
 
-* Clarice Lispector (*Água viva*), 1973.
-* Clarice Lispector (*A paixão segundo G.H.*), 1964.
-* Clarice Lispector (*Um sopro de vida*), 1978.
-* Hilda Hist (*Tu não te moves de ti*), 1980.
+* Clarice Lispector (*Água viva, 1973.*)
+* Clarice Lispector (*A paixão segundo G.H., 1964.*)
+* Clarice Lispector (*Um sopro de vida, 1978.*)
+* Hilda Hist (*Tu não te moves de ti, 1980.*)
