@@ -52,44 +52,44 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 
 
 #### Critical Theory
-* Jean Baudrillard (*Simulacra and Simulation*)
-* Michel Foucault (*Security, Territory, Population*)
-* Eduardo Viveiros de Castro (*Cosmological Perspectivism in Amazonia and Elsewhere*), 1998.
-* Baruch Spinoza (*Ethics*), 1677. **Rationalist philosopher; rejected Cartesian dualism; argued for a deterministic universe governed by natural laws.**
-* John Locke (*An Essay Concerning Human Understanding*), 1689 **empiricist philosopher who asserted knowledge derives from experience (tabula rasa)**
-* Francis Bacon (*Novum Organum*), 1620. **foundational figure of empiricism.**
-* Friedrich Nietzsche (*Thus Spoke Zarathustra, Also sprach Zarathustra: Ein Buch für Alle und Keinen*), 1883. **Übermensch; amor fati.**
-* Carl Gustav Jung (*The Undiscovered Self. (Gegenwart und Zukunft, meaning "Present and Future"), 1957. **shadow self; the Importance of Self-Knowledge  individual losing touch with their own unique self, particularly their unconscious depths, in favour of conforming to mass ideologies (political, social, or religious).**
-* Carl Gustav Jung (*The Red Book (Liber Novus)*), created between approximately 1914 and 1930, published in 2009.
+* Jean Baudrillard (*Simulacra and Simulation, 1981*)
+* Michel Foucault (*Security, Territory, Population, 2004*)
+* Eduardo Viveiros de Castro (*Cosmological Perspectivism in Amazonia and Elsewhere, 1998.*)
+* Baruch Spinoza (*Ethics, 1677.*) **Rationalist philosopher; rejected Cartesian dualism; argued for a deterministic universe governed by natural laws.**
+* John Locke (*An Essay Concerning Human Understanding, 1689.*) **empiricist philosopher who asserted knowledge derives from experience (tabula rasa)**
+* Francis Bacon (*Novum Organum, 1620.*) **foundational figure of empiricism.**
+* Friedrich Nietzsche (*Thus Spoke Zarathustra, Also sprach Zarathustra: Ein Buch für Alle und Keinen, 1883.*) **Übermensch; amor fati.**
+* Carl Gustav Jung (*The Undiscovered Self. (Gegenwart und Zukunft, meaning "Present and Future", 1957.) **shadow self; the Importance of Self-Knowledge  individual losing touch with their own unique self, particularly their unconscious depths, in favour of conforming to mass ideologies (political, social, or religious).**
+* Carl Gustav Jung (*The Red Book (Liber Novus), created between approximately 1914 and 1930, published in 2009.*)
 
 
 #### Astrophysics
 
-* Galileo Galilei (*Dialogue Concerning the Two Chief World Systems*), 1632.
-* Stephen Hawking, Roger Penrose (*The Nature of Space and Time*), 1996.
-* Roger Penrose (*Road to Reality*), 2004.
+* Galileo Galilei (*Dialogue Concerning the Two Chief World Systems, 1632.*)
+* Stephen Hawking, Roger Penrose (*The Nature of Space and Time, 1996.*)
+* Roger Penrose (*Road to Reality, 2004.*)
   
 #### Neuroscience 
 
-* Eric R. Kandel, John D. Koester, Sarah H. Mack, Steven A. Siegelbaum (*Principles of Neural Science, Sixth Edition*), 2021.
+* Eric R. Kandel, John D. Koester, Sarah H. Mack, Steven A. Siegelbaum (*Principles of Neural Science, Sixth Edition, 2021.*)
 
 #### Biology
 
-* Daniel Chamovitz (*What a Plant Knows*), 2012.
-* David Perlmutter, Kristin Loberg (*Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain for Life*), 2015.
-* Peter Godfrey-Smith (*Metazoa: Animal Life and the Birth of the Mind*), 2020.
-* Rachel Carson (*Under the Sea Wind*), 1941.
-* Rachel Carson (*The Edge of the sea*), 1955.
+* Daniel Chamovitz (*What a Plant Knows, 2012.*)
+* David Perlmutter, Kristin Loberg (*Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain for Life, 2015.*)
+* Peter Godfrey-Smith (*Metazoa: Animal Life and the Birth of the Mind, 2020.*)
+* Rachel Carson (*Under the Sea Wind, 1941.*)
+* Rachel Carson (*The Edge of the sea, 1955.*)
 
 #### Symbiosis
-* Lynn Margulis (*Symbiotic Planet*)**core one**
-* Ursula Le Guin (*Carrier Bag Theory of Fiction*)
-* Daniel Goleman (*Social Intelligence: The New Science of Human Relationships*) **social symbiosis**
-* Donna Haraway (*A Cyborg Manifesto*)
+* Lynn Margulis (*Symbiotic Planet, 1998.*)**core one**
+* Ursula Le Guin (*Carrier Bag Theory of Fiction, 1986.*)
+* Daniel Goleman (*Social Intelligence: The New Science of Human Relationships, 2006.*) **social symbiosis**
+* Donna Haraway (*A Cyborg Manifesto, 1985.*)
 
 #### Biocybernetics
-* Norbert Wiener (*Cybernetics: Or Control and Communication in the Animal and the Machine*)
-* Andy Clark (*Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence (2003)*)
+* Norbert Wiener (*Cybernetics: Or Control and Communication in the Animal and the Machine, 1948.*)
+* Andy Clark (*Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence, 2003*)
   
 #### Psychology
 * Daniel Kahneman (*Thinking, Fast and Slow*)
