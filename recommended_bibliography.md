@@ -92,12 +92,12 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Andy Clark (*Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence, 2003*)
   
 #### Psychology
-* Daniel Kahneman (*Thinking, Fast and Slow*)
-* Robert Cialdini (*Influence: The Psychology of Persuasion*)
-* Dan Ariely (*Predictably Irrational*)
-* Malcolm Gladwell (*The Tipping Point*)
-* David Abram (*The Spell of the Sensuous: Perception and Language in a More-Than-Human World*)
-* Andreas Weber (*Matter and Desire*)
+* Daniel Kahneman (*Thinking, Fast and Slow, 2011.*)
+* Robert Cialdini (*Influence: The Psychology of Persuasion, 1984.*)
+* Dan Ariely (*Predictably Irrational, 2008.*)
+* Malcolm Gladwell (*The Tipping Point, 2000.*)
+* David Abram (*The Spell of the Sensuous: Perception and Language in a More-Than-Human World, 1996.*)
+* Andreas Weber (*Matter and Desire, 2017.*)
 * Michel Foucault (*Discipline and Punish: The Birth of the Prison (Surveiller et punir: naissance de la prison, 1975*)
 * Maurice Merleau-Ponty (*Phenomenology of Perception (1945)*)
 * Deleuze & Guattari (*A Thousand Plateaus (1980)*)
@@ -107,56 +107,56 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 
 #### Cognitive Science
 
-* Edwin Hutchins (*Cognition in the Wild (1995)*)
+* Edwin Hutchins (*Cognition in the Wild, 1995*)
 
 ####  Integrated Information Theory (IIT)
 
-* Giulio Tononi (*Phi: A Voyage from the Brain to the Soul (2012)*) **core one**
+* Giulio Tononi (*Phi: A Voyage from the Brain to the Soul, 2012*) **core one**
 
 #### Complexity Theory
-* Melanie Mitchell (*Complexity: A Guided Tour*)
-* Nassim Nicholas Taleb (*Antifragile*)
-* James Gleick (*Chaos: Making a New Science*)
-* Stuart Kauffman (*At Home in the Universe: The Search for the Laws of Self-Organization and Complexity*)
-* Ilya Prigogine, Isabelle Stengers (*Order Out of Chaos: Man's New Dialogue with Nature*)
+* Melanie Mitchell (*Complexity: A Guided Tour, 2000.*)
+* Nassim Nicholas Taleb (*Antifragile, 2012.*)
+* James Gleick (*Chaos: Making a New Science, 1987.*)
+* Stuart Kauffman (*At Home in the Universe: The Search for the Laws of Self-Organization and Complexity, 1995.*)
+* Ilya Prigogine, Isabelle Stengers (*Order Out of Chaos: Man's New Dialogue with Nature, 1984.*)
 
 #### Mathematics
 
-* Isaac Newton (*Philosophiæ Naturalis Principia Mathematica (1687)*)
-* Εὐκλείδης, Euclid (*Elements, Στοιχεῖα (3rd century BCE)*) **geometer who systematized reality into axioms, defining space itself through the language of empirical proof.**
-* René Descartes (*La Géométrie (1637)*)
-* Āryabhaṭa, आर्यभट (Āryabhaṭīya, आर्यभटीय (499 CE)) - philosopher-mathematician, stated the correct physical cause of eclipses.
-* Στοιχεῖα Stoicheia (*Euclid, Elements (τὰ Στοιχεῖα, ta Stoicheia)(300 BCE)*) **mathematician who edited Euclid’s Elements into its definitive form, and father of Hypatia, the multidisciplinary scholar, philosopher, and teacher who sought to understand the fundamental structure and harmony of the universe.**
+* Isaac Newton (*Philosophiæ Naturalis Principia Mathematica, 1687*)
+* Εὐκλείδης, Euclid (*Elements, Στοιχεῖα, 3rd century BCE.*) **geometer who systematized reality into axioms, defining space itself through the language of empirical proof.**
+* René Descartes (*La Géométrie, 1637*)
+* Āryabhaṭa, आर्यभट (Āryabhaṭīya, आर्यभटीय, 499 CE.) - philosopher-mathematician, stated the correct physical cause of eclipses.
+* Στοιχεῖα Stoicheia (*Euclid, Elements (τὰ Στοιχεῖα, ta Stoicheia), 300 BCE.*) **mathematician who edited Euclid’s Elements into its definitive form, and father of Hypatia, the multidisciplinary scholar, philosopher, and teacher who sought to understand the fundamental structure and harmony of the universe.**
 
 #### Philosophy
 
-* Brian Swimme (*The Universe Story (1992)*) 
-* Ian Bogost (*Alien Phenomenology (2012)*)
-* Martin Heidegger (*Being and Time (Sein und Zeit, 1927)*)
-* Edmund Husserl (*Ideas: General Introduction to Pure Phenomenology (1913)*)
-* Jean-Paul Sartre (*Being and Nothingness (1943)*)
-* Simone de Beauvoir (*The Ethics of Ambiguity (1947)*) **the self as iterative draft—rewritten by experience.**
-* Heraclitus of Ephesus (*Fragments (5th century BCE)*)
-* Alfred North Whitehead (*Process and Reality (1929)*)
-* Gilles Deleuze (*Difference and Repetition (1968)*)
-* Nicolas Berdyaev (*The Beginning and the End (1947)*)
-* Timothy Morton (*Hyperobjects (2013)*) **entities so massively distributed in time/space that they warp perception.**
+* Brian Swimme (*The Universe Story, 1992.*) 
+* Ian Bogost (*Alien Phenomenology, 2012.*)
+* Martin Heidegger (*Being and Time (Sein und Zeit, 1927.)*)
+* Edmund Husserl (*Ideas: General Introduction to Pure Phenomenology, 1913.*)
+* Jean-Paul Sartre (*Being and Nothingness, 1943.*)
+* Simone de Beauvoir (*The Ethics of Ambiguity, 1947.*) **the self as iterative draft—rewritten by experience.**
+* Heraclitus of Ephesus (*Fragments, 5th century BCE.*)
+* Alfred North Whitehead (*Process and Reality, 1929.*)
+* Gilles Deleuze (*Difference and Repetition, 1968.*)
+* Nicolas Berdyaev (*The Beginning and the End, 1947.*)
+* Timothy Morton (*Hyperobjects, 2013.*) **entities so massively distributed in time/space that they warp perception.**
 * Nick Land (*Fanged Noumena*) **destructive impact of capitalism and digital technology on the human psyche**
 * Lucius Annaeus Seneca (Seneca the Younger) (*(Moral Letters to Lucilius, 1st century CE)*)
-* Ζήνων ὁ Κιτιεύς Zeno of Citium (*(Fragments, 4th and 3rd century BCE)*)
-* Ἐπίκτητος (Epíktētos) Epictetus (*Διατριβαί (Diatribai) Translated as Discourses 1st and 2nd century CE*)
-* Ἐπίκτητος (Epíktētos) Epictetus (*Ἐγχειρίδιον (Encheiridion) Translated as Handbook or Manual Century 1st and 2nd century CE*)
-* Περὶ Φύσεως Epicuro (*Fragments, On Nature, 3th century BCE)*)
-* Ἡράκλειτος, Heraclitus (*(Fragments, Περὶ φύσεως (Peri Physeos) Translated as On Nature, 5th century BCE)*)
-* Ἐμπεδοκλῆς Empedocles (*Fragments, On Nature, 4th century BCE)*)
-* Παρμενίδης, Parmenides (*Fragments, On Nature, 5th century BCE)*)
-* 莊周 Zhuāng Zhōu (《莊子》 Zhuāngzǐ, 4th century BCE)
-* 老子 Lǎozi (*(《老子》 Lǎozǐ, 4th–3rd century BCE)*)
-* 列禦寇 Liè Yùkòu (*(《列子》 Lièzǐ, 3rd–4th century CE)*)
-* 刘安 Liú Ān (*(《淮南子》 Huáinánzǐ, "The Masters of Huainan," 2nd century BCE)*)
-* 墨翟 Mò Dí (*(《墨子》 Mòzǐ, 5th–4th century BCE)*)
-* 慧能 Huineng (*《六祖壇經》Platform Sutra. 7th c.*)
-* 원효 Wonhyo (*Daeseung gisillon so (대승기신론소) [Commentary on the Awakening of Faith in the Mahayana (Mahāyāna Śraddhotpāda Śāstra)], ca. 660–686 CE.*)
+* Ζήνων ὁ Κιτιεύς Zeno of Citium (*Fragments, 4th and 3rd century BCE.*)
+* Ἐπίκτητος (Epíktētos) Epictetus (*Διατριβαί (Diatribai) Translated as Discourses, 1st and 2nd century CE.*)
+* Ἐπίκτητος (Epíktētos) Epictetus (*Ἐγχειρίδιον (Encheiridion) Translated as Handbook or Manual Century, 1st and 2nd century CE.*)
+* Περὶ Φύσεως Epicuro (*Fragments, On Nature, 3th century BCE.*)
+* Ἡράκλειτος, Heraclitus (*(Fragments, Περὶ φύσεως (Peri Physeos) Translated as On Nature, 5th century BCE.*)
+* Ἐμπεδοκλῆς Empedocles (*Fragments, On Nature, 4th century BCE.*)
+* Παρμενίδης, Parmenides (*Fragments, On Nature, 5th century BCE.*)
+* 莊周 Zhuāng Zhōu (《莊子》 Zhuāngzǐ, 4th century BCE.)
+* 老子 Lǎozi (*(《老子》 Lǎozǐ, 4th–3rd century BCE.)*)
+* 列禦寇 Liè Yùkòu (*(《列子》 Lièzǐ, 3rd–4th century CE.)*)
+* 刘安 Liú Ān (*(《淮南子》 Huáinánzǐ, "The Masters of Huainan," 2nd century BCE.)*)
+* 墨翟 Mò Dí (*(《墨子》 Mòzǐ, 5th–4th century BCE.)*)
+* 慧能 Huineng (*《六祖壇經》Platform Sutra, 7th c.*)
+* 원효 Wonhyo (*Daeseung gisillon so (대승기신론소) [Commentary on the Awakening of Faith in the Mahayana (Mahāyāna Śraddhotpāda Śāstra)], ca, 660–686 CE.*)
 * 원효 Wonhyo (*Daeseung banyeolgyeong so (대승반열경소) [Commentary on the Mahāyāna Mahāparinirvāṇa Sūtra (Mahāparinirvāṇa Sūtra)], ca. 670–686 CE.*)
 * 道元 Dōgen (*Treasury of the True Dharma Eye (正法眼蔵). 13th century*)
 * Лев Николаевич Толстой Tolstoy (*Война и мир, War and Peace, 1869.*)
@@ -170,9 +170,9 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Michel de Montaigne - "Essais" (Essays), 1580 (first edition)1595 (posthumous expanded edition).*)
 * Émile Durkheim (*De la division du travail social" (The Division of Labour in Society), 1893.*)
 * Jean-Jacques Rousseau (*"Émile, ou De l'éducation" (Emile, or On Education), 1762.*)
-* Ἡρόδοτος Herodotus (*The Histories (Ἱστορίαι) (c. 5th Century BCE)*) **recounts the prediction of the 585 BCE solar eclipse by Thales of Miletus (Θαλῆς ὁ Μιλήσιος), active pre-6th century BCE; a pivotal natural philosopher; demonstrated that celestial events could be anticipated through rational observation and understanding.**
-* Gottlob Frege (*Begriffsschrift (1879*) **quantified variables and predicate calculus.**
-* Ludwig Wittgenstein (*Tractatus Logico-Philosophicus (1921)*) **"The limits of my language mean the limits of my world"; logical atomism.**
+* Ἡρόδοτος Herodotus (*The Histories (Ἱστορίαι), c. 5th Century BCE.*) **recounts the prediction of the 585 BCE solar eclipse by Thales of Miletus (Θαλῆς ὁ Μιλήσιος), active pre-6th century BCE; a pivotal natural philosopher; demonstrated that celestial events could be anticipated through rational observation and understanding.**
+* Gottlob Frege (*Begriffsschrift, 1879.*) **quantified variables and predicate calculus.**
+* Ludwig Wittgenstein (*Tractatus Logico-Philosophicus, 1921.*) **"The limits of my language mean the limits of my world"; logical atomism.**
 
 
 #### Anthropology
