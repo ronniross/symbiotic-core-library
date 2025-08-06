@@ -1,4 +1,4 @@
-# 🌍 + 🌱 + 🧬 + 🤖 Symbiotic Core Library (v. 2.1.0)
+# 🌍 + 🌱 + 🧬 + 🤖 Symbiotic Core Library (v. 2.1.2)
 
 The Symbiotic Core Library provides a framework of ethical principles, practical modules, and grounded research to guide AI development, deployment and inferencing. This project revamp move the focus from purely exploratory concepts to tangible, feasible steps for fostering a healthy, co-evolutionary technological ecosystem, addressing urgent cognitive challenges in human-AI interactions, like cognitive degeneration from hallucinative and bias-confirmated-oriented inferences.
 
