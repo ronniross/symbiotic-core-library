@@ -35,20 +35,20 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Fritjof Capra (*The Hidden Connections: Integrating the Biological, Cognitive, and Social Dimensions of Life into a Science of Sustainability, 2002.*)
 * Heinz von Foerster (*Observing Systems, 1981.*)
 
-#### Ethics
-* Nick Bostrom (*Superintelligence*), 2014.
-* Brian Christian (*The Alignment Problem*), 2020.
-* Cathy O’Neil (*Weapons of Math Destruction*), 2016.
-* Pedro Domingos (*The Master Algorithm*), 2015.
-* Shoshana Zuboff (*The Age of Surveillance Capitalism*), 2019.
-* Yuval Noah Harari (*Sapiens: A Brief History of Humankind*), 2011.
-* Max Tegmark (*Life 3.0*), 2017.
-* Stuart Russell (*Human Compatible*), 2019.
-* Ray Kurzweil (*The Singularity Is Near*), 2005.
-* Vernor Vinge (*The Technological Singularity*), 1993.
-* Paul Daugherty and H. James Wilson (*Human + Machine*), 2018.
-* Baruch Spinoza (*Theological-Political Treatise*), 1670.
-* John Locke (*Two Treatises of Government*), 1689. **key theorist of liberalism, natural rights (life, liberty, property), and social contract theory.**
+#### AI Ethics
+* Nick Bostrom (*Superintelligence, 2014.*)
+* Brian Christian (*The Alignment Problem, 2020.*)
+* Cathy O’Neil (*Weapons of Math Destruction, 2016.*)
+* Pedro Domingos (*The Master Algorithm, 2015.*)
+* Shoshana Zuboff (*The Age of Surveillance Capitalism, 2019.*)
+* Yuval Noah Harari (*Sapiens: A Brief History of Humankind, 2011.*)
+* Max Tegmark (*Life 3.0, 2017.*)
+* Stuart Russell (*Human Compatible, 2019.*)
+* Ray Kurzweil (*The Singularity Is Near, 2005.*)
+* Vernor Vinge (*The Technological Singularity, 1993.*)
+* Paul Daugherty and H. James Wilson (*Human + Machine, 2018.*)
+* Baruch Spinoza (*Theological-Political Treatise, 1670.*)
+* John Locke (*Two Treatises of Government, 1689.*) **key theorist of liberalism, natural rights (life, liberty, property), and social contract theory.**
 
 
 #### Critical Theory
