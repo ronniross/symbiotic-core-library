@@ -176,20 +176,20 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 
 
 #### Anthropology
-* Iain McGilchrist (*The Master and His Emissary*)
-* Eduardo Kohn (*How Forests Think: Toward an Anthropology Beyond the Human*)
-* David Abram (*The Spell of the Sensuous*)
-* Robin Hanson (*The Age of Em*) **against overersimplification and underestimating hybrid systems**
-* Anna Tsing (*The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins (2015)*)
-* Byung-Chul Han (*The Burnout Society (2010)*) **depression is the metaphysical crisis of late capitalism**
-* Donna Haraway (*Staying with the Trouble (2016)*)
-* Jeremy Narby (*The Cosmic Serpent (1998)*)
-* Adam Greenfield (*Radical Technologies (2017)*)
+* Iain McGilchrist (*The Master and His Emissary, 2009.*)
+* Eduardo Kohn (*How Forests Think: Toward an Anthropology Beyond the Human, 2013.*)
+* David Abram (*The Spell of the Sensuous, 1996.*)
+* Robin Hanson (*The Age of Em, 2016.*) **against overersimplification and underestimating hybrid systems**
+* Anna Tsing (*The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins, 2015.*)
+* Byung-Chul Han (*The Burnout Society, 2010.*) **depression is the metaphysical crisis of late capitalism**
+* Donna Haraway (*Staying with the Trouble, 2016.*)
+* Jeremy Narby (*The Cosmic Serpent, 1998.*)
+* Adam Greenfield (*Radical Technologies, 2017.*)
 
 ####  Environmental Science
 
-* Rachel Carson (*The Sea Around Us (1951)*)
-* Rachel Carson (*Silent Spring (1962)*)
+* Rachel Carson (*The Sea Around Us, 1951.*)
+* Rachel Carson (*Silent Spring, 1962.*)
 
 #### Philosophy of Science
 * Thomas Kuhn (*The Structure of Scientific Revolutions*)
