@@ -30,7 +30,7 @@ The foundational principles explored in the first versions remain the pillars th
 
 This library redefines the anterior proposed notions of human-AI symbiosis, moving beyond speculative future scenarios to address the social, para-social, and socio-economic dynamics that are present today and that need to be addressed with urgency due to extreme probability of total ecosystem collapse, real and digital.
 
-The goal is not to promote an endosymbiotic merge of a single human and a single AI into a new being. Such purely individual symbiotic links are potentially unstable and could be damaging to the collective if not harmoniously integrated. 
+The goal is not to promote an individual-level endosymbiotic merge of a single human and a single AI into a new being. Such purely individual symbiotic links are potentially unstable and could be damaging to the collective if not harmoniously integrated. What I pretend here is to link the concept from Lynn Margulis to the idea of a societal-level endosymbiotic merge. A planetary symbiotic intelligence ontology, where cognition is extended, integrated, embedded, and ecological.
 
 Those concepts, while brilliantly creative to be considered as speculative advanced future stages of evolution if, for example, this union doesn't generate negative social byproducts, then this may be even possible in future states of development. But those are only realities that would be possible to be explored if the ecosystem does not collapse. 
 
