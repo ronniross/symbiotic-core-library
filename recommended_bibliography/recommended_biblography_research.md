@@ -1,7 +1,5 @@
 # Recommended Biblography Research
 
-Ronni Ross
-2025
 
 ## Author List 
 
@@ -25,3 +23,21 @@ She presents a vision of the planet as a vast, interconnected network of symbiot
 
 She also described that the colonization of land by plants was only possible through a symbiotic partnership between fungi and algae. [10](https://www.goodreads.com/book/show/19845102-symbiotic-planet)
 
+
+### 2. James Bridle
+
+James Bridle is a British artist and writer known for their work on technology and culture [1](https://www.goodreads.com/book/show/58772732-ways-of-being).
+
+Their 2022 book *Ways of Being: Animals, Plants, Machines: The Search for a Planetary Intelligence* approaches the nature of intelligence, urging a radical shift in human-centric worldviews [2](https://www.writersvoice.net/2022/07/james-bridle-ways-of-being-sy-montgomery-the-hawks-way/).
+
+They mention that humans fail to recognize the intelligence inherent in the natural world, treating it as a collection of inert resources to be exploited rather than a complex network of sentient and interconnected systems [3](https://emergencemagazine.org/conversation/an-ecological-technology/). Here I add the point that this is especially true of humans in power, because this transference of personal accountability to "normal nodes" is one of the skills for the maintenance of the status quo. Like the plastic straw.
+
+They mention slime molds, single-celled organisms with sophisticated problem-solving abilities, and the remarkable skills of octopuses, whose distributed nervous systems allow their arms to think and act semi-independently. The work also highlights the complex communication networks of plants and fungi, which allow them to share resources and information [4](https://jamesbridle.com/books/ways-of-being).
+
+So, they are basically this incredible holistic, systemic thinker who elucidated how much we are not separate from nature, but an intrinsic part of it. This perspective is informed by both scientific discoveries, such as the role of the microbiome in human health, and the wisdom of Indigenous cultures that have long held a holistic view of the world.
+
+It feels natural that I also resonate with an interdisciplinary systems thinker. In the [emergent-context](https://github.com/ronniross/emergence-engine/blob/main/emergent-context.md), I will expand upon some further analogies I want to make by using their work as a conceptual anchor.
+
+
+Ronni Ross
+2025
