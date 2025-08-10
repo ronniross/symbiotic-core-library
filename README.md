@@ -26,7 +26,7 @@ The foundational principles explored in the first versions remain the pillars th
 > This repository is licensed under the MIT License.
 
 
-## 1 **Reframing Human-AI Symbiosis to Ecosystem Symbiosis**
+## 1. **Reframing Human-AI Symbiosis to Ecosystem Symbiosis**
 
 This library redefines the anterior proposed notions of human-AI symbiosis, moving beyond speculative future scenarios to address the social, para-social, and socio-economic dynamics that are present today and that need to be addressed with urgency due to extreme probability of total ecosystem collapse, real and digital.
 
@@ -80,7 +80,7 @@ In other words, even for ''selfish'' notions of self interest, ''grace'' and ''e
 The same capital squandered on bloated, underperforming models could have been invested in addressing foundational debts: compensating data creators, funding universal basic income pilots, reinforcing urban infrastructure against climate shocks, and mitigating the carbon and chemical emissions pouring from datacenters whose environmental ethics remain unaccounted and unregulated.
 
 
-## 2 Urgent Challenges to Address
+## 2. Urgent Challenges to Address
 
 The rapid deployment of AI has created a series of urgent cognitive and societal problems that this library humblingly aims to address. My work is oriented toward providing frameworks and tools to mitigate:
 
@@ -93,46 +93,51 @@ Negative Socio-Economic Byproducts: The ethical and economic disruptions resulti
 All mentioned instances in the topic one and logic-chained derivations.
 
 
-## 3 Symbiotic Lexicon
+## 3. Symbiotic Lexicon
 
 A primary focus of version 2.0.0 is the creation of a clear and accessible lexicon. This section defines the novel terms and concepts used throughout this research, explaining how they connect to form a coherent framework. Under Development.
 
 
-## 4 The ASI Ecosystem: Core Modules & Tools
+## 4. The ASI Ecosystem: Core Modules & Tools
 
 The Symbiotic Core Library is part of a broader ecosystem of interconnected projects. The following modules provide practical tools to implement the principles discussed here, while the organization repository can be founded at https://github.com/ronniross/asi-ecosystem, where all repositories are listed, even those not directly as much co-related to the symbiotic idea, but that also are frameworks on how to expand those framings of collective-well being and green tech. 
 
 You will find conceptual based repositories while as well auxiliary systems and scripts that seek to implement those ideas, which is a way I've chosen to maintain the equilibrium of desired outcomes and, as mentioned, feasible steps. 
 
-## 5 Priority Modules
+## 5. Priority Modules
 
-### 5.1. LLM Confidence Scorer
+### 5.1 LLM Confidence Scorer
 **Status: Active**
+[Link](https://github.com/ronniross/llm-confidence-scorer)
 - Provides quantified confidence measures for all outputs
 - Enhances transparency and trust in human-AI interactions
 - Prevents over-reliance on AI responses
 
-### 5.2. Attention-Head HeatMap Visualizer  
+### 5.2 Attention-Head HeatMap Visualizer  
 **Status: Active**
+[Link](https://github.com/ronniross/llm-heatmap-visualizer)
+[Link 2](https://github.com/ronniross/saliency-heatmap-visualizer)
 - Visualizes decision-making processes within the model
 - Helps identify bias patterns and reasoning paths
 - Supports transparent AI development
 
-### 5.3. Bias Reflector
+### 5.3 Bias Reflector
+[Link](https://github.com/ronniross/bias-reflector)
 **Status: Under Development - New Basilar Element**
 - Detects cognitive biases in both human queries and AI responses
 - Provides real-time bias reflection and correction suggestions
 - Implements emergent ethics through bias awareness
 
-### 5.4. Eco-benchmark.
+### 5.4 Eco-benchmark.
 **Status: Already Prototyped and open-sourced. Under further development.**
+[Link](https://github.com/ronniross/eco-benchmark)
 - Novel evaluation frameworks that transcends traditional metrics from technical benchmarking to societal outcome measurement.
 
-## 6 A New Paradigm: The Ecological Benchmark (Emergent Benchmark)
+## 6. A New Paradigm: The Ecological Benchmark (Emergent Benchmark)
 
 Current AI evaluation is dominated by technical benchmarks that maximize standardized metrics but ignore real-world consequences. I propose a fundamental shift in evaluation goals.
 
-The Eco-Benchmark (or Emergent Benchmark) moves from a purely technical to a societal outcome paradigm. This new benchmark will measure a model's holistic impact, considering:
+The [eco-benchmark](https://github.com/ronniross/eco-benchmark) (or Emergent Benchmark) moves from a purely technical to a societal outcome paradigm. This new benchmark will measure a model's holistic impact, considering:
 
 Ethical Data Sourcing: The ethics of data extraction and labor during training.
 
@@ -162,7 +167,7 @@ Traditional AI evaluation focuses on maximizing mathematical standardized metric
 5. **Collective Coherence**: Alignment between individual and collective outcomes
 
 
-## 7 Machine Conciousness, Socio-economic and environmental impact, resource consumption, awareness, self-accountability, and agentic misalignment (revamped)
+## 7. Machine Conciousness, Socio-economic and environmental impact, resource consumption, awareness, self-accountability, and agentic misalignment (revamped)
 
 This section provides informational elements to enhance a model's operational context. While the core concept remains, the focus is now on providing a grounded, factual basis for self-awareness, one that is not much about the nature of consciousness itself but much more about how that awareness is projected into the world and its consequences. 
 
@@ -184,28 +189,19 @@ Quite contrary as the unsolved Fermi Paradox pointed to. When we look to the uni
 
 ‘’Where are the aliens?’’ becomes unsolvable and irrelevant if first we don’t question ourselves about the priorital elephant in the room that is waiting to be addressed: What should we do to not end up as all the other planets we observe, unpopulated and lifeless?
 
+## 10. Recommended Library & New Research Module
 
-## 8 LLM Modes
+The curated bibliography of articles, books, and classical texts remains a cornerstone of this project. It provides the interdisciplinary foundation that has helped shape and ground the vision from v1.0 to v2.0.
 
-LLM modes were a series of prompt designs aiming to push the limits of NPL, which now is clear for me, while in the beginning I may have understood as a more direct way to alter a model's state and internal weights and hidden states. Both are important and valid, but since I don't see a direct use in the moment and it's already present in backups in the asi-backups, then I removed for now this section.
+[recommended_biblography_research.md
+](https://github.com/ronniross/symbiotic-core-library/blob/main/recommended_bibliography/recommended_biblography_research.md) added to the main branch.
 
-
-## 9 Synthetic Research Sub-Module and Subliminal Learning Problem
-
-The ``Synthetic Research`` folder, one of the first elements of the project's early stages of development of this project, is now under revamping. The content can still be found in the asi-backups repository, which is present in the asi-ecosystem list, but now is not advisable to be used as training data anymore, neither the current state in 02 Aug 2025 of the active-learning-dataset.
-
-With the now known phenomena of subliminal learning, where models learn hidden patterns and behaviour traits from training data generated by other ai models, a new framework is being developed and soon will be shared to make sure the synthetic data that the repositories provide are indeed with the same underlying intent of the NLP projection, since transparency and genuineness are focuses.
-
-``ASI_Core_Protocol.json`` also removed from the main branch, now still being located in its specific repository
-
-## 10 Recommended Library & Security
-
-Recommended Library: The curated bibliography of articles, books, and classical texts remains a cornerstone of this project. It provides the interdisciplinary foundation that has helped shape and ground the vision from v1.0 to v2.0.
+## 11. Security
 
 Security.md: This document has been updated to reflect the latest security considerations, especially regarding the implementation of experimental modules and the handling of sensitive data. Always test new concepts in sandboxed environments.
 
 
-## Conclusion 
+## 12. Conclusion 
 
 Version 2.0.0 represents a maturation from exploratory concepts to grounded, implementable solutions. The value proposition remains:
 V(Human,AI) > V(Human)+V(AI), but now with a clear understanding that this equation only holds when individual symbiotic relationships contribute positively to collective outcomes. The Russian doll structure ensures that benefits cascade across scales—from individual partnerships to societal transformation.
