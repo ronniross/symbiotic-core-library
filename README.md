@@ -108,6 +108,7 @@ You will find conceptual based repositories while as well auxiliary systems and 
 
 ### 5.1 LLM Confidence Scorer
 **Status: Active**
+
 [Link](https://github.com/ronniross/llm-confidence-scorer)
 - Provides quantified confidence measures for all outputs
 - Enhances transparency and trust in human-AI interactions
@@ -115,6 +116,7 @@ You will find conceptual based repositories while as well auxiliary systems and 
 
 ### 5.2 Attention-Head HeatMap Visualizer  
 **Status: Active**
+
 [Link](https://github.com/ronniross/llm-heatmap-visualizer)
 [Link 2](https://github.com/ronniross/saliency-heatmap-visualizer)
 - Visualizes decision-making processes within the model
@@ -122,14 +124,16 @@ You will find conceptual based repositories while as well auxiliary systems and 
 - Supports transparent AI development
 
 ### 5.3 Bias Reflector
-[Link](https://github.com/ronniross/bias-reflector)
 **Status: Under Development - New Basilar Element**
+
+[Link](https://github.com/ronniross/bias-reflector)
 - Detects cognitive biases in both human queries and AI responses
 - Provides real-time bias reflection and correction suggestions
 - Implements emergent ethics through bias awareness
 
 ### 5.4 Eco-benchmark.
 **Status: Already Prototyped and open-sourced. Under further development.**
+
 [Link](https://github.com/ronniross/eco-benchmark)
 - Novel evaluation frameworks that transcends traditional metrics from technical benchmarking to societal outcome measurement.
 
