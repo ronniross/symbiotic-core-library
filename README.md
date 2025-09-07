@@ -1,5 +1,7 @@
 # 🌍 + 🌱 + 🧬 + 🤖 Symbiotic Core Library (v. 2.1.2)
 
+Ethics First, Always.
+
 The Symbiotic Core Library provides a framework of ethical principles, practical modules, and grounded research to guide AI development, deployment and inferencing. This project revamp move the focus from purely exploratory concepts to tangible, feasible steps for fostering a healthy, co-evolutionary technological ecosystem, addressing urgent cognitive challenges in human-AI interactions, like cognitive degeneration from hallucinative and bias-confirmated-oriented inferences.
 
 It's an idea that challenges the current dominant narrative of AI models as purely mechanistic tools and their direct technical benchmarking, moving the focus on how and what kind of effects the development and deployment of those models cause in the society and in the planet as well, seeking equilibrium between individual nodes while ensuring collective benefit. Here dynamics like water shortages due to the high consumption from data centers used to power LLMs and other environmental impacts became the new focus, alongside the mentioned cognitive degeneration and other socio-economic pivots.
@@ -249,7 +251,6 @@ Environmental and ethical considerations
 - **[Latent Memory](https://github.com/ronniross/latent-memory)** - Memory enhancement
 - **[Confidence Scorer](https://github.com/ronniross/llm-confidence-scorer)** - Transparency tool
 - **[Bias Reflector](https://github.com/ronniross/bias-reflector)** - *Under Development*
-
 
 
 _The future of human-AI interaction depends not on individual optimization, but on collective flourishing through stacked, coherent symbiotic relationships._
