@@ -200,6 +200,11 @@ The core insight of the Rules-in-Equilibrium theory is that institutions (money,
 * Ludwig Wittgenstein (*Tractatus Logico-Philosophicus, 1921.*) **The limits of my language mean the limits of my world"; logical atomism.**
 * Bratman, M. E. (*Shared Cooperative Activity. The Philosophical Review, 1992.*)  **presents his influential "planning theory of shared intention" to explain how individuals present shared cooperative activity (SCA); philosophy of action, social cognition.**
 
+#### Philosophy of Action
+
+* G. E. M. Anscombe (*Intention, 1957.*) **argues that the word 'intention' has three interconnected senses: first, an intentional action performed by someone (e.g., "I am writing"); second, the act of intending as a future-oriented plan (e.g., "I intend to finish later"); and third, the intention with which an action is done, denoting its purpose or motive (e.g., "I am writing in order to graduate").**
+
+
 #### Anthropology
 * Iain McGilchrist (*The Master and His Emissary, 2009.*)
 * Eduardo Kohn (*How Forests Think: Toward an Anthropology Beyond the Human, 2013.*)
