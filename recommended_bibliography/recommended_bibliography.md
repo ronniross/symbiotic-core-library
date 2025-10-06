@@ -82,11 +82,9 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Rachel Carson (*The Edge of the sea, 1955.*)
 * Maynard Smith, J. & Szathmáry, E. The Major Transitions in Evolution (Freeman, Oxford, 1995). **Proposes a framework for understanding the major transitions in history of life, positing the are characterized by the formation of higher-level biological units from independent replicators, the development of novel inheritance systems, and a fundamental alteration in the evolutionary process itself; Many transitions involve the formation of new, larger units of selection from previously independent entities, such as cells forming multicellular organisms; Novel Inheritance Systems: These transitions often involve the emergence of new or more complex ways to store and transmit information, like the transition from an RNA-based to a DNA-protein-based system; It draws on examples and theories from molecular biology, linguistics, and the study of social insect colonies.**
 
-
 #### Sociology
 
-Émile Durkheim (*The Rules of Sociological Method, 1895.*)
-
+* Émile Durkheim (*The Rules of Sociological Method, 1895.*)
 
 #### Social Ontology and Evolutionary Sociology
 
