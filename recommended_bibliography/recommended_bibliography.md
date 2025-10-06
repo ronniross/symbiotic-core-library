@@ -103,10 +103,13 @@ The core insight of the Rules-in-Equilibrium theory is that institutions (money,
 * Daniel Goleman (*Social Intelligence: The New Science of Human Relationships, 2006.*) **social symbiosis**
 * Donna Haraway (*A Cyborg Manifesto, 1985.*)
 
-#### Biocybernetics
+#### Cybernetics and Biocybernetics 
+
 * Norbert Wiener (*Cybernetics: Or Control and Communication in the Animal and the Machine, 1948.*)
 * Andy Clark (*Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence, 2003*)
-  
+* Peter Corning (Holistic Darwinism: Synergy, Cybernetics, and the Bioeconomics of Evolution, 2005.*) **Holistic Darwinism provides a systemic, non-reductionist framework for understanding evolution, acting as a direct counterpoint to the gene-centric and strictly individualistic views  Corning argues that synergy—the effects produced by the interaction of elements that cannot be understood as the mere sum of their parts—is the primary selective agent in the evolutionary process. When elements (like cells, organisms, or individuals, societies) interact to produce a combined effect that yields a survival or reproductive benefit greater than they could achieve separately, this synergistic effect becomes the target of selection; argues about a biological evolution and that the success of a synergistic organization (be it a body or a group) depends on a favorable "cost-benefit analysis" (the bioeconomic calculation). If the benefits derived from the synergistic teamwork outweigh the costs of maintaining that cooperation, the structure will be stable and selected for. His theory strongly supports the concept of selection at multiple levels, particularly the group level. Synergy provides the functional explanation for why higher levels of organization (groups, societies) emerge and persist—because they generate emergent benefits that cannot be achieved by individuals alone.** what an incredible person.
+
+
 #### Psychology
 * Daniel Kahneman (*Thinking, Fast and Slow, 2011.*)
 * Robert Cialdini (*Influence: The Psychology of Persuasion, 1984.*)
