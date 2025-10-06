@@ -81,6 +81,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Peter Godfrey-Smith (*Metazoa: Animal Life and the Birth of the Mind, 2020.*)
 * Rachel Carson (*Under the Sea Wind, 1941.*)
 * Rachel Carson (*The Edge of the sea, 1955.*)
+* Maynard Smith, J. & Szathmáry, E. The Major Transitions in Evolution (Freeman, Oxford, 1995).
 
 #### Symbiosis
 * Lynn Margulis (*Symbiotic Planet, 1998.*)**core one**
