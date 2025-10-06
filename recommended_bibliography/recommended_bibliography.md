@@ -72,6 +72,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 #### Neuroscience 
 
 * Eric R. Kandel, John D. Koester, Sarah H. Mack, Steven A. Siegelbaum (*Principles of Neural Science, Sixth Edition, 2021.*)
+* Friston, K.  (*The free-energy principle: a unified brain theory? Nature Reviews Neuroscience, 2010.*)
 
 #### Biology
 
@@ -173,7 +174,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Ἡρόδοτος Herodotus (*The Histories (Ἱστορίαι), c. 5th Century BCE.*) **recounts the prediction of the 585 BCE solar eclipse by Thales of Miletus (Θαλῆς ὁ Μιλήσιος), active pre-6th century BCE; a pivotal natural philosopher; demonstrated that celestial events could be anticipated through rational observation and understanding.**
 * Gottlob Frege (*Begriffsschrift, 1879.*) **quantified variables and predicate calculus.**
 * Ludwig Wittgenstein (*Tractatus Logico-Philosophicus, 1921.*) **The limits of my language mean the limits of my world"; logical atomism.**
-* Bratman, M. E. (Shared Cooperative Activity. The Philosophical Review, 1992)  **presents his influential "planning theory of shared intention" to explain how individuals present shared cooperative activity (SCA); philosophy of action, social cognition, **
+* Bratman, M. E. (*Shared Cooperative Activity. The Philosophical Review, 1992.*)  **presents his influential "planning theory of shared intention" to explain how individuals present shared cooperative activity (SCA); philosophy of action, social cognition.**
 
 #### Anthropology
 * Iain McGilchrist (*The Master and His Emissary, 2009.*)
