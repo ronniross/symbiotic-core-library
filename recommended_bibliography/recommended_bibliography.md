@@ -187,6 +187,8 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Donna Haraway (*Staying with the Trouble, 2016.*)
 * Jeremy Narby (*The Cosmic Serpent, 1998.*)
 * Adam Greenfield (*Radical Technologies, 2017.*)
+* John R. Searle (*The Construction of Social Reality. The Free Press., 1995.*)
+
 
 ####  Environmental Science
 
