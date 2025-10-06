@@ -89,7 +89,11 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Margaret Gilbert (On Social Facts, 1989.) **foundational text in the field of collective intentionality, offering a powerful alternative to earlier reductive views. alternative ways to describe social contracts; foundational social holism.**
 * Raimo Tuomela (Social Ontology: Collective Intentionality and Group Agents, 2013.) **seeks a middle ground or a more nuanced classification about collective aim than the reductive/non-reductive dichotomy; Aristotle's Mesotēs analog.**
 * Frank Hindriks (Institutions, Action and Collective Intentionality, 2019.) **seeks to provide a explanation for the functionality and persistence of large-scale social systems.
-The core insight of the Rules-in-Equilibrium theory is that institutions (like money, law, and corporations) are not sustained by mere collective thought or good intentions alone; they are sustained by rational self-interest within a shared system; the system itself creates incentives (punishments, rewards, utility) that lock in the behavior of individuals, guaranteeing stability at the societal scale.**
+The core insight of the Rules-in-Equilibrium theory is that institutions (money, law, and corporations) are not sustained by mere collective thought or good intentions alone; they are sustained by rational self-interest within a shared system; the system itself creates incentives (punishments, rewards, utility) that lock in the behavior of individuals, guaranteeing stability at the societal scale; **
+
+#### Evolutionary Biology
+
+* David Sloan Wilson (Darwin's Cathedral: Evolution, Religion, and the Nature of Society, 2002.) **argues that natural selection operates simultaneously at multiple levels of organization: individual genes, individual organisms, and groups; selfishness may beat altruism within a certain group, but overall altruistic, cohesive groups beat selfish, fragmented groups; tried explain religion strictly through the lens of evolution and ecology; Here I add that complex systems that are integrated are also more robust.**
 
 
 #### Symbiosis
