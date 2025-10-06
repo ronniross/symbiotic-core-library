@@ -109,6 +109,10 @@ The core insight of the Rules-in-Equilibrium theory is that institutions (money,
 * Daniel Goleman (*Social Intelligence: The New Science of Human Relationships, 2006.*) **social symbiosis**
 * Donna Haraway (*A Cyborg Manifesto, 1985.*)
 
+#### Artificial Intelligence AI
+
+* Yuval Noah Harari (*Nexus: A Brief History of Information Networks from the Stone Age to AI, 2024.*) **how the flow of information has shaped the world.**
+
 #### Cybernetics and Biocybernetics 
 
 * Norbert Wiener (*Cybernetics: Or Control and Communication in the Animal and the Machine, 1948.*)
@@ -207,8 +211,8 @@ The core insight of the Rules-in-Equilibrium theory is that institutions (money,
 
 * G. E. M. Anscombe (*Intention, 1957.*) **argues that the word 'intention' has three interconnected senses: first, an intentional action performed by someone (e.g., "I am writing"); second, the act of intending as a future-oriented plan (e.g., "I intend to finish later"); and third, the intention with which an action is done, denoting its purpose or motive (e.g., "I am writing in order to graduate").**
 
-
 #### Anthropology
+
 * Iain McGilchrist (*The Master and His Emissary, 2009.*)
 * Eduardo Kohn (*How Forests Think: Toward an Anthropology Beyond the Human, 2013.*)
 * David Abram (*The Spell of the Sensuous, 1996.*)
@@ -233,8 +237,6 @@ The core insight of the Rules-in-Equilibrium theory is that institutions (money,
 * Rachel Carson (*Silent Spring, 1962.*)
 * Elizabeth Kolbert (*The Sixth Extinction: An Unnatural History, 2014.*) **presents evidence showing that the current rate of species loss is 100 to 1,000 times higher than the natural "background" rate of extinction, matching the scale of past mass extinctions; mass extinctions as rapid, global events where species cannot adapt quickly enough to sudden environmental change;  humans are an unprecedented geological force and our defining legacy may be the vast destruction of biodiversity. The book uses the tragic stories of extinct and endangered species to urge readers to confront the moral implications of this self-made catastrophe, arguing that the future survival of countless species, including humans, depends on a radical shift in our relationship with the planet; elucidates how burning fossil fuels has drastically increased $\text{CO}_2$ in the atmosphere, leading to rising global temperatures and rapid **climate change**. A significant portion of this $\text{CO}_2$ is absorbed by the ocean, causing **ocean acidification**, which is devastating marine life and other biomes; Converting forests to farmland, building cities, and damming rivers drastically reduces the amount of viable habitat, forcing species into ever-smaller patches where they become vulnerable to local extinction.**
 * Yuval Noah Harari (*Sapiens: A Brief History of Humankind, 2011.*) **posits that scientific Revolution was about the discovery of ignorance. European elites became willing to admit that they did not know everything, and this willingness to admit ignorance and then attempt to remedy it became the engine of scientific progress; The admission of ignorance fueled a quest for new knowledge**
-
-
 
 #### Philosophy of Science
 * Thomas Kuhn (*The Structure of Scientific Revolutions, 1962.*)
