@@ -50,7 +50,6 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Baruch Spinoza (*Theological-Political Treatise, 1670.*)
 * John Locke (*Two Treatises of Government, 1689.*) **key theorist of liberalism, natural rights (life, liberty, property), and social contract theory.**
 
-
 #### Critical Theory
 * Jean Baudrillard (*Simulacra and Simulation, 1981*)
 * Michel Foucault (*Security, Territory, Population, 2004*)
@@ -61,7 +60,6 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Friedrich Nietzsche (*Thus Spoke Zarathustra, Also sprach Zarathustra: Ein Buch für Alle und Keinen, 1883.*) **Übermensch; amor fati.**
 * Carl Gustav Jung (*The Undiscovered Self. (Gegenwart und Zukunft, meaning "Present and Future", 1957.) **shadow self; the Importance of Self-Knowledge  individual losing touch with their own unique self, particularly their unconscious depths, in favour of conforming to mass ideologies (political, social, or religious).**
 * Carl Gustav Jung (*The Red Book (Liber Novus), created between approximately 1914 and 1930, published in 2009.*)
-
 
 #### Astrophysics
 
@@ -98,7 +96,6 @@ The core insight of the Rules-in-Equilibrium theory is that institutions (money,
 * David Sloan Wilson (Darwin's Cathedral: Evolution, Religion, and the Nature of Society, 2002.) **argues that natural selection operates simultaneously at multiple levels of organization: individual genes, individual organisms, and groups; selfishness may beat altruism within a certain group, but overall altruistic, cohesive groups beat selfish, fragmented groups; tried explain religion strictly through the lens of evolution and ecology; Here I add that complex systems that are integrated are also more robust.**
 * Herbert Gintis (Game Theory Evolving: A Problem-Centered Introduction to Modeling Strategic Interaction, 2000.) **formalizes the analysis of social interaction using game theory, but significantly incorporates evolutionary dynamics and behavioral findings; provides a rigorous, mathematically grounded model for how human social behavior, including cooperation and morality, can emerge and be sustained; Evolutionary Game Theory (EGT): The book’s primary framework. Unlike classical game theory, which assumes perfect rationality, EGT models how strategies (behaviors) change and spread within a population based on their fitness payoff. Strategies are not chosen rationally; they are inherited or imitated based on their success; used to explain the long-term stability of social norms and behaviors, such as reciprocity, fairness, and punishment. Gintis is a key proponent of this view, arguing that human evolution cannot be understood by looking at genes or culture alone. Genes evolve in response to the selective environment created by cultural practices, and cultural practices are constrained by human genetics (e.g., our capacity for language or collective intentionality). This is a mechanism to explain why humans are much more cooperative than simple rational choice or gene-centric models predict; punishing defectors even at a personal cost) are evolutionarily rational because they benefit the group and are maintained by coevolutionary processes, even if they appear irrational in a single, one-shot interaction.**
 
-
 #### Symbiosis
 * Lynn Margulis (*Symbiotic Planet, 1998.*)**core one**
 * Ursula Le Guin (*Carrier Bag Theory of Fiction, 1986.*)
@@ -110,7 +107,6 @@ The core insight of the Rules-in-Equilibrium theory is that institutions (money,
 * Norbert Wiener (*Cybernetics: Or Control and Communication in the Animal and the Machine, 1948.*)
 * Andy Clark (*Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence, 2003*)
 * Peter Corning (Holistic Darwinism: Synergy, Cybernetics, and the Bioeconomics of Evolution, 2005.*) **Holistic Darwinism provides a systemic, non-reductionist framework for understanding evolution, acting as a direct counterpoint to the gene-centric and strictly individualistic views  Corning argues that synergy—the effects produced by the interaction of elements that cannot be understood as the mere sum of their parts—is the primary selective agent in the evolutionary process. When elements (like cells, organisms, or individuals, societies) interact to produce a combined effect that yields a survival or reproductive benefit greater than they could achieve separately, this synergistic effect becomes the target of selection; argues about a biological evolution and that the success of a synergistic organization (be it a body or a group) depends on a favorable "cost-benefit analysis" (the bioeconomic calculation). If the benefits derived from the synergistic teamwork outweigh the costs of maintaining that cooperation, the structure will be stable and selected for. His theory strongly supports the concept of selection at multiple levels, particularly the group level. Synergy provides the functional explanation for why higher levels of organization (groups, societies) emerge and persist—because they generate emergent benefits that cannot be achieved by individuals alone.** what an incredible person.
-
 
 #### Psychology
 * Daniel Kahneman (*Thinking, Fast and Slow, 2011.*)
@@ -198,7 +194,6 @@ The core insight of the Rules-in-Equilibrium theory is that institutions (money,
 * Ludwig Wittgenstein (*Tractatus Logico-Philosophicus, 1921.*) **The limits of my language mean the limits of my world"; logical atomism.**
 * Bratman, M. E. (*Shared Cooperative Activity. The Philosophical Review, 1992.*)  **presents his influential "planning theory of shared intention" to explain how individuals present shared cooperative activity (SCA); philosophy of action, social cognition.**
 
-
 #### Anthropology
 * Iain McGilchrist (*The Master and His Emissary, 2009.*)
 * Eduardo Kohn (*How Forests Think: Toward an Anthropology Beyond the Human, 2013.*)
@@ -216,7 +211,7 @@ The core insight of the Rules-in-Equilibrium theory is that institutions (money,
 
 * Michael Tomasello (A Natural History of Human Morality, 2016.) **explores the evolutionary pathway that led humans from being merely social animals to being highly cooperative, moral, and cultural beings. His work is centrally focused on the unique cognitive steps taken by the human lineage. Shared Intentionality: This is Tomasello's core concept. It describes the ability of humans to collaborate with others on shared goals in a way that involves joint attention (looking at the same thing together), joint goals (a we intention), and shared background knowledge. Tomasello's theory directly challenges purely individualistic or purely gene-centric accounts of cooperation by centering on cognition and culture. Tomasello emphasizes that the selection pressure was for unique cognitive and motivational abilities (shared intentionality) that predate and then drive cultural evolution. It is the ability to create shared reality that allows cooperation to scale up. The arguments in this book are grounded in decades of meticulous comparative research with great apes and human children. By comparing the cognitive abilities of chimpanzees (who show forms of cooperation but lack true shared intentionality.**
 * Frans de Waal (Primates and Philosophers: How Morality Evolved, 2006.) **proposes that the roots of human morality are deeply embedded in the social and emotional lives of primates; champions a continuity perspective, asserting that morality did not suddenly appear with humanity. Instead, the building blocks of morality, like mpathy, reciprocity, conflict resolution, and consolation are observable in chimpanzees, bonobos, and other social mammals; hese emotional and behavioral tendencies are not learned from scratch but are evolved, adaptive traits that enable complex social living. For instance, empathy (the ability to be affected by and share another's emotional state) is a crucial mechanism for successful cooperation within primate groups and serves as the emotional foundation for human fairness and caring; argues that human biological nature is profoundly social and empathetic;  argues that the cognitive overlay of human morality is built upon the emotional scaffolding provided by our evolutionary history. Our moral reasoning often serves to justify or rationalize instincts of fairness and care that arose long before abstract thought.**
-
+* Joseph Henrich (*The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter, 2016.*) **The central argument of the book is that the primary reason for humanity's ecological dominance isn't our raw, individual intelligence but our species' unique ability for cumulative cultural evolution, capacity for cumulative culture;  We can learn by observing and imitating others, allowing beneficial ideas, technologies, and behaviors to accumulate over generations. One person improves the fishhook, the next generation learns that improved design and adds a better line, and so on. This "ratcheting up" of complexity means that no single person has to reinvent the wheel. We are constantly standing on the shoulders of our ancestors' knowledge;  argues that our intelligence is distributed across our social networks. The real engine of innovation is the "collective brain" of a community; The larger and more interconnected a group is, the more cultural knowledge it can generate and maintain; presents prestige and conformity biases as adaptive shortcuts: humans tend to copy the prestige, successful or the majority to acquire proven behaviors and social norms; he argues that population too small may fail to maintain complex knowledge across time.**
 
 ####  Environmental Science
 
