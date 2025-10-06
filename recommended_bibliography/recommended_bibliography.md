@@ -71,7 +71,8 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 
 * Eric R. Kandel, John D. Koester, Sarah H. Mack, Steven A. Siegelbaum (*Principles of Neural Science, Sixth Edition, 2021.*)
 * Friston, K.  (*The free-energy principle: a unified brain theory? Nature Reviews Neuroscience, 2010.*)
-* Thomas Metzinger (Being No One: The Self-Model Theory of Subjectivity, 2003.)
+* Thomas Metzinger (*Being No One: The Self-Model Theory of Subjectivity, 2003.*)
+* Anil Seth (*Being You: A New Science of Consciousness, 2021.*) **argues for a shift in perspective, moving away from philosophy’s traditional focus on the “Hard Problem” of consciousness (why subjective experience exists at all) toward what Seth calls the "Real Problem"—explaining why a given brain activity pattern maps to a particular kind of subjective experience; What we perceive as reality—the colors, sounds, shapes, and feelings—is the brain’s best guess or "controlled hallucination" of what's out there. Sensory signals from the world only serve to constrain and update this internal prediction, ensuring the hallucination remains "controlled" (i.e., grounded in reality). A true hallucination, in this view, is simply a prediction that has become unconstrained by sensory data; that humans perceive the world not as it is, but as it is useful to us for the purposes of survival and reproductive fitness; allostasis (predictive regulation of the body's internal variables); about Conscious Self as the overall awareness of being the experiencer.**
 
 #### Biology
 
