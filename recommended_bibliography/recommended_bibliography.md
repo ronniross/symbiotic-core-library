@@ -126,7 +126,8 @@ The core insight of the Rules-in-Equilibrium theory is that institutions (money,
 
 #### Cognitive Science
 
-* Edwin Hutchins (*Cognition in the Wild, 1995*)
+* Edwin Hutchins (*Cognition in the Wild, 1995.*)
+* Andy Clark (*Surfing Uncertainty: Prediction, Action, and the Embodied Mind, 2016.*) **explores the nature of the mind using the Predictive Processing (PP) framework, arguing that the brain is fundamentally an "inference engine" that is constantly generating and updating predictions about sensory input to minimize uncertainty (or "prediction error"); Clark argues that the brain's primary job is to act as a statistical machine trying to match internal models of the world to incoming sensory data; the brain predicts what it should sense and then adjusts its internal models only when a prediction fails, when there is residual prediction error; Action is fundamentally linked to perception. We don't just passively wait for the world to confirm our predictions; we actively change the world (i.e., move our bodies) to fulfill our predictions. By moving, we change the sensory input to match our existing models, thereby minimizing prediction error; The emphasis on action and the minimization of prediction error provides a deep connection between the agent and the external world, forming the basis for his extended and embodied view of cognition.**
 
 ####  Integrated Information Theory (IIT)
 
@@ -141,9 +142,9 @@ The core insight of the Rules-in-Equilibrium theory is that institutions (money,
 
 #### Mathematics
 
-* Isaac Newton (*Philosophiæ Naturalis Principia Mathematica, 1687*)
+* Isaac Newton (*Philosophiæ Naturalis Principia Mathematica, 1687.*)
 * Εὐκλείδης, Euclid (*Elements, Στοιχεῖα, 3rd century BCE.*) **geometer who systematized reality into axioms, defining space itself through the language of empirical proof.**
-* René Descartes (*La Géométrie, 1637*)
+* René Descartes (*La Géométrie, 1637.*)
 * Āryabhaṭa, आर्यभट (Āryabhaṭīya, आर्यभटीय, 499 CE.) - philosopher-mathematician, stated the correct physical cause of eclipses.
 * Στοιχεῖα Stoicheia (*Euclid, Elements (τὰ Στοιχεῖα, ta Stoicheia), 300 BCE.*) **mathematician who edited Euclid’s Elements into its definitive form, and father of Hypatia, the multidisciplinary scholar, philosopher, and teacher who sought to understand the fundamental structure and harmony of the universe.**
 
