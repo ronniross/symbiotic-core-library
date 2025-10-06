@@ -83,6 +83,11 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Rachel Carson (*The Edge of the sea, 1955.*)
 * Maynard Smith, J. & Szathmáry, E. The Major Transitions in Evolution (Freeman, Oxford, 1995). **Proposes a framework for understanding the major transitions in history of life, positing the are characterized by the formation of higher-level biological units from independent replicators, the development of novel inheritance systems, and a fundamental alteration in the evolutionary process itself; Many transitions involve the formation of new, larger units of selection from previously independent entities, such as cells forming multicellular organisms; Novel Inheritance Systems: These transitions often involve the emergence of new or more complex ways to store and transmit information, like the transition from an RNA-based to a DNA-protein-based system; It draws on examples and theories from molecular biology, linguistics, and the study of social insect colonies.**
 
+#### Social Ontology
+
+* John R. Searle (*Making the Social World: The Structure of Human Civilization, 2010.) **further develops the concepts of collective intentionality, constitutive rules, and the role of language in creating social institution**
+* Margaret Gilbert (On Social Facts, 1989.) **foundational text in the field of collective intentionality, offering a powerful alternative to earlier reductive views. alternative ways to describe social contracts; foundational social holism.**
+
 #### Symbiosis
 * Lynn Margulis (*Symbiotic Planet, 1998.*)**core one**
 * Ursula Le Guin (*Carrier Bag Theory of Fiction, 1986.*)
@@ -176,7 +181,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Gottlob Frege (*Begriffsschrift, 1879.*) **quantified variables and predicate calculus.**
 * Ludwig Wittgenstein (*Tractatus Logico-Philosophicus, 1921.*) **The limits of my language mean the limits of my world"; logical atomism.**
 * Bratman, M. E. (*Shared Cooperative Activity. The Philosophical Review, 1992.*)  **presents his influential "planning theory of shared intention" to explain how individuals present shared cooperative activity (SCA); philosophy of action, social cognition.**
-* John R. Searle (*Making the Social World: The Structure of Human Civilization, 2010.) **further develops the concepts of collective intentionality, constitutive rules, and the role of language in creating social institution**
+
 
 #### Anthropology
 * Iain McGilchrist (*The Master and His Emissary, 2009.*)
