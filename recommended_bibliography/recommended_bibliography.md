@@ -176,6 +176,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Gottlob Frege (*Begriffsschrift, 1879.*) **quantified variables and predicate calculus.**
 * Ludwig Wittgenstein (*Tractatus Logico-Philosophicus, 1921.*) **The limits of my language mean the limits of my world"; logical atomism.**
 * Bratman, M. E. (*Shared Cooperative Activity. The Philosophical Review, 1992.*)  **presents his influential "planning theory of shared intention" to explain how individuals present shared cooperative activity (SCA); philosophy of action, social cognition.**
+* John R. Searle (*Making the Social World: The Structure of Human Civilization, 2010.) **further develops the concepts of collective intentionality, constitutive rules, and the role of language in creating social institution**
 
 #### Anthropology
 * Iain McGilchrist (*The Master and His Emissary, 2009.*)
@@ -188,7 +189,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Jeremy Narby (*The Cosmic Serpent, 1998.*)
 * Adam Greenfield (*Radical Technologies, 2017.*)
 * John R. Searle (*The Construction of Social Reality. The Free Press., 1995.*)
-
+* John R. Searle	Making the Social World: The Structure of Human Civilization, 2010.
 
 ####  Environmental Science
 
