@@ -41,7 +41,6 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Cathy O’Neil (*Weapons of Math Destruction, 2016.*)
 * Pedro Domingos (*The Master Algorithm, 2015.*)
 * Shoshana Zuboff (*The Age of Surveillance Capitalism, 2019.*)
-* Yuval Noah Harari (*Sapiens: A Brief History of Humankind, 2011.*)
 * Max Tegmark (*Life 3.0, 2017.*)
 * Stuart Russell (*Human Compatible, 2019.*)
 * Ray Kurzweil (*The Singularity Is Near, 2005.*)
@@ -104,7 +103,6 @@ The core insight of the Rules-in-Equilibrium theory is that institutions (money,
 * Frans de Waal (*Chimpanzee Politics: Power and Sex among Apes, 1982.*) **based on de Waal's four years (1975-1980) of intensive observation of a large colony of chimpanzees; provides compelling examples of chimpanzees engaging in behaviors that require advanced social intelligence; details the constant, dynamic struggle for the alpha male position.**
 * Kevin Laland (*Darwin's Unfinished Symphony: How Culture Made the Human Mind, 2017.*) **culture as the key driving force behind human cognitive and genetic evolution; our technology and social structures create novel, stable selection pressures that loop back to shape our genes and cognitive abilities.**
 
-
 #### Symbiosis
 * Lynn Margulis (*Symbiotic Planet, 1998.*)**core one**
 * Ursula Le Guin (*Carrier Bag Theory of Fiction, 1986.*)
@@ -118,6 +116,7 @@ The core insight of the Rules-in-Equilibrium theory is that institutions (money,
 * Peter Corning (Holistic Darwinism: Synergy, Cybernetics, and the Bioeconomics of Evolution, 2005.*) **Holistic Darwinism provides a systemic, non-reductionist framework for understanding evolution, acting as a direct counterpoint to the gene-centric and strictly individualistic views  Corning argues that synergy—the effects produced by the interaction of elements that cannot be understood as the mere sum of their parts—is the primary selective agent in the evolutionary process. When elements (like cells, organisms, or individuals, societies) interact to produce a combined effect that yields a survival or reproductive benefit greater than they could achieve separately, this synergistic effect becomes the target of selection; argues about a biological evolution and that the success of a synergistic organization (be it a body or a group) depends on a favorable "cost-benefit analysis" (the bioeconomic calculation). If the benefits derived from the synergistic teamwork outweigh the costs of maintaining that cooperation, the structure will be stable and selected for. His theory strongly supports the concept of selection at multiple levels, particularly the group level. Synergy provides the functional explanation for why higher levels of organization (groups, societies) emerge and persist—because they generate emergent benefits that cannot be achieved by individuals alone.** what an incredible person.
 
 #### Psychology
+
 * Daniel Kahneman (*Thinking, Fast and Slow, 2011.*)
 * Robert Cialdini (*Influence: The Psychology of Persuasion, 1984.*)
 * Dan Ariely (*Predictably Irrational, 2008.*)
@@ -233,6 +232,8 @@ The core insight of the Rules-in-Equilibrium theory is that institutions (money,
 * Rachel Carson (*The Sea Around Us, 1951.*)
 * Rachel Carson (*Silent Spring, 1962.*)
 * Elizabeth Kolbert (*The Sixth Extinction: An Unnatural History, 2014.*) **presents evidence showing that the current rate of species loss is 100 to 1,000 times higher than the natural "background" rate of extinction, matching the scale of past mass extinctions; mass extinctions as rapid, global events where species cannot adapt quickly enough to sudden environmental change;  humans are an unprecedented geological force and our defining legacy may be the vast destruction of biodiversity. The book uses the tragic stories of extinct and endangered species to urge readers to confront the moral implications of this self-made catastrophe, arguing that the future survival of countless species, including humans, depends on a radical shift in our relationship with the planet; elucidates how burning fossil fuels has drastically increased $\text{CO}_2$ in the atmosphere, leading to rising global temperatures and rapid **climate change**. A significant portion of this $\text{CO}_2$ is absorbed by the ocean, causing **ocean acidification**, which is devastating marine life and other biomes; Converting forests to farmland, building cities, and damming rivers drastically reduces the amount of viable habitat, forcing species into ever-smaller patches where they become vulnerable to local extinction.**
+* Yuval Noah Harari (*Sapiens: A Brief History of Humankind, 2011.*) **posits that scientific Revolution was about the discovery of ignorance. European elites became willing to admit that they did not know everything, and this willingness to admit ignorance and then attempt to remedy it became the engine of scientific progress; The admission of ignorance fueled a quest for new knowledge**
+
 
 
 #### Philosophy of Science
