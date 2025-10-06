@@ -87,6 +87,8 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 
 * John R. Searle (*Making the Social World: The Structure of Human Civilization, 2010.) **further develops the concepts of collective intentionality, constitutive rules, and the role of language in creating social institution**
 * Margaret Gilbert (On Social Facts, 1989.) **foundational text in the field of collective intentionality, offering a powerful alternative to earlier reductive views. alternative ways to describe social contracts; foundational social holism.**
+* Raimo Tuomela (Social Ontology: Collective Intentionality and Group Agents, 2013.) **seeks a middle ground or a more nuanced classification about collective aim than the reductive/non-reductive dichotomy; Aristotle's Mesotēs analog.**
+
 
 #### Symbiosis
 * Lynn Margulis (*Symbiotic Planet, 1998.*)**core one**
