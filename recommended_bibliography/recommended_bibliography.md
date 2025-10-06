@@ -85,6 +85,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 #### Sociology
 
 * Émile Durkheim (*The Rules of Sociological Method, 1895.*)
+* Pierre Bourdieu (*Outline of a Theory of Practice, 1977.*)  **aim to reconcile the opposition between structure (objective social rules and constraints) and individual agency through a set of interconnected concepts.**
 
 #### Social Ontology and Evolutionary Sociology
 
