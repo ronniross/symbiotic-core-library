@@ -73,6 +73,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 
 * Eric R. Kandel, John D. Koester, Sarah H. Mack, Steven A. Siegelbaum (*Principles of Neural Science, Sixth Edition, 2021.*)
 * Friston, K.  (*The free-energy principle: a unified brain theory? Nature Reviews Neuroscience, 2010.*)
+* Thomas Metzinger (Being No One: The Self-Model Theory of Subjectivity, 2003.)
 
 #### Biology
 
@@ -83,13 +84,14 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Rachel Carson (*The Edge of the sea, 1955.*)
 * Maynard Smith, J. & Szathmáry, E. The Major Transitions in Evolution (Freeman, Oxford, 1995). **Proposes a framework for understanding the major transitions in history of life, positing the are characterized by the formation of higher-level biological units from independent replicators, the development of novel inheritance systems, and a fundamental alteration in the evolutionary process itself; Many transitions involve the formation of new, larger units of selection from previously independent entities, such as cells forming multicellular organisms; Novel Inheritance Systems: These transitions often involve the emergence of new or more complex ways to store and transmit information, like the transition from an RNA-based to a DNA-protein-based system; It draws on examples and theories from molecular biology, linguistics, and the study of social insect colonies.**
 
-#### Social Ontology
+#### Social Ontology and Evolutionary Sociology
 
 * John R. Searle (*Making the Social World: The Structure of Human Civilization, 2010.) **further develops the concepts of collective intentionality, constitutive rules, and the role of language in creating social institution**
 * Margaret Gilbert (On Social Facts, 1989.) **foundational text in the field of collective intentionality, offering a powerful alternative to earlier reductive views. alternative ways to describe social contracts; foundational social holism.**
 * Raimo Tuomela (Social Ontology: Collective Intentionality and Group Agents, 2013.) **seeks a middle ground or a more nuanced classification about collective aim than the reductive/non-reductive dichotomy; Aristotle's Mesotēs analog.**
 * Frank Hindriks (Institutions, Action and Collective Intentionality, 2019.) **seeks to provide a explanation for the functionality and persistence of large-scale social systems.
-The core insight of the Rules-in-Equilibrium theory is that institutions (money, law, and corporations) are not sustained by mere collective thought or good intentions alone; they are sustained by rational self-interest within a shared system; the system itself creates incentives (punishments, rewards, utility) that lock in the behavior of individuals, guaranteeing stability at the societal scale; **
+The core insight of the Rules-in-Equilibrium theory is that institutions (money, law, and corporations) are not sustained by mere collective thought or good intentions alone; they are sustained by rational self-interest within a shared system; the system itself creates incentives (punishments, rewards, utility) that lock in the behavior of individuals, guaranteeing stability at the societal scale;**
+*Liane Gabora (The Cultural Evolution of Organizations and the Evolution of Cultural Complexity, Ongoing research/collections Last Verified Oct 2025.) **cultural algorithms; how novelty is generated, selected, and retained in human culture. She often draws parallels between biological and cultural change, but emphasizes the unique role of human cognition in driving the latter. The The Contextual Focus Hypothesis CFH posits that when a thinker enters a divergent, associative, or non-focused state  it allows them to retrieve information from memory that is related contextually rather than strictly logically. This non-local retrieval is the primary mechanism for generating genuine conceptual novelty and creative insight.; heyyy here why I love so much to sometimes write in stream of consciousness and create those brainstoming.md docs during research.**
 
 #### Evolutionary Biology
 
@@ -210,11 +212,10 @@ The core insight of the Rules-in-Equilibrium theory is that institutions (money,
 * John R. Searle (*The Construction of Social Reality. The Free Press., 1995.*)
 * John R. Searle	(*Making the Social World: The Structure of Human Civilization, 2010.*)
 
-####  Evolutionary Anthropology and Biology
+####  Evolutionary Anthropology
 
 
 * Michael Tomasello (A Natural History of Human Morality, 2016.) **explores the evolutionary pathway that led humans from being merely social animals to being highly cooperative, moral, and cultural beings. His work is centrally focused on the unique cognitive steps taken by the human lineage. Shared Intentionality: This is Tomasello's core concept. It describes the ability of humans to collaborate with others on shared goals in a way that involves joint attention (looking at the same thing together), joint goals (a we intention), and shared background knowledge. Tomasello's theory directly challenges purely individualistic or purely gene-centric accounts of cooperation by centering on cognition and culture. Tomasello emphasizes that the selection pressure was for unique cognitive and motivational abilities (shared intentionality) that predate and then drive cultural evolution. It is the ability to create shared reality that allows cooperation to scale up. The arguments in this book are grounded in decades of meticulous comparative research with great apes and human children. By comparing the cognitive abilities of chimpanzees (who show forms of cooperation but lack true shared intentionality.**
-
 
 ####  Environmental Science
 
