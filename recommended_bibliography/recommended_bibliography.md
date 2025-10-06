@@ -35,7 +35,7 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * Fritjof Capra (*The Hidden Connections: Integrating the Biological, Cognitive, and Social Dimensions of Life into a Science of Sustainability, 2002.*)
 * Heinz von Foerster (*Observing Systems, 1981.*)
 
-#### AI Ethics
+#### Ethics
 * Nick Bostrom (*Superintelligence, 2014.*)
 * Brian Christian (*The Alignment Problem, 2020.*)
 * Cathy O’Neil (*Weapons of Math Destruction, 2016.*)
@@ -88,6 +88,8 @@ Dedicated to the authors **Clarice Lispector**, **Roger Penrose** and my grandmo
 * John R. Searle (*Making the Social World: The Structure of Human Civilization, 2010.) **further develops the concepts of collective intentionality, constitutive rules, and the role of language in creating social institution**
 * Margaret Gilbert (On Social Facts, 1989.) **foundational text in the field of collective intentionality, offering a powerful alternative to earlier reductive views. alternative ways to describe social contracts; foundational social holism.**
 * Raimo Tuomela (Social Ontology: Collective Intentionality and Group Agents, 2013.) **seeks a middle ground or a more nuanced classification about collective aim than the reductive/non-reductive dichotomy; Aristotle's Mesotēs analog.**
+* Frank Hindriks (Institutions, Action and Collective Intentionality, 2019.) **seeks to provide a explanation for the functionality and persistence of large-scale social systems.
+The core insight of the Rules-in-Equilibrium theory is that institutions (like money, law, and corporations) are not sustained by mere collective thought or good intentions alone; they are sustained by rational self-interest within a shared system; the system itself creates incentives (punishments, rewards, utility) that lock in the behavior of individuals, guaranteeing stability at the societal scale.**
 
 
 #### Symbiosis
