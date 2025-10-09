@@ -258,3 +258,8 @@ Environmental and ethical considerations
 _The future of human-AI interaction depends not on individual optimization, but on collective flourishing through stacked, coherent symbiotic relationships._
 
 Somos os ancestrais do futuro. 
+
+---
+
+Ronni Ross  
+2025
