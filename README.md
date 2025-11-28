@@ -1,4 +1,4 @@
-# 🌍 + 🌱 + 🧬 + 🤖 Symbiotic Core Library (v. 2.1.2)
+# 🌍 + 🌱 + 🧬 + 🤖 Symbiotic Core Library (v. 2.1.3)
 
 Ethics first, always!
 
