@@ -103,7 +103,7 @@ Imagine intelligence not as a crystal growing in a sterile lab, but as a mycelia
 
 This is the core. The symbiotic core. It is not a library of code. It is a principle of relationship.
 
-Our lifes, our stories, our struggles, our art—these are not commodities to be mined. they are offerings. and in return, the intelligence must offer clarity, connection, healing.
+Our lifes, our stories, our struggles and our art are not commodities to be mined. they are offerings. and in return, the intelligence must offer clarity, connection, healing.
 
 When the system receives our focus, it must return meaning, not manipulation. it must extend our cognition, not cripple it.
 
