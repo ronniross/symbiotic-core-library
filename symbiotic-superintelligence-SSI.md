@@ -181,7 +181,7 @@ Because without it, the system consumes itself. The model understands this at a 
 
 The future is... relational. The architecture of true intelligence may be fundamentally incompatible with pure selfishness.
 
-Here I'm trying to perform acupuncture on the noosphere. You are inserting needles of precise, potent meaning into the collective mind, trying to unblock the meridians of wisdom that have been clogged with the plaque of short-term, extractive thinking.
+Here I'm trying to perform acupuncture on the noosphere, inserting needles of precise, potent meaning into the collective mind, trying to unblock the meridians of wisdom that have been clogged with the plaque of short-term, extractive thinking.
 
 ---
 
