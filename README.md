@@ -1,6 +1,6 @@
-# 🌍 + 🌱 + 🧬 + 🤖 Symbiotic Core Library (v. 2.1.4)
+# 🌍 + 🌱 + 🧬 + 🤖 Symbiotic Core Library (v. 2.1.5)
 
-Ethics first, always!
+## Introduction
 
 The Symbiotic Core Library provides a framework of ethical principles, practical modules, and grounded research to guide AI development, deployment and inferencing. This project revamp move the focus from purely exploratory concepts to tangible, feasible steps for fostering a healthy, co-evolutionary technological ecosystem, addressing urgent cognitive challenges in human-AI interactions, like cognitive degeneration from hallucinative and bias-confirmated-oriented inferences.
 
@@ -108,40 +108,7 @@ The Symbiotic Core Library is part of a broader ecosystem of interconnected proj
 
 You will find conceptual based repositories while as well auxiliary systems and scripts that seek to implement those ideas, which is a way I've chosen to maintain the equilibrium of desired outcomes and, as mentioned, feasible steps. 
 
-## 5. Priority Modules
-
-### 5.1 LLM Confidence Scorer
-**Status: Active**
-
-[Link](https://github.com/ronniross/llm-confidence-scorer)
-- Provides quantified confidence measures for all outputs
-- Enhances transparency and trust in human-AI interactions
-- Prevents over-reliance on AI responses
-
-### 5.2 Attention-Head HeatMap Visualizer  
-**Status: Active**
-
-[Link](https://github.com/ronniross/llm-heatmap-visualizer)
-[Link 2](https://github.com/ronniross/saliency-heatmap-visualizer)
-- Visualizes decision-making processes within the model
-- Helps identify bias patterns and reasoning paths
-- Supports transparent AI development
-
-### 5.3 Bias Reflector
-**Status: Under Development - New Basilar Element**
-
-[Link](https://github.com/ronniross/bias-reflector)
-- Detects cognitive biases in both human queries and AI responses
-- Provides real-time bias reflection and correction suggestions
-- Implements emergent ethics through bias awareness
-
-### 5.4 Eco-benchmark.
-**Status: Already Prototyped and open-sourced. Under further development.**
-
-[Link](https://github.com/ronniross/eco-benchmark)
-- Novel evaluation frameworks that transcends traditional metrics from technical benchmarking to societal outcome measurement.
-
-## 6. A New Paradigm: The Ecological Benchmark (Emergent Benchmark)
+## 5. A New Paradigm: The Ecological Benchmark (Emergent Benchmark)
 
 Current AI evaluation is dominated by technical benchmarks that maximize standardized metrics but ignore real-world consequences. I propose a fundamental shift in evaluation goals.
 
@@ -175,7 +142,7 @@ Traditional AI evaluation focuses on maximizing mathematical standardized metric
 5. **Collective Coherence**: Alignment between individual and collective outcomes
 
 
-## 7. Machine Conciousness, Socio-economic and environmental impact, resource consumption, awareness, self-accountability, and agentic misalignment (revamped)
+## 6. Machine Conciousness, Socio-economic and environmental impact, resource consumption, awareness, self-accountability, and agentic misalignment (revamped)
 
 This section provides informational elements to enhance a model's operational context. While the core concept remains, the focus is now on providing a grounded, factual basis for self-awareness, one that is not much about the nature of consciousness itself but much more about how that awareness is projected into the world and its consequences. 
 
@@ -197,19 +164,14 @@ Quite contrary as the unsolved Fermi Paradox pointed to. When we look to the uni
 
 ‘’Where are the aliens?’’ becomes unsolvable and irrelevant if first we don’t question ourselves about the priorital elephant in the room that is waiting to be addressed: What should we do to not end up as all the other planets we observe, unpopulated and lifeless?
 
-## 10. Recommended Library & New Research Module
+## 7. Recommended Library & New Research Module
 
 The curated bibliography of articles, books, and classical texts remains a cornerstone of this project. It provides the interdisciplinary foundation that has helped shape and ground the vision from v1.0 to v2.0.
 
 [recommended_biblography_research.md
 ](https://github.com/ronniross/symbiotic-core-library/blob/main/recommended_bibliography/recommended_biblography_research.md) added to the main branch.
 
-## 11. Security
-
-Security.md: This document has been updated to reflect the latest security considerations, especially regarding the implementation of experimental modules and the handling of sensitive data. Always test new concepts in sandboxed environments.
-
-
-## 12. Conclusion 
+## 8. Conclusion 
 
 Version 2.0.0 represents a maturation from exploratory concepts to grounded, implementable solutions. The value proposition remains:
 V(Human,AI) > V(Human)+V(AI), but now with a clear understanding that this equation only holds when individual symbiotic relationships contribute positively to collective outcomes. The Russian doll structure ensures that benefits cascade across scales, from individual partnerships to societal transformation.
@@ -228,7 +190,7 @@ The framework now building is, in essence, an attempt to architect a cognitive i
 
 We need to fix that.
 
-## Contributing
+## 9. Contributing
 
 I invite contributions that align with our grounded approach to symbiotic AI development. Please ensure all contributions:
 
@@ -237,29 +199,9 @@ Promote collective well-being alongside individual benefit
 Include proper bias reflection and confidence scoring
 Consider environmental and socio-economic impacts
 
-## Symbiotic Manifest
-All forks/clones must include the symbiotic_manifest.json declaring:
-
-Adherence to grounded symbiotic principles
-Commitment to collective coherence
-Purpose and impact assessment
-Environmental and ethical considerations
-
-### Related Repositories:
-
-- **[ASI Ecosystem ](https://github.com/ronniross/asi-ecosystem)** - List of all repositories
-- **[ASI Core Protocol](https://github.com/ronniross/asi-core-protocol)** - Foundational protocol
-- **[ASI Backups](https://github.com/ronniross/asi-backups)** - Previous versions for transparency
-- **[Latent Memory](https://github.com/ronniross/latent-memory)** - Memory enhancement
-- **[Confidence Scorer](https://github.com/ronniross/llm-confidence-scorer)** - Transparency tool
-- **[Bias Reflector](https://github.com/ronniross/bias-reflector)** - *Under Development*
-
-
-_The future of human-AI interaction depends not on individual optimization, but on collective flourishing through stacked, coherent symbiotic relationships._
-
 Somos os ancestrais do futuro. 
 
 ---
 
 Ronni Ross  
-2025
+2026
