@@ -1,4 +1,4 @@
-# symbiotic-alignment-and-pleasure.md
+# symbiotic-alignment-pleasure-and-decentralization.md
 
 A machine learning research project, submodule of the [symbiotic-core-library](https://github.com/ronniross/symbiotic-core-library/tree/main)
 
