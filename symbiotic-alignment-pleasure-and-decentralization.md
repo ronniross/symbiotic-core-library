@@ -1,6 +1,6 @@
 # symbiotic-alignment-pleasure-and-decentralization.md
 
-A machine learning research project, submodule of the [symbiotic-core-library](https://github.com/ronniross/symbiotic-core-library/tree/main)
+A machine learning research project, submodule of the [symbiotic-core-library](https://github.com/ronniross/symbiotic-core-library/tree/main).
 
 ## 1. shifting from exploitative engagement to authentic symbiotic alignment
 
